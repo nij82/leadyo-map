@@ -1,13 +1,13 @@
 "use client";
 import { useState } from "react";
-import { browserClient } from "@/lib/supabase/browser";
+import { emailLinkClient } from "@/lib/supabase/browser";
 export function LoginForm({ enabled }: { enabled: boolean }) {
   const [email, setEmail] = useState(""),
     [sent, setSent] = useState(false),
     [busy, setBusy] = useState(false),
     [message, setMessage] = useState("");
   async function submit() {
-    const c = browserClient();
+    const c = emailLinkClient();
     if (!c) return;
     setBusy(true);
     setMessage("");
@@ -21,7 +21,7 @@ export function LoginForm({ enabled }: { enabled: boolean }) {
       });
       if (error) throw error;
       setSent(true);
-      setMessage("이메일로 보낸 링크를 이 브라우저에서 열어 주세요.");
+      setMessage("이메일로 보낸 링크를 열어 주세요.");
     } catch {
       setMessage("메일을 보내지 못했습니다. 잠시 후 다시 시도해 주세요.");
     } finally {
