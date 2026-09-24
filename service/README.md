@@ -1,6 +1,6 @@
 # Leadyo Map Service — 로컬 서비스 기반 v0.1
 
-독립 모집공고자 가입 모델의 Next.js/TypeScript 프로젝트입니다. 실제 서비스 코드는 이 `service/` 폴더에 있으며, 저장소 루트의 `index.html`은 이전 정적 프로토타입입니다. 이 디렉터리에는 데모 계정·가상 공고·역할 선택·내부 문의함·브라우저 DB가 없습니다.
+독립 모집공고자 가입 모델의 Next.js/TypeScript 프로젝트입니다. 실제 서비스 코드는 이 `service/` 폴더에 있으며, 이전 정적 프로토타입은 `demo-v0.26` 브랜치에 보관합니다. 이 디렉터리에는 데모 계정·가상 공고·역할 선택·내부 문의함·브라우저 DB가 없습니다.
 
 ## 실행
 
@@ -71,10 +71,10 @@ npm run build
 ## GitHub에서 새 웹 프로젝트 연결
 
 - 저장소: `nij82/leadyo-map`
-- 브랜치: `service-mvp`
+- 브랜치: `main`
 - 루트/Base directory: `service`
 - 프레임워크: Next.js
 - 설치: `npm ci` / 빌드: `npm run build`
 - 환경변수: `.env.example`의 항목을 호스팅 서비스에 별도로 입력합니다. `.env.local`은 Git에 포함하지 않습니다.
 
-기존 정적 사이트의 `main` 브랜치 배포 설정은 유지합니다. Supabase 프로젝트 생성과 DB 마이그레이션 적용은 웹 호스팅의 GitHub 연결과 별도 작업입니다.
+기존 정적 데모 배포를 유지하려면 호스팅에서 `demo-v0.26` 브랜치를 선택합니다. 새 서비스의 루트 디렉터리는 `service`입니다. Supabase 프로젝트 생성과 DB 마이그레이션 적용은 웹 호스팅의 GitHub 연결과 별도 작업입니다.
