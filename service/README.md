@@ -18,7 +18,7 @@ npm run dev
 
 - 비회원 지도 탐색 구조, 모집 대상/현장 검색, 모바일 전체 화면 현장 상세
 - 네이버 Maps Web SDK 어댑터: 마커, 군집 확대, 키 미설정·스크립트 오류 상태
-- Supabase 이메일 OTP 가입·로그인 코드, 쿠키 갱신, 서버 사용자 확인
+- Supabase 이메일 링크 가입·로그인, 콜백 세션 처리, 쿠키 갱신, 서버 사용자 확인
 - 최초 모집자 정보, 내 공고 등록·수정·종료·재게시 및 현장 등록 요청
 - 전화 공개 동의, `tel:` 연락, 선택형 카카오 오픈채팅 링크 검증
 - 운영자 공고 상태 변경, 회원 정지·해제, 현장 생성·수정 및 운영 기록 화면
@@ -30,7 +30,7 @@ npm run dev
 
 1. 독립 Supabase **테스트 프로젝트** 생성 후 URL와 publishable key를 `.env.local`에 입력합니다. 실제 운영 DB와 분리합니다. `service_role` 키는 이 앱에서 사용하지 않습니다.
 2. `supabase/migrations/`의 SQL을 테스트 DB에 적용합니다. 로컬 테스트는 PGlite(PostgreSQL 엔진)로 검증했으며 실제 Supabase 전체 스택·Advisors 검사는 연결 후 진행해야 합니다.
-3. Supabase Auth에서 이메일 확인을 활성화합니다. 가입 확인/매직링크 메일 모두 `supabase/templates/otp.html`의 `{{ .Token }}`으로 인증번호를 발송하도록 설정합니다. 운영 이메일은 별도 SMTP가 필요합니다. 발송 한도와 봇 방지 설정도 검증합니다.
+3. Supabase Auth에서 이메일 확인을 활성화하고 `http://127.0.0.1:3100/auth/confirm`을 Redirect URLs에 추가합니다. 기본 이메일 링크 템플릿을 사용합니다. 기본 발송은 프로젝트 팀 구성원 주소로 제한되므로 공개 가입 전에는 별도 SMTP가 필요합니다. 발송 한도와 봇 방지 설정도 검증합니다.
 4. 실제 이용약관·개인정보 처리 안내 URL과 `LEGAL_VERSION`을 설정합니다. 미설정 상태에서는 모집자 프로필 등록을 막습니다. 법적 문서는 임의로 작성하지 않았습니다.
 5. 네이버 클라우드 **Maps** 상품에서 Web Dynamic Map 앱을 등록합니다. `NEXT_PUBLIC_NAVER_MAP_CLIENT_ID`에 앱 키를 입력하고 로컬/테스트/운영 도메인을 허용합니다. 서버용 Secret은 브라우저 환경변수에 넣지 않습니다.
 6. 관리자도 먼저 실제 이메일로 가입하고 프로필을 만든 뒤, DB 소유자가 해당 UUID의 `private.member_access.role`만 `admin`으로 지정합니다. 사용자 메타데이터나 이메일 문자열로 관리자 권한을 부여하지 않습니다.
@@ -61,7 +61,7 @@ npm run build
 
 ## 출시 전 남은 범위
 
-- 실제 Supabase RLS/Advisors, SMTP 도달, OTP 재시도·만료, 세션 만료 E2E
+- 실제 Supabase RLS/Advisors, 이메일 링크 발송·만료, 세션 만료 E2E
 - 네이버 Maps 실 좌표·밀집 군집·최대 확대 QA, 서버 Geocoding 연결
 - 비회원 신고 접수: CAPTCHA 검증 + DB 기반 요청 제한 후 서버 저장 (직접 anon INSERT는 차단)
 - 현장 요청 처리 완료 동작/중복 요청 방지, 관리자 목록 페이지네이션·검색

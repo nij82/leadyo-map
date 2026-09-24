@@ -13,7 +13,7 @@ RootLayout
       Summary (scrolls)
       ListingCard / PropertyDetails
       Phone / KakaoContact
-  LoginForm (email OTP)
+  LoginForm (email login link)
   Account / RecruiterProfile
   Manage
     ListingForm
