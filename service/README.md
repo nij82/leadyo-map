@@ -26,6 +26,8 @@ npm run dev
 
 ## 외부 연결 순서
 
+이메일 인증의 원격 대시보드 설정과 테스트 순서는 [AUTH_SETUP.md](docs/AUTH_SETUP.md)를 참고하세요.
+
 1. 독립 Supabase **테스트 프로젝트** 생성 후 URL와 publishable key를 `.env.local`에 입력합니다. 실제 운영 DB와 분리합니다. `service_role` 키는 이 앱에서 사용하지 않습니다.
 2. `supabase/migrations/`의 SQL을 테스트 DB에 적용합니다. 로컬 테스트는 PGlite(PostgreSQL 엔진)로 검증했으며 실제 Supabase 전체 스택·Advisors 검사는 연결 후 진행해야 합니다.
 3. Supabase Auth에서 이메일 확인을 활성화합니다. 가입 확인/매직링크 메일 모두 `supabase/templates/otp.html`의 `{{ .Token }}`으로 인증번호를 발송하도록 설정합니다. 운영 이메일은 별도 SMTP가 필요합니다. 발송 한도와 봇 방지 설정도 검증합니다.
