@@ -6,12 +6,12 @@
 RootLayout
   Header (현재 인증 상태에 따른 메뉴)
   Explorer
-    Search / RoleFilter
+    Search / RegionFilter / ProductFilter / RoleFilter / SupportFilter
     ProjectList (desktop)
     NaverMap
     ProjectDetail (mobile fullscreen)
       Summary (scrolls)
-      ListingCard / PropertyDetails
+      TypedListingCard / ProductDetails
       Phone / KakaoContact
   LoginForm (email login link)
   Account / RecruiterProfile
@@ -27,4 +27,6 @@ RootLayout
 
 보안 판단은 서버 액션에서 검증하고 DB RLS/트리거로 반복 강제. 민감한 역할·정지 정보는 private 스키마에 둠. `private.owner_active`는 공개 공고 조회를 위해 상태를 boolean으로만 노출하는 의도적 helper이며 테이블 행은 노출하지 않음. 운영 조치 RPC는 auth.uid와 현재 관리자 상태 확인 후 트랜잭션 안에서 조치+기록을 수행.
 
-데이터 스키마 단일 원본은 supabase/migrations/*.sql. 테스트용 데이터는 tests 안에서만 생성하며 운영 seed가 없음. 외부 서비스 미연결 상태이므로 출시 완료로 간주하지 않음.
+데이터 스키마 단일 원본은 supabase/migrations/*.sql. 테스트용 데이터는 tests 안에서만 생성하며 운영 seed가 없음. 로컬 코드·마이그레이션 검증과 운영 DB 적용·배포는 별도 단계다.
+
+공고의 `product_type`, `rate_options`, `supports`는 필터와 상세 카드가 공유하는 구조화된 데이터다. 기존 `rates`와 `support`는 이전 공고 호환용으로 유지한다. 새 공고의 `rates`에는 첫 타입의 금액을 저장하되 화면에서는 `rate_options`만 기준으로 표시한다. 기존 공고의 새 필드를 추정해 채우지 않는다.

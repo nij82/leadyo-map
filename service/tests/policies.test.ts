@@ -9,16 +9,13 @@ const alice = "11111111-1111-4111-8111-111111111111",
   post = "55555555-5555-4555-8555-555555555555";
 test("PostgreSQL RLS: public reads, ownership, moderation, suspension and audit", async () => {
   const db = new PGlite();
+  const migrations = (await readdir("supabase/migrations"))
+    .filter((file) => file.endsWith(".sql"))
+    .sort();
   await db.exec(
     `create role anon;create role authenticated;create schema auth;create table auth.users(id uuid primary key,email_confirmed_at timestamptz);create function auth.uid() returns uuid language sql stable as $$ select nullif(current_setting('request.jwt.claim.sub',true),'')::uuid $$;grant usage on schema auth,public to anon,authenticated;grant execute on function auth.uid() to anon,authenticated;`,
   );
-  await db.exec(
-    await readFile(
-      "supabase/migrations/" +
-        (await readdir("supabase/migrations")).find((f) => f.endsWith(".sql")),
-      "utf8",
-    ),
-  );
+  await db.exec(await readFile("supabase/migrations/" + migrations[0], "utf8"));
   await db.exec(
     `insert into auth.users values('${alice}',now()),('${bob}',now()),('${admin}',now());`,
   );
@@ -45,6 +42,80 @@ test("PostgreSQL RLS: public reads, ownership, moderation, suspension and audit"
   await as(alice);
   await db.exec(
     `insert into public.listings(id,project_id,owner_id,organization,workplace,rates,payment,trigger_condition,clawback,phone,phone_consent) values('${post}','${project}','${alice}','모집팀','근무지','[{"role":"member","amount":650}]','익월','계약','환수','010-0000-0000',true);`,
+  );
+  await as(null, "postgres");
+  for (const file of migrations.slice(1))
+    await db.exec(await readFile("supabase/migrations/" + file, "utf8"));
+  const legacy = await db.query<{
+    product_type: string | null;
+    rate_options: unknown;
+    supports: unknown;
+  }>(
+    `select product_type, rate_options, supports from public.listings where id='${post}'`,
+  );
+  assert.equal(legacy.rows[0].product_type, null);
+  assert.equal(legacy.rows[0].rate_options, null);
+  assert.equal(legacy.rows[0].supports, null);
+  await as(alice);
+  await assert.rejects(
+    db.exec(
+      `insert into public.listings(project_id,owner_id,organization,workplace,rates,payment,trigger_condition,clawback,phone,phone_consent) values('${project}','${alice}','새 공고','근무지','[{"role":"member","amount":650}]','익월','계약','환수','010-0000-0000',true);`,
+    ),
+  );
+  const supportStates = Object.fromEntries(
+    ["ad", "db", "daily", "housing", "meal"].map((key) => [
+      key,
+      { status: "unknown", detail: "" },
+    ]),
+  );
+  const created = await db.query<{ id: string }>(
+    `insert into public.listings(project_id,owner_id,organization,workplace,rates,product_type,rate_options,supports,payment,trigger_condition,clawback,phone,phone_consent)
+     values($1,$2,'새 공고','근무지',$3::jsonb,'officetel',$4::jsonb,$5::jsonb,'월 2회 지급','계약금 완납','해약 시 환수','010-0000-0000',true) returning id`,
+    [
+      project,
+      alice,
+      JSON.stringify([{ role: "team", amount: 480 }]),
+      JSON.stringify([{ label: "", rates: [{ role: "team", amount: 480 }] }]),
+      JSON.stringify(supportStates),
+    ],
+  );
+  assert.equal(created.rows.length, 1);
+  await as(null, "postgres");
+  const duplicateBlankTypes = await db.query<{ valid: boolean }>(
+    `select private.valid_rate_options($1::jsonb) as valid`,
+    [
+      JSON.stringify([
+        { label: "", rates: [{ role: "team", amount: 480 }] },
+        { label: "", rates: [{ role: "member", amount: 300 }] },
+      ]),
+    ],
+  );
+  assert.equal(duplicateBlankTypes.rows[0].valid, false);
+  await db.query("delete from public.listings where id=$1", [
+    created.rows[0].id,
+  ]);
+  const request = "66666666-6666-4666-8666-666666666666";
+  await as(alice);
+  await db.exec(
+    `insert into public.site_requests(id,owner_id,name,address) values('${request}','${alice}','신규 현장','확인할 주소');`,
+  );
+  await as(bob);
+  assert.equal(
+    (
+      await db.query(
+        `update public.site_requests set status='resolved' where id='${request}' returning id`,
+      )
+    ).rows.length,
+    0,
+  );
+  await as(admin);
+  assert.equal(
+    (
+      await db.query(
+        `update public.site_requests set status='resolved' where id='${request}' returning id`,
+      )
+    ).rows.length,
+    1,
   );
   await as(null, "anon");
   assert.equal(

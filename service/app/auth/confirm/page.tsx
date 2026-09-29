@@ -30,14 +30,14 @@ export default function ConfirmEmailLink() {
       .setSession({ access_token, refresh_token })
       .then(({ error }) => {
         if (error) window.location.replace("/login?error=link");
-        else window.location.replace("/account");
+        else window.location.replace("/auth/set-password");
       })
       .catch(() => window.location.replace("/login?error=link"));
   }, []);
 
   return (
     <main id="main" className="content narrow">
-      <h1>이메일 로그인</h1>
+      <h1>이메일 인증</h1>
       <p role="status">{message}</p>
     </main>
   );

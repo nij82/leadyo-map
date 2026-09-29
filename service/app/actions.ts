@@ -3,6 +3,11 @@ import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
 import { identity, serverClient } from "@/lib/supabase/server";
 import { listingSchema, profileSchema } from "@/lib/validation";
+import {
+  productLabels,
+  type ProductType,
+  type ProjectProductDetail,
+} from "@/lib/types";
 export type ActionState = { message: string; ok?: boolean };
 const fail = (message: string): ActionState => ({ message });
 export async function saveProfile(
@@ -11,15 +16,12 @@ export async function saveProfile(
 ): Promise<ActionState> {
   const { client, user, profile } = await identity();
   if (!client || !user) return fail("로그인 후 이용해 주세요.");
-  if (
-    !process.env.LEGAL_VERSION ||
-    !process.env.NEXT_PUBLIC_TERMS_URL ||
-    !process.env.NEXT_PUBLIC_PRIVACY_URL
-  )
+  if (!profile && !process.env.LEGAL_VERSION)
     return fail("가입 안내를 준비하고 있습니다.");
   const parsed = profileSchema.safeParse({
     ...Object.fromEntries(form),
-    consent: form.get("consent") === "on",
+    terms_consent: !!profile || form.get("terms_consent") === "on",
+    privacy_consent: !!profile || form.get("privacy_consent") === "on",
   });
   if (!parsed.success) return fail(parsed.error.issues[0].message);
   const { name, organization, phone } = parsed.data;
@@ -28,18 +30,17 @@ export async function saveProfile(
         .from("profiles")
         .update({ name, organization, phone })
         .eq("id", user.id)
-    : await client
-        .from("profiles")
-        .insert({
-          id: user.id,
-          name,
-          organization,
-          phone,
-          legal_version: process.env.LEGAL_VERSION,
-        });
+    : await client.from("profiles").insert({
+        id: user.id,
+        name,
+        organization,
+        phone,
+        legal_version: process.env.LEGAL_VERSION,
+      });
   if (result.error)
     return fail("저장하지 못했습니다. 계정 상태를 확인해 주세요.");
   revalidatePath("/");
+  revalidatePath("/account");
   return {
     message: "모집공고자 정보를 저장했습니다. 내 공고에서 등록할 수 있습니다.",
     ok: true,
@@ -57,20 +58,26 @@ export async function saveListing(
   const { client, user, profile } = await identity();
   if (!client || !user || !profile)
     return fail("모집공고자 정보를 먼저 등록해 주세요.");
-  let rates;
+  let rate_options, supports;
   try {
-    rates = JSON.parse(String(form.get("rates")));
+    rate_options = JSON.parse(String(form.get("rate_options")));
+    supports = JSON.parse(String(form.get("supports")));
   } catch {
-    return fail("모집 금액을 확인해 주세요.");
+    return fail("모집 금액과 지원 조건을 확인해 주세요.");
   }
   const parsed = listingSchema.safeParse({
     ...Object.fromEntries(form),
-    rates,
+    rate_options,
+    supports,
     phone_consent: form.get("phone_consent") === "on",
   });
   if (!parsed.success) return fail(parsed.error.issues[0].message);
   const id = String(form.get("id") || ""),
-    value = { ...parsed.data, kakao_url: parsed.data.kakao_url || null };
+    value = {
+      ...parsed.data,
+      rates: parsed.data.rate_options[0].rates,
+      kakao_url: parsed.data.kakao_url || null,
+    };
   const result = id
     ? await client
         .from("listings")
@@ -150,7 +157,27 @@ export async function operatorAction(
   if (result.error)
     return fail("처리할 수 없습니다. 대상의 상태를 확인해 주세요.");
   revalidatePath("/");
+  revalidatePath("/admin");
   return { message: "처리 내용과 사유를 저장했습니다.", ok: true };
+}
+export async function resolveSiteRequest(
+  _: ActionState,
+  form: FormData,
+): Promise<ActionState> {
+  const { client, admin } = await identity();
+  if (!client || !admin) return fail("운영 권한이 필요합니다.");
+  const id = String(form.get("id") || "");
+  const { data, error } = await client
+    .from("site_requests")
+    .update({ status: "resolved" })
+    .eq("id", id)
+    .eq("status", "pending")
+    .select("id")
+    .single();
+  if (error || !data)
+    return fail("요청을 처리하지 못했습니다. 상태를 확인해 주세요.");
+  revalidatePath("/admin");
+  return { message: "현장 요청을 확인 완료로 표시했습니다.", ok: true };
 }
 export async function saveProject(
   _: ActionState,
@@ -173,9 +200,34 @@ export async function saveProject(
     longitude > 132
   )
     return fail("현장명·주소·국내 좌표를 확인해 주세요.");
+  const showroomAddress = String(form.get("showroom_address") || "").trim();
+  const detailKeys = [
+    "units",
+    "types",
+    "price",
+    "move_in",
+    "deposit",
+    "interim",
+  ] as const;
+  const productDetails: Partial<Record<ProductType, ProjectProductDetail>> = {};
+  for (const type of Object.keys(productLabels) as ProductType[]) {
+    const detail = Object.fromEntries(
+      detailKeys.map((key) => [
+        key,
+        String(form.get(`${type}_${key}`) || "").trim(),
+      ]),
+    ) as ProjectProductDetail;
+    if (Object.values(detail).some((value) => value.length > 300))
+      return fail("상품별 현장 정보를 300자 이내로 입력해 주세요.");
+    if (Object.values(detail).some(Boolean)) productDetails[type] = detail;
+  }
+  if (showroomAddress.length > 300)
+    return fail("견본주택 주소를 확인해 주세요.");
   const value = {
     name,
     address,
+    showroom_address: showroomAddress || null,
+    product_details: Object.keys(productDetails).length ? productDetails : null,
     latitude,
     longitude,
     published: form.get("published") === "on",
@@ -193,5 +245,6 @@ export async function saveProject(
     : await client.from("projects").insert(value);
   if (error) return fail("현장정보를 저장하지 못했습니다.");
   revalidatePath("/");
+  revalidatePath("/admin");
   return { message: "현장정보를 저장했습니다.", ok: true };
 }

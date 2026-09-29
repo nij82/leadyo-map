@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "리드요 — 분양 현장 구인정보",
   description:
-    "아파트 분양 현장과 모집 조건을 비교하고 모집자에게 직접 연락하세요.",
+    "아파트·오피스텔·상가 분양 현장과 모집 조건을 비교하고 모집자에게 직접 연락하세요.",
 };
 export const dynamic = "force-dynamic";
 export default function Layout({ children }: { children: React.ReactNode }) {

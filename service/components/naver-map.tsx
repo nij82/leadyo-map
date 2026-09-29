@@ -2,12 +2,29 @@
 "use client";
 import Script from "next/script";
 import { useEffect, useRef, useState } from "react";
-import type { Project } from "@/lib/types";
+import type { Listing, Project } from "@/lib/types";
+import { markerRateSummary } from "@/lib/listing-catalog";
+
+type MapItem = { project: Project; jobs: Listing[] };
+
+function escapeHtml(value: string): string {
+  return value.replace(/[&<>"']/g, (character) => {
+    const entities: Record<string, string> = {
+      "&": "&amp;",
+      "<": "&lt;",
+      ">": "&gt;",
+      '"': "&quot;",
+      "'": "&#39;",
+    };
+    return entities[character];
+  });
+}
+
 export function NaverMap({
-  projects,
+  items,
   onSelect,
 }: {
-  projects: Project[];
+  items: MapItem[];
   onSelect: (p: Project) => void;
 }) {
   const key = process.env.NEXT_PUBLIC_NAVER_MAP_CLIENT_ID;
@@ -20,9 +37,10 @@ export function NaverMap({
   useEffect(() => {
     if (!ready || !host.current || typeof naver === "undefined") return;
     const m = new naver.maps.Map(host.current, {
-      center: new naver.maps.LatLng(36.4, 127.5),
-      zoom: 7,
+      center: new naver.maps.LatLng(37.5665, 126.978),
+      zoom: 11,
       zoomControl: true,
+      zoomControlOptions: { position: naver.maps.Position.BOTTOM_RIGHT },
     });
     map.current = m;
     return () => {
@@ -40,27 +58,38 @@ export function NaverMap({
       events.forEach((e) => naver.maps.Event.removeListener(e));
       pins = [];
       events = [];
-      const groups: { point: naver.maps.Point; items: Project[] }[] = [];
-      for (const p of projects) {
+      const groups: { point: naver.maps.Point; items: MapItem[] }[] = [];
+      for (const item of items) {
+        const p = item.project;
         const point = m!
           .getProjection()
           .fromCoordToOffset(new naver.maps.LatLng(p.latitude, p.longitude));
         const group = groups.find(
-          (g) => Math.hypot(g.point.x - point.x, g.point.y - point.y) < 65,
+          (g) =>
+            Math.abs(g.point.x - point.x) < 230 &&
+            Math.abs(g.point.y - point.y) < 105,
         );
-        if (group) group.items.push(p);
-        else groups.push({ point, items: [p] });
+        if (group) group.items.push(item);
+        else groups.push({ point, items: [item] });
       }
       for (const group of groups) {
-        const p = group.items[0],
+        const { project: p, jobs } = group.items[0],
           multiple = group.items.length > 1;
+        const rate = markerRateSummary(jobs);
+        const content = multiple
+          ? `<div class="map-marker map-marker--cluster"><strong class="map-marker__cluster-label">인근 현장</strong><span class="map-marker__cluster-count"><b>${group.items.length}</b>곳</span></div>`
+          : `<div class="map-marker map-marker--site"><strong class="map-marker__name">${escapeHtml(p.name)}</strong><span class="map-marker__rate">${escapeHtml(rate)}</span><span class="map-marker__status">${jobs.length ? `구인정보 ${jobs.length}건` : "구인정보 없음"}</span></div>`;
         const marker = new naver.maps.Marker({
           map: m!,
           position: new naver.maps.LatLng(p.latitude, p.longitude),
-          title: multiple ? `${group.items.length}개 현장 확대` : p.name,
+          title: multiple
+            ? `인근 현장 ${group.items.length}곳 확대`
+            : `${p.name} · ${rate} · 구인정보 ${jobs.length}건`,
           icon: {
-            content: `<div class="map-marker">${multiple ? "현장 " + group.items.length : "구인정보"}</div>`,
-            anchor: new naver.maps.Point(35, 30),
+            content,
+            anchor: multiple
+              ? new naver.maps.Point(13, 61)
+              : new naver.maps.Point(13, 77),
           },
         });
         pins.push(marker);
@@ -74,7 +103,7 @@ export function NaverMap({
               new naver.maps.LatLng(p.latitude, p.longitude),
               new naver.maps.LatLng(p.latitude, p.longitude),
             );
-            group.items.forEach((x) =>
+            group.items.forEach(({ project: x }) =>
               bounds.extend(new naver.maps.LatLng(x.latitude, x.longitude)),
             );
             m!.fitBounds(bounds);
@@ -90,7 +119,7 @@ export function NaverMap({
       pins.forEach((p) => p.setMap(null));
       events.forEach((e) => naver.maps.Event.removeListener(e));
     };
-  }, [projects, ready]);
+  }, [items, ready]);
   return (
     <>
       <div ref={host} className="naver-map" aria-label="현장 지도" />

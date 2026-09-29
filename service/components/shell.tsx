@@ -1,16 +1,22 @@
 import Link from "next/link";
-import { MapPinned } from "lucide-react";
+import Image from "next/image";
 import { identity } from "@/lib/supabase/server";
 export async function Header() {
   const { user, admin } = await identity();
   return (
     <header className="header">
       <Link className="brand" href="/">
-        <MapPinned size={26} />
-        리드요
+        <Image
+          src="/images/leadyo-logo.svg"
+          alt="리드요"
+          width={120}
+          height={32}
+          priority
+        />
+        <span className="brand-service">현장</span>
       </Link>
       <nav aria-label="주 메뉴">
-        <Link href="/">현장 찾기</Link>
+        <Link href="/">분양 현장</Link>
         {user && <Link href="/manage">내 공고</Link>}
         {admin && <Link href="/admin">운영관리</Link>}
         <Link href={user ? "/account" : "/login"}>
