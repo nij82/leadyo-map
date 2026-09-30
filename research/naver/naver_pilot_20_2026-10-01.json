@@ -1,0 +1,787 @@
+{
+  "list_receipts": [
+    {
+      "region": [
+        "김포시",
+        "북변동"
+      ],
+      "returned_count": 3,
+      "params": {
+        "sy_ajax_content": "SYAreaComplexList",
+        "sy_sido": "경기도",
+        "sy_gugun": "김포시",
+        "sy_dong": "북변동",
+        "bclass": "IA01",
+        "sy_sort": "0"
+      }
+    },
+    {
+      "region": [
+        "김포시",
+        "풍무동"
+      ],
+      "returned_count": 4,
+      "params": {
+        "sy_ajax_content": "SYAreaComplexList",
+        "sy_sido": "경기도",
+        "sy_gugun": "김포시",
+        "sy_dong": "풍무동",
+        "bclass": "IA01",
+        "sy_sort": "0"
+      }
+    },
+    {
+      "region": [
+        "김포시",
+        "사우동"
+      ],
+      "returned_count": 7,
+      "params": {
+        "sy_ajax_content": "SYAreaComplexList",
+        "sy_sido": "경기도",
+        "sy_gugun": "김포시",
+        "sy_dong": "사우동",
+        "bclass": "IA01",
+        "sy_sort": "0"
+      }
+    },
+    {
+      "region": [
+        "고양시 덕양구",
+        "지축동"
+      ],
+      "returned_count": 1,
+      "params": {
+        "sy_ajax_content": "SYAreaComplexList",
+        "sy_sido": "경기도",
+        "sy_gugun": "고양시 덕양구",
+        "sy_dong": "지축동",
+        "bclass": "IA01",
+        "sy_sort": "0"
+      }
+    },
+    {
+      "region": [
+        "고양시 덕양구",
+        "덕은동"
+      ],
+      "returned_count": 0,
+      "params": {
+        "sy_ajax_content": "SYAreaComplexList",
+        "sy_sido": "경기도",
+        "sy_gugun": "고양시 덕양구",
+        "sy_dong": "덕은동",
+        "bclass": "IA01",
+        "sy_sort": "0"
+      }
+    },
+    {
+      "region": [
+        "부천시 소사구",
+        "소사본동"
+      ],
+      "returned_count": 2,
+      "params": {
+        "sy_ajax_content": "SYAreaComplexList",
+        "sy_sido": "경기도",
+        "sy_gugun": "부천시 소사구",
+        "sy_dong": "소사본동",
+        "bclass": "IA01",
+        "sy_sort": "0"
+      }
+    },
+    {
+      "region": [
+        "수원시 권선구",
+        "서둔동"
+      ],
+      "returned_count": 1,
+      "params": {
+        "sy_ajax_content": "SYAreaComplexList",
+        "sy_sido": "경기도",
+        "sy_gugun": "수원시 권선구",
+        "sy_dong": "서둔동",
+        "bclass": "IA01",
+        "sy_sort": "0"
+      }
+    },
+    {
+      "region": [
+        "고양시 덕양구",
+        "지축동"
+      ],
+      "returned_count": 1,
+      "params": {
+        "sy_ajax_content": "SYAreaComplexList",
+        "sy_sido": "경기도",
+        "sy_gugun": "고양시 덕양구",
+        "sy_dong": "지축동",
+        "bclass": "IA01",
+        "sy_sort": "0"
+      }
+    },
+    {
+      "region": [
+        "부천시 소사구",
+        "소사본동"
+      ],
+      "returned_count": 2,
+      "params": {
+        "sy_ajax_content": "SYAreaComplexList",
+        "sy_sido": "경기도",
+        "sy_gugun": "부천시 소사구",
+        "sy_dong": "소사본동",
+        "bclass": "IA01",
+        "sy_sort": "0"
+      }
+    },
+    {
+      "region": [
+        "수원시 권선구",
+        "서둔동"
+      ],
+      "returned_count": 1,
+      "params": {
+        "sy_ajax_content": "SYAreaComplexList",
+        "sy_sido": "경기도",
+        "sy_gugun": "수원시 권선구",
+        "sy_dong": "서둔동",
+        "bclass": "IA01",
+        "sy_sort": "0"
+      }
+    },
+    {
+      "region": [
+        "하남시",
+        "감일동"
+      ],
+      "returned_count": 0,
+      "params": {
+        "sy_ajax_content": "SYAreaComplexList",
+        "sy_sido": "경기도",
+        "sy_gugun": "하남시",
+        "sy_dong": "감일동",
+        "bclass": "IA01",
+        "sy_sort": "0"
+      }
+    }
+  ],
+  "detail_limit": 20,
+  "rows": [
+    {
+      "index": 1,
+      "name": "김포북변우미린파크리브",
+      "address": "경기도 김포시 북변동 329-2번지 일원",
+      "latitude": 37.6266688,
+      "longitude": 126.7071255,
+      "product_type": "apartment",
+      "naver_status": "입주예정",
+      "naver_move_in": "입주 2027.12",
+      "naver_sale_date": "분양 2024.05.09",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027455&supp_cd=9041028",
+      "source_provider": "Npay 부동산 분양 화면",
+      "source_ids": {
+        "sy_ajax_content": "SYComplexInfo",
+        "build_dtl_cd": "6027455",
+        "supp_cd": "9041028"
+      },
+      "collected_at": "2026-10-01T01:09:10.203311+09:00",
+      "review_status": "누락 후보: 동일명·200m 이내 현장 없음",
+      "existing_candidates": [],
+      "registration_status": "pending_identity_currentness_and_registration_review",
+      "local_notice_address_candidates": [
+        {
+          "name": "김포 북변 우미 린 파크리브",
+          "address": "경기도 김포시 북변동 329-2번지 일원",
+          "source_id": "2024000166",
+          "announcement_id": "2024000166",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000166&pblancNo=2024000166"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "name": "김포칸타빌에디션",
+      "address": "경기도 김포시 북변동 224-67번지 일원(북변2구역 1블록 1로트)",
+      "latitude": 37.6246096,
+      "longitude": 126.7056956,
+      "product_type": "apartment",
+      "naver_status": "입주예정",
+      "naver_move_in": "입주 2029.12",
+      "naver_sale_date": "분양 2025.11.21",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027899&supp_cd=9043639",
+      "source_provider": "Npay 부동산 분양 화면",
+      "source_ids": {
+        "sy_ajax_content": "SYComplexInfo",
+        "build_dtl_cd": "6027899",
+        "supp_cd": "9043639"
+      },
+      "collected_at": "2026-10-01T01:09:12.429271+09:00",
+      "review_status": "누락 후보: 동일명·200m 이내 현장 없음",
+      "existing_candidates": [],
+      "registration_status": "pending_identity_currentness_and_registration_review",
+      "local_notice_address_candidates": [
+        {
+          "name": "김포북변 칸타빌 디 에디션",
+          "address": "경기도 김포시 북변동 224-67 일원",
+          "source_id": "2025000573",
+          "announcement_id": "2025000573",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000573&pblancNo=2025000573"
+        },
+        {
+          "name": "김포 칸타빌 에디션",
+          "address": "경기도 김포시 북변동 224-67 일원",
+          "source_id": "2026910060",
+          "announcement_id": "2026910060",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910060&pblancNo=2026910060"
+        },
+        {
+          "name": "김포 칸타빌 에디션(2차)",
+          "address": "경기도 김포시 북변동 224-67 일원",
+          "source_id": "2026940116",
+          "announcement_id": "2026940116",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940116&pblancNo=2026940116"
+        },
+        {
+          "name": "김포 칸타빌 에디션",
+          "address": "경기도 김포시 북변동 224-67 일원",
+          "source_id": "2026940049",
+          "announcement_id": "2026940049",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940049&pblancNo=2026940049"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "name": "한강수자인오브센트",
+      "address": "경기도 김포시 북변동 184번지 일원",
+      "latitude": 37.6311347,
+      "longitude": 126.7085261,
+      "product_type": "apartment",
+      "naver_status": "입주예정",
+      "naver_move_in": "입주 2028.02",
+      "naver_sale_date": "분양 2024.09.06",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027679&supp_cd=9042346",
+      "source_provider": "Npay 부동산 분양 화면",
+      "source_ids": {
+        "sy_ajax_content": "SYComplexInfo",
+        "build_dtl_cd": "6027679",
+        "supp_cd": "9042346"
+      },
+      "collected_at": "2026-10-01T01:09:14.640720+09:00",
+      "review_status": "누락 후보: 동일명·200m 이내 현장 없음",
+      "existing_candidates": [],
+      "registration_status": "pending_identity_currentness_and_registration_review",
+      "local_notice_address_candidates": [
+        {
+          "name": "한강 수자인 오브센트",
+          "address": "경기도 김포시 북변동 184번지 일원",
+          "source_id": "2024000457",
+          "announcement_id": "2024000457",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000457&pblancNo=2024000457"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "name": "풍무역롯데캐슬시그니처",
+      "address": "경기도 김포시 풍무동 30-1번지 일원",
+      "latitude": 37.611669,
+      "longitude": 126.7230582,
+      "product_type": "apartment",
+      "naver_status": "입주예정",
+      "naver_move_in": "입주 2028.07",
+      "naver_sale_date": "분양 2025.03.21",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6024693&supp_cd=9032276",
+      "source_provider": "Npay 부동산 분양 화면",
+      "source_ids": {
+        "sy_ajax_content": "SYComplexInfo",
+        "build_dtl_cd": "6024693",
+        "supp_cd": "9032276"
+      },
+      "collected_at": "2026-10-01T01:09:16.847021+09:00",
+      "review_status": "기존 현장 동일명·근접 좌표 확인",
+      "existing_candidates": [
+        {
+          "id": "dce500d3-decc-4e21-bfbf-2baa20e0bc4e",
+          "name": "풍무역 롯데캐슬 시그니처",
+          "address": "경기도 김포시 풍무동 30-1번지 일원",
+          "distance_m": 21.9,
+          "exact_name": true
+        }
+      ],
+      "registration_status": "pending_identity_currentness_and_registration_review"
+    },
+    {
+      "index": 5,
+      "name": "해링턴플레이스풍무1단지",
+      "address": "경기도 김포시 풍무동 483-7번지 일대",
+      "latitude": 37.6039092,
+      "longitude": 126.7299893,
+      "product_type": "apartment",
+      "naver_status": "분양중",
+      "naver_move_in": "입주 2028.08",
+      "naver_sale_date": "분양 2025.07.04",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027978&supp_cd=9044051",
+      "source_provider": "Npay 부동산 분양 화면",
+      "source_ids": {
+        "sy_ajax_content": "SYComplexInfo",
+        "build_dtl_cd": "6027978",
+        "supp_cd": "9044051"
+      },
+      "collected_at": "2026-10-01T01:09:19.168358+09:00",
+      "review_status": "기존 현장 확인: 동일 지번·블록 및 100m 이내 좌표",
+      "existing_candidates": [
+        {
+          "id": "d7ea645a-addd-4d98-8980-3aa6fdb661f4",
+          "name": "해링턴플레이스 풍무(1BL)",
+          "address": "경기도 김포시 풍무동 483-7번지 일대 (경기도 김포시 풍무 양도지구 도시개발사업 공동주택 1단지)",
+          "distance_m": 68.3,
+          "exact_name": false
+        }
+      ],
+      "registration_status": "existing_project_keep",
+      "existing_project_id": "d7ea645a-addd-4d98-8980-3aa6fdb661f4"
+    },
+    {
+      "index": 6,
+      "name": "해링턴플레이스풍무2단지",
+      "address": "경기도 김포시 풍무동 143-1번지 일대",
+      "latitude": 37.6060331,
+      "longitude": 126.7301254,
+      "product_type": "apartment",
+      "naver_status": "분양중",
+      "naver_move_in": "입주 2028.08",
+      "naver_sale_date": "분양 2025.07.04",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027979&supp_cd=9044052",
+      "source_provider": "Npay 부동산 분양 화면",
+      "source_ids": {
+        "sy_ajax_content": "SYComplexInfo",
+        "build_dtl_cd": "6027979",
+        "supp_cd": "9044052"
+      },
+      "collected_at": "2026-10-01T01:09:21.443712+09:00",
+      "review_status": "기존 현장 확인: 동일 지번·블록 및 100m 이내 좌표",
+      "existing_candidates": [
+        {
+          "id": "110882ba-0a2f-4fc2-a70e-274615d69087",
+          "name": "해링턴플레이스 풍무(2BL)",
+          "address": "경기도 김포시 풍무동 143-1번지 일대 (경기도 김포시 풍무 양도지구 도시개발사업 공동주택 2단지)",
+          "distance_m": 67.1,
+          "exact_name": false
+        }
+      ],
+      "registration_status": "existing_project_keep",
+      "existing_project_id": "110882ba-0a2f-4fc2-a70e-274615d69087"
+    },
+    {
+      "index": 7,
+      "name": "해링턴플레이스풍무3단지",
+      "address": "경기도 김포시 풍무동 370-37번지 일대",
+      "latitude": 37.6054333,
+      "longitude": 126.732427,
+      "product_type": "apartment",
+      "naver_status": "입주예정",
+      "naver_move_in": "입주 2028.08",
+      "naver_sale_date": "분양 2025.07.04",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027980&supp_cd=9044053",
+      "source_provider": "Npay 부동산 분양 화면",
+      "source_ids": {
+        "sy_ajax_content": "SYComplexInfo",
+        "build_dtl_cd": "6027980",
+        "supp_cd": "9044053"
+      },
+      "collected_at": "2026-10-01T01:09:23.662289+09:00",
+      "review_status": "기존 현장 확인: 동일 지번·블록 및 100m 이내 좌표",
+      "existing_candidates": [
+        {
+          "id": "f77e37c4-440e-4e5d-98df-e29c06d1861c",
+          "name": "해링턴플레이스 풍무(3BL)",
+          "address": "경기도 김포시 풍무동 370-37번지 일대 (경기도 김포시 풍무 양도지구 도시개발사업 공동주택 3단지)",
+          "distance_m": 0.1,
+          "exact_name": false
+        }
+      ],
+      "registration_status": "existing_project_keep",
+      "existing_project_id": "f77e37c4-440e-4e5d-98df-e29c06d1861c"
+    },
+    {
+      "index": 8,
+      "name": "김포풍무호반써밋",
+      "address": "경기도 김포시 사우동 475-2번지 일원(풍무역세권도시개발사업지구 B5블록)",
+      "latitude": 37.6153054,
+      "longitude": 126.7364386,
+      "product_type": "apartment",
+      "naver_status": "입주예정",
+      "naver_move_in": "입주 2028.10",
+      "naver_sale_date": "분양 2025.10.17",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028150&supp_cd=9045481",
+      "source_provider": "Npay 부동산 분양 화면",
+      "source_ids": {
+        "sy_ajax_content": "SYComplexInfo",
+        "build_dtl_cd": "6028150",
+        "supp_cd": "9045481"
+      },
+      "collected_at": "2026-10-01T01:09:26.214792+09:00",
+      "review_status": "누락 후보: 동일명·200m 이내 현장 없음",
+      "existing_candidates": [],
+      "registration_status": "pending_identity_currentness_and_registration_review",
+      "local_notice_address_candidates": [
+        {
+          "name": "김포 풍무역세권 B5블록 호반써밋",
+          "address": "김포 풍무역세권 B5블록(경기도 김포시 사우동 475-2 일원)",
+          "source_id": "2025000499",
+          "announcement_id": "2025000499",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000499&pblancNo=2025000499"
+        },
+        {
+          "name": "김포 풍무역세권 B5블록 호반써밋",
+          "address": "김포 풍무역세권 B5블록(경기도 김포시 사우동 475-2 일원)",
+          "source_id": "2025910243",
+          "announcement_id": "2025910243",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910243&pblancNo=2025910243"
+        },
+        {
+          "name": "김포 풍무역세권 B5블록 호반써밋",
+          "address": "김포 풍무역세권 B5블록 (경기도 김포시 사우동 475-2 일원)",
+          "source_id": "2026940036",
+          "announcement_id": "2026940036",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940036&pblancNo=2026940036"
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "name": "사우역지엔하임",
+      "address": "경기도 김포시 사우동 297번지 일원(사우4구역 공동1블록)",
+      "latitude": 37.615284,
+      "longitude": 126.7188146,
+      "product_type": "apartment",
+      "naver_status": "입주예정",
+      "naver_move_in": "입주 2029.04",
+      "naver_sale_date": "분양 2026.01.09",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028269&supp_cd=9046329",
+      "source_provider": "Npay 부동산 분양 화면",
+      "source_ids": {
+        "sy_ajax_content": "SYComplexInfo",
+        "build_dtl_cd": "6028269",
+        "supp_cd": "9046329"
+      },
+      "collected_at": "2026-10-01T01:09:28.428769+09:00",
+      "review_status": "누락 후보: 동일명·200m 이내 현장 없음",
+      "existing_candidates": [],
+      "registration_status": "pending_identity_currentness_and_registration_review",
+      "local_notice_address_candidates": [
+        {
+          "name": "사우역 지엔하임",
+          "address": "경기도 김포시 사우동 사우4구역 공동1블록",
+          "source_id": "2025000656",
+          "announcement_id": "2025000656",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000656&pblancNo=2025000656"
+        },
+        {
+          "name": "사우역 지엔하임",
+          "address": "경기도 김포시 사우동 사우4구역 공동1블록",
+          "source_id": "2026910048",
+          "announcement_id": "2026910048",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910048&pblancNo=2026910048"
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "name": "풍무역세권수자인그라센트1차",
+      "address": "경기도 김포시 사우동 173-1번지 일원(풍무역세권도시개발사업지구 B2블록)",
+      "latitude": 37.6187234,
+      "longitude": 126.729164,
+      "product_type": "apartment",
+      "naver_status": "입주예정",
+      "naver_move_in": "입주 2029.01",
+      "naver_sale_date": "분양 2025.11.07",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028192&supp_cd=9045732",
+      "source_provider": "Npay 부동산 분양 화면",
+      "source_ids": {
+        "sy_ajax_content": "SYComplexInfo",
+        "build_dtl_cd": "6028192",
+        "supp_cd": "9045732"
+      },
+      "collected_at": "2026-10-01T01:09:30.841939+09:00",
+      "review_status": "기존 현장 동일명·근접 좌표 확인",
+      "existing_candidates": [
+        {
+          "id": "f9d5166e-af15-4e9c-b402-de0efd14d416",
+          "name": "풍무역세권 수자인 그라센트 1차",
+          "address": "경기도 김포시 풍무역세권도시개발사업 B2BL(사우동 173-1번지 일원)",
+          "distance_m": 84.8,
+          "exact_name": true
+        }
+      ],
+      "registration_status": "pending_identity_currentness_and_registration_review"
+    },
+    {
+      "index": 11,
+      "name": "풍무역세권수자인그라센트2차",
+      "address": "경기도 김포시 사우동 풍무역세권도시개발사업지구 B1블록",
+      "latitude": 37.6197469,
+      "longitude": 126.7267594,
+      "product_type": "apartment",
+      "naver_status": "분양중",
+      "naver_move_in": "입주 2029.01",
+      "naver_sale_date": "분양 2026.04.03",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028343&supp_cd=9049294",
+      "source_provider": "Npay 부동산 분양 화면",
+      "source_ids": {
+        "sy_ajax_content": "SYComplexInfo",
+        "build_dtl_cd": "6028343",
+        "supp_cd": "9049294"
+      },
+      "collected_at": "2026-10-01T01:09:33.061815+09:00",
+      "review_status": "기존 현장 동일명·근접 좌표 확인",
+      "existing_candidates": [
+        {
+          "id": "f7222b6b-da81-4154-acfb-1e99ccea2403",
+          "name": "풍무역세권 수자인 그라센트 2차",
+          "address": "경기도 김포시 풍무역세권도시개발사업 B1BL(사우동 167-1번지 일원)",
+          "distance_m": 32.9,
+          "exact_name": true
+        }
+      ],
+      "registration_status": "pending_identity_currentness_and_registration_review"
+    },
+    {
+      "index": 12,
+      "name": "풍무역푸르지오더마크",
+      "address": "경기도 김포시 사우동 454-5번지 일원(풍무역세권도시개발사업지구 B3블록)",
+      "latitude": 37.6168472,
+      "longitude": 126.7319427,
+      "product_type": "apartment",
+      "naver_status": "입주예정",
+      "naver_move_in": "입주 2028.11",
+      "naver_sale_date": "분양 2025.10.24",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028152&supp_cd=9045485",
+      "source_provider": "Npay 부동산 분양 화면",
+      "source_ids": {
+        "sy_ajax_content": "SYComplexInfo",
+        "build_dtl_cd": "6028152",
+        "supp_cd": "9045485"
+      },
+      "collected_at": "2026-10-01T01:09:35.294328+09:00",
+      "review_status": "기존 현장 동일명·근접 좌표 확인",
+      "existing_candidates": [
+        {
+          "id": "b4f3d711-d672-4ab5-b418-283784019e23",
+          "name": "풍무역 푸르지오 더 마크",
+          "address": "경기도 김포시 사우동 428-3 일원 (풍무역세권 도시개발사업 B3블록)",
+          "distance_m": 67.7,
+          "exact_name": true
+        }
+      ],
+      "registration_status": "pending_identity_currentness_and_registration_review"
+    },
+    {
+      "index": 13,
+      "name": "호반써밋풍무Ⅱ",
+      "address": "경기도 김포시 사우동 527-1번지 일원",
+      "latitude": 37.613755,
+      "longitude": 126.7349741,
+      "product_type": "apartment",
+      "naver_status": "입주예정",
+      "naver_move_in": "입주 2030.01",
+      "naver_sale_date": "분양 2026.05.22",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028413&supp_cd=9047667",
+      "source_provider": "Npay 부동산 분양 화면",
+      "source_ids": {
+        "sy_ajax_content": "SYComplexInfo",
+        "build_dtl_cd": "6028413",
+        "supp_cd": "9047667"
+      },
+      "collected_at": "2026-10-01T01:09:37.519241+09:00",
+      "review_status": "누락 후보: 동일명·200m 이내 현장 없음",
+      "existing_candidates": [],
+      "registration_status": "pending_identity_currentness_and_registration_review",
+      "local_notice_address_candidates": [
+        {
+          "name": "호반써밋 풍무Ⅱ",
+          "address": "김포 풍무역세권 C5블록 (경기도 김포시 사우동 527-1 일원)",
+          "source_id": "2026000219",
+          "announcement_id": "2026000219",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000219&pblancNo=2026000219"
+        },
+        {
+          "name": "호반써밋 풍무Ⅱ",
+          "address": "김포 풍무역세권 C5블록 (경기도 김포시 사우동 527-1 일원)",
+          "source_id": "2026950084",
+          "announcement_id": "2026950084",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950084&pblancNo=2026950084&houseSecd=02"
+        },
+        {
+          "name": "호반써밋 풍무Ⅱ",
+          "address": "김포 풍무역세권 C5블록 (경기도 김포시 사우동 527-1 일원)",
+          "source_id": "2026950051",
+          "announcement_id": "2026950051",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950051&pblancNo=2026950051&houseSecd=02"
+        },
+        {
+          "name": "호반써밋 풍무Ⅱ",
+          "address": "김포 풍무역세권 C5블록 (경기도 김포시 사우동 527-1 일원)",
+          "source_id": "2026910177",
+          "announcement_id": "2026910177",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910177&pblancNo=2026910177"
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "name": "호반써밋풍무Ⅲ",
+      "address": "경기도 김포시 사우동 458번지 일원 (풍무역세권지구 B4블록)",
+      "latitude": 37.6155606,
+      "longitude": 126.7345585,
+      "product_type": "apartment",
+      "naver_status": "입주예정",
+      "naver_move_in": "입주 2029.05",
+      "naver_sale_date": "분양 2026.07.09",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028531&supp_cd=9048348",
+      "source_provider": "Npay 부동산 분양 화면",
+      "source_ids": {
+        "sy_ajax_content": "SYComplexInfo",
+        "build_dtl_cd": "6028531",
+        "supp_cd": "9048348"
+      },
+      "collected_at": "2026-10-01T01:09:39.731929+09:00",
+      "review_status": "누락 후보: 동일명·200m 이내 현장 없음",
+      "existing_candidates": [],
+      "registration_status": "pending_identity_currentness_and_registration_review",
+      "local_notice_address_candidates": [
+        {
+          "name": "호반써밋 풍무Ⅲ",
+          "address": "김포 풍무역세권 B4블록 (경기도 김포시 사우동 458번지 일원)",
+          "source_id": "2026000329",
+          "announcement_id": "2026000329",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000329&pblancNo=2026000329"
+        },
+        {
+          "name": "호반써밋 풍무Ⅲ",
+          "address": "김포 풍무역세권 B4블록 (경기도 김포시 사우동 458번지 일원)",
+          "source_id": "2026910229",
+          "announcement_id": "2026910229",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910229&pblancNo=2026910229"
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "name": "위스테이지축",
+      "address": "경기도 고양시 덕양구 지축동 940번지 일원 (지정로 110)",
+      "latitude": 37.6551937,
+      "longitude": 126.9215778,
+      "product_type": "apartment",
+      "naver_status": "임대모집",
+      "naver_move_in": "입주 2022.02",
+      "naver_sale_date": "분양 2019.11.22",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6022486&supp_cd=9048509",
+      "source_provider": "Npay 부동산 분양 화면",
+      "source_ids": {
+        "sy_ajax_content": "SYComplexInfo",
+        "build_dtl_cd": "6022486",
+        "supp_cd": "9048509"
+      },
+      "collected_at": "2026-10-01T01:11:45.696026+09:00",
+      "review_status": "임대 상품; 기본 분양 비교 범위에서 제외",
+      "existing_candidates": [],
+      "registration_status": "excluded_rental",
+      "supply_kind": "임대"
+    },
+    {
+      "index": 16,
+      "name": "두산위브더제니스부천",
+      "address": "경기도 부천시 소사구 소사본동 88-39번지 일대",
+      "latitude": 37.4819393,
+      "longitude": 126.789685,
+      "product_type": "apartment",
+      "naver_status": "분양중",
+      "naver_move_in": "입주 2032.02",
+      "naver_sale_date": "분양 2026.08.12",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028534&supp_cd=9049478",
+      "source_provider": "Npay 부동산 분양 화면",
+      "source_ids": {
+        "sy_ajax_content": "SYComplexInfo",
+        "build_dtl_cd": "6028534",
+        "supp_cd": "9049478"
+      },
+      "collected_at": "2026-10-01T01:11:48.161221+09:00",
+      "review_status": "기존 현장 동일명·근접 좌표 확인",
+      "existing_candidates": [
+        {
+          "id": "5034f4b2-9829-4885-94ca-0fcd12fef397",
+          "name": "두산위브더제니스 부천",
+          "address": "경기도 부천시 소사구 소사본동 88-39번지 일대",
+          "distance_m": 10.6,
+          "exact_name": true
+        }
+      ],
+      "registration_status": "pending_identity_currentness_and_registration_review"
+    },
+    {
+      "index": 17,
+      "name": "소사역롯데캐슬더뉴엘",
+      "address": "경기도 부천시 소사구 소사본동 134번지 일원",
+      "latitude": 37.4790826,
+      "longitude": 126.8017313,
+      "product_type": "apartment",
+      "naver_status": "입주예정",
+      "naver_move_in": "입주 2027.08",
+      "naver_sale_date": "분양 2023.11.27",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027291&supp_cd=9040449",
+      "source_provider": "Npay 부동산 분양 화면",
+      "source_ids": {
+        "sy_ajax_content": "SYComplexInfo",
+        "build_dtl_cd": "6027291",
+        "supp_cd": "9040449"
+      },
+      "collected_at": "2026-10-01T01:11:50.378153+09:00",
+      "review_status": "누락 후보: 동일명·200m 이내 현장 없음",
+      "existing_candidates": [],
+      "registration_status": "pending_identity_currentness_and_registration_review",
+      "local_notice_address_candidates": [
+        {
+          "name": "소사역 롯데캐슬 더 뉴엘",
+          "address": "경기도 부천시 소사본동 134번지 일원",
+          "source_id": "2023000589",
+          "announcement_id": "2023000589",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000589&pblancNo=2023000589"
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "name": "화서역호수공원아너스빌",
+      "address": "경기도 수원시 권선구 서둔동 212-1번지 일원",
+      "latitude": 37.2736539,
+      "longitude": 126.9818908,
+      "product_type": "apartment",
+      "naver_status": "분양중",
+      "naver_move_in": "입주 2029.10",
+      "naver_sale_date": "분양 2026.09.11",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028685&supp_cd=9049459",
+      "source_provider": "Npay 부동산 분양 화면",
+      "source_ids": {
+        "sy_ajax_content": "SYComplexInfo",
+        "build_dtl_cd": "6028685",
+        "supp_cd": "9049459"
+      },
+      "collected_at": "2026-10-01T01:11:52.587429+09:00",
+      "review_status": "기존 현장 동일명·근접 좌표 확인",
+      "existing_candidates": [
+        {
+          "id": "71221b22-c064-40ce-964a-e028ceb549dc",
+          "name": "화서역 호수공원 아너스빌",
+          "address": "경기도 수원시 권선구 서둔동 212-1번지 일원",
+          "distance_m": 52.7,
+          "exact_name": true
+        }
+      ],
+      "registration_status": "pending_identity_currentness_and_registration_review"
+    }
+  ],
+  "database_writes": 0
+}

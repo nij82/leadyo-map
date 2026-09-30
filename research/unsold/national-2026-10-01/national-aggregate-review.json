@@ -1,0 +1,107 @@
+{
+  "source_url": "https://stat.molit.go.kr/portal/cate/statMetaView.do?hRsId=32",
+  "source_sheet": "총괄★",
+  "source_column": "EC",
+  "sha256": "8b4e5bd953f129f641217ffa72ddfb97dca7064538782eb751e21a8ee230e364",
+  "as_of": "2026-08-31",
+  "scope": "regional_aggregate_not_site_evidence",
+  "note": "August source combines 전남광주; blank 광주/전남 rows are not interpreted as zero.",
+  "regions": [
+    {
+      "region": "서울",
+      "as_of": "2026-08-31",
+      "has_unsold_in_region": true,
+      "source_row": 15
+    },
+    {
+      "region": "전남광주",
+      "as_of": "2026-08-31",
+      "has_unsold_in_region": true,
+      "source_row": 16
+    },
+    {
+      "region": "부산",
+      "as_of": "2026-08-31",
+      "has_unsold_in_region": true,
+      "source_row": 17
+    },
+    {
+      "region": "대구",
+      "as_of": "2026-08-31",
+      "has_unsold_in_region": true,
+      "source_row": 18
+    },
+    {
+      "region": "인천",
+      "as_of": "2026-08-31",
+      "has_unsold_in_region": true,
+      "source_row": 19
+    },
+    {
+      "region": "대전",
+      "as_of": "2026-08-31",
+      "has_unsold_in_region": true,
+      "source_row": 21
+    },
+    {
+      "region": "울산",
+      "as_of": "2026-08-31",
+      "has_unsold_in_region": true,
+      "source_row": 22
+    },
+    {
+      "region": "경기",
+      "as_of": "2026-08-31",
+      "has_unsold_in_region": true,
+      "source_row": 23
+    },
+    {
+      "region": "강원",
+      "as_of": "2026-08-31",
+      "has_unsold_in_region": true,
+      "source_row": 24
+    },
+    {
+      "region": "충북",
+      "as_of": "2026-08-31",
+      "has_unsold_in_region": true,
+      "source_row": 25
+    },
+    {
+      "region": "충남",
+      "as_of": "2026-08-31",
+      "has_unsold_in_region": true,
+      "source_row": 26
+    },
+    {
+      "region": "세종",
+      "as_of": "2026-08-31",
+      "has_unsold_in_region": true,
+      "source_row": 27
+    },
+    {
+      "region": "전북",
+      "as_of": "2026-08-31",
+      "has_unsold_in_region": true,
+      "source_row": 28
+    },
+    {
+      "region": "경북",
+      "as_of": "2026-08-31",
+      "has_unsold_in_region": true,
+      "source_row": 30
+    },
+    {
+      "region": "경남",
+      "as_of": "2026-08-31",
+      "has_unsold_in_region": true,
+      "source_row": 31
+    },
+    {
+      "region": "제주",
+      "as_of": "2026-08-31",
+      "has_unsold_in_region": true,
+      "source_row": 32
+    }
+  ]
+}

@@ -1,0 +1,442 @@
+[
+  {
+    "region": "강원",
+    "name": "더리치먼드리버센트소양",
+    "address": "강원특별자치도 춘천시 소양동 소양로1가 102-5번지 일원",
+    "as_of": "2026-08-31",
+    "source_url": "https://state.gwd.go.kr/veterinary/notice?articleSeq=272433",
+    "file_url": "https://state.gwd.go.kr/egf/bp/common/front/265511/download",
+    "local_file": "gangwon-20260831.xlsx",
+    "provenance": {
+      "sheet": "미분양(업체별)",
+      "identity_row": 39,
+      "positive_unsold_cells": [
+        "M39",
+        "M40",
+        "M41",
+        "M42",
+        "M43",
+        "M44",
+        "M45",
+        "M46"
+      ]
+    },
+    "confirmation": "당월 미분양 셀 양수 직접 확인"
+  },
+  {
+    "region": "강원",
+    "name": "강릉유천 더 테라스 아리스타",
+    "address": "강원특별자치도 강릉시 유천동 793",
+    "as_of": "2026-08-31",
+    "source_url": "https://state.gwd.go.kr/veterinary/notice?articleSeq=272433",
+    "file_url": "https://state.gwd.go.kr/egf/bp/common/front/265511/download",
+    "local_file": "gangwon-20260831.xlsx",
+    "provenance": {
+      "sheet": "미분양(업체별)",
+      "identity_row": 105,
+      "positive_unsold_cells": [
+        "M114",
+        "M115"
+      ]
+    },
+    "confirmation": "당월 미분양 셀 양수 직접 확인"
+  },
+  {
+    "region": "강원",
+    "name": "송정동 도시형생활주택",
+    "address": "강원특별자치도 강릉시 송정동 245",
+    "as_of": "2026-08-31",
+    "source_url": "https://state.gwd.go.kr/veterinary/notice?articleSeq=272433",
+    "file_url": "https://state.gwd.go.kr/egf/bp/common/front/265511/download",
+    "local_file": "gangwon-20260831.xlsx",
+    "provenance": {
+      "sheet": "미분양(업체별)",
+      "identity_row": 116,
+      "positive_unsold_cells": [
+        "M125",
+        "M127"
+      ]
+    },
+    "confirmation": "당월 미분양 셀 양수 직접 확인"
+  },
+  {
+    "region": "강원",
+    "name": "강릉 교동 아테라",
+    "address": "강원특별자치도 강릉시 교동 2003번지 일원 공동주택",
+    "as_of": "2026-08-31",
+    "source_url": "https://state.gwd.go.kr/veterinary/notice?articleSeq=272433",
+    "file_url": "https://state.gwd.go.kr/egf/bp/common/front/265511/download",
+    "local_file": "gangwon-20260831.xlsx",
+    "provenance": {
+      "sheet": "미분양(업체별)",
+      "identity_row": 140,
+      "positive_unsold_cells": [
+        "M142",
+        "M143"
+      ]
+    },
+    "confirmation": "당월 미분양 셀 양수 직접 확인"
+  },
+  {
+    "region": "강원",
+    "name": "씨앤스카이 영진 도시형생활주택",
+    "address": "강원특별자치도 강릉시 연곡면 영진리66-1 외 1필지",
+    "as_of": "2026-08-31",
+    "source_url": "https://state.gwd.go.kr/veterinary/notice?articleSeq=272433",
+    "file_url": "https://state.gwd.go.kr/egf/bp/common/front/265511/download",
+    "local_file": "gangwon-20260831.xlsx",
+    "provenance": {
+      "sheet": "미분양(업체별)",
+      "identity_row": 150,
+      "positive_unsold_cells": [
+        "M150",
+        "M151",
+        "M152",
+        "M153",
+        "M154",
+        "M155",
+        "M156",
+        "M157",
+        "M158",
+        "M159",
+        "M160",
+        "M161",
+        "M162",
+        "M163",
+        "M164",
+        "M165"
+      ]
+    },
+    "confirmation": "당월 미분양 셀 양수 직접 확인"
+  },
+  {
+    "region": "강원",
+    "name": "강릉자이르네디오션",
+    "address": "강원특별자치도 강릉시 송정동 산77-3번지 일원 공동주택",
+    "as_of": "2026-08-31",
+    "source_url": "https://state.gwd.go.kr/veterinary/notice?articleSeq=272433",
+    "file_url": "https://state.gwd.go.kr/egf/bp/common/front/265511/download",
+    "local_file": "gangwon-20260831.xlsx",
+    "provenance": {
+      "sheet": "미분양(업체별)",
+      "identity_row": 166,
+      "positive_unsold_cells": [
+        "M166",
+        "M167",
+        "M168",
+        "M171",
+        "M176"
+      ]
+    },
+    "confirmation": "당월 미분양 셀 양수 직접 확인"
+  },
+  {
+    "region": "강원",
+    "name": "휴티스 오션시티",
+    "address": "강원특별자치도 속초시 동명동 601번지",
+    "as_of": "2026-08-31",
+    "source_url": "https://state.gwd.go.kr/veterinary/notice?articleSeq=272433",
+    "file_url": "https://state.gwd.go.kr/egf/bp/common/front/265511/download",
+    "local_file": "gangwon-20260831.xlsx",
+    "provenance": {
+      "sheet": "미분양(업체별)",
+      "identity_row": 239,
+      "positive_unsold_cells": [
+        "M239",
+        "M240",
+        "M241",
+        "M242",
+        "M245",
+        "M246",
+        "M247"
+      ]
+    },
+    "confirmation": "당월 미분양 셀 양수 직접 확인"
+  },
+  {
+    "region": "강원",
+    "name": "리치먼드 힐",
+    "address": "강원특별자치도 철원군 갈말읍 지포리 227",
+    "as_of": "2026-08-31",
+    "source_url": "https://state.gwd.go.kr/veterinary/notice?articleSeq=272433",
+    "file_url": "https://state.gwd.go.kr/egf/bp/common/front/265511/download",
+    "local_file": "gangwon-20260831.xlsx",
+    "provenance": {
+      "sheet": "미분양(업체별)",
+      "identity_row": 325,
+      "positive_unsold_cells": [
+        "M325",
+        "M326"
+      ]
+    },
+    "confirmation": "당월 미분양 셀 양수 직접 확인"
+  },
+  {
+    "region": "강원",
+    "name": "인제라포레아파트",
+    "address": "강원특별자치도 인제군 북면 원통리 1980",
+    "as_of": "2026-08-31",
+    "source_url": "https://state.gwd.go.kr/veterinary/notice?articleSeq=272433",
+    "file_url": "https://state.gwd.go.kr/egf/bp/common/front/265511/download",
+    "local_file": "gangwon-20260831.xlsx",
+    "provenance": {
+      "sheet": "미분양(업체별)",
+      "identity_row": 330,
+      "positive_unsold_cells": [
+        "M330",
+        "M331",
+        "M332",
+        "M333",
+        "M334"
+      ]
+    },
+    "confirmation": "당월 미분양 셀 양수 직접 확인"
+  },
+  {
+    "region": "충북",
+    "name": "월명공원 한라비발디 온더파크",
+    "address": "충청북도 청주시 흥덕구 봉명동 산26번지 일원",
+    "as_of": "2026-07-31",
+    "source_url": "https://www.chungbuk.go.kr/www/selectBbsNttView.do?key=646&bbsNo=97&nttNo=441569",
+    "file_url": "https://www.chungbuk.go.kr/www/downloadBbsFile.do?key=646&bbsNo=97&atchmnflNo=295188",
+    "local_file": "chungbuk-20260731-projects.pdf",
+    "provenance": {
+      "page": 1,
+      "evidence": "첫 업체 소계 및 76.7400A/84.8100A 당월 미분양 양수"
+    },
+    "confirmation": "업체별 미분양 양수 직접 확인",
+    "source_date_caveat": "문서 제목은 26.7.31. 현재, 당월 열 머리에는 26.7.30.가 표기되어 원문 내부 1일 차이 있음"
+  },
+  {
+    "region": "충북",
+    "name": "원봉 근린공원 민간공원 조성사업",
+    "address": "충청북도 청주시 상당구 용암동 산222번지",
+    "as_of": "2026-07-31",
+    "source_url": "https://www.chungbuk.go.kr/www/selectBbsNttView.do?key=646&bbsNo=97&nttNo=441569",
+    "file_url": "https://www.chungbuk.go.kr/www/downloadBbsFile.do?key=646&bbsNo=97&atchmnflNo=295188",
+    "local_file": "chungbuk-20260731-projects.pdf",
+    "provenance": {
+      "page": 1,
+      "evidence": "두번째 업체 소계 및 190.7323 등 당월 미분양 양수; 원본은 브랜드명을 기재하지 않음"
+    },
+    "confirmation": "업체별 미분양 양수 직접 확인",
+    "source_date_caveat": "문서 제목은 26.7.31. 현재, 당월 열 머리에는 26.7.30.가 표기되어 원문 내부 1일 차이 있음"
+  },
+  {
+    "region": "충북",
+    "name": "더샵 오창프레스티지",
+    "address": "충청북도 청주시 청원구 오창읍 양청리 814-2번지",
+    "as_of": "2026-07-31",
+    "source_url": "https://www.chungbuk.go.kr/www/selectBbsNttView.do?key=646&bbsNo=97&nttNo=441569",
+    "file_url": "https://www.chungbuk.go.kr/www/downloadBbsFile.do?key=646&bbsNo=97&atchmnflNo=295188",
+    "local_file": "chungbuk-20260731-projects.pdf",
+    "provenance": {
+      "page": 1,
+      "evidence": "세번째 업체 소계 및 127.7478A/127.8267B 당월 미분양 양수"
+    },
+    "confirmation": "업체별 미분양 양수 직접 확인",
+    "source_date_caveat": "문서 제목은 26.7.31. 현재, 당월 열 머리에는 26.7.30.가 표기되어 원문 내부 1일 차이 있음"
+  },
+  {
+    "region": "충북",
+    "name": "대신센텀캐슬아파트",
+    "address": "충청북도 보은군 보은읍 이평리 159-5",
+    "as_of": "2026-07-31",
+    "source_url": "https://www.chungbuk.go.kr/www/selectBbsNttView.do?key=646&bbsNo=97&nttNo=441569",
+    "file_url": "https://www.chungbuk.go.kr/www/downloadBbsFile.do?key=646&bbsNo=97&atchmnflNo=295188",
+    "local_file": "chungbuk-20260731-projects.pdf",
+    "provenance": {
+      "page": 2,
+      "evidence": "보은 두번째 업체 131A/131B/134/136/189 및 소계 당월 양수"
+    },
+    "confirmation": "업체별 미분양 양수 직접 확인",
+    "source_date_caveat": "문서 제목은 26.7.31. 현재, 당월 열 머리에는 26.7.30.가 표기되어 원문 내부 1일 차이 있음"
+  },
+  {
+    "region": "전북",
+    "name": "상동 예다음2차",
+    "address": "전북특별자치도 정읍시 상동 90-5",
+    "as_of": "2026-07-31",
+    "source_url": "https://www.jeonbuk.go.kr/board/view.jeonbuk?boardId=BBS_0000197&dataSid=670842&menuCd=DOM_000000104012004007&paging=ok&startPage=1",
+    "file_url": "https://www.jeonbuk.go.kr/board/download.jeonbuk?boardId=BBS_0000197&menuCd=DOM_000000104012004007&paging=ok&startPage=1&dataSid=670842&command=update&fileSid=406670",
+    "local_file": "jeonbuk-20260731.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "identity_row": 26,
+      "positive_unsold_cells": [
+        "I26"
+      ]
+    },
+    "confirmation": "미분양 셀 양수 직접 확인"
+  },
+  {
+    "region": "전북",
+    "name": "본 아르떼 리버뷰",
+    "address": "전북특별자치도 전주시 효자동2가 1409",
+    "as_of": "2026-07-31",
+    "source_url": "https://www.jeonbuk.go.kr/board/view.jeonbuk?boardId=BBS_0000197&dataSid=670842&menuCd=DOM_000000104012004007&paging=ok&startPage=1",
+    "file_url": "https://www.jeonbuk.go.kr/board/download.jeonbuk?boardId=BBS_0000197&menuCd=DOM_000000104012004007&paging=ok&startPage=1&dataSid=670842&command=update&fileSid=406670",
+    "local_file": "jeonbuk-20260731.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "identity_row": 8,
+      "official_status_cell": "I8"
+    },
+    "confirmation": "공식 업체별 미분양 현황 명부에 현장명·주소를 직접 기재. 미분양 수량은 업체 비공개 요청. 이 표에는 수량 0 현장 행이 없으며 업체별 미분양 명부로 공개됨",
+    "quantity_disclosure": "private",
+    "existence_basis": "official_unsold_roster"
+  },
+  {
+    "region": "전북",
+    "name": "더샵 프리미엘",
+    "address": "전북특별자치도 군산시 구암동 317-4 외 39",
+    "as_of": "2026-07-31",
+    "source_url": "https://www.jeonbuk.go.kr/board/view.jeonbuk?boardId=BBS_0000197&dataSid=670842&menuCd=DOM_000000104012004007&paging=ok&startPage=1",
+    "file_url": "https://www.jeonbuk.go.kr/board/download.jeonbuk?boardId=BBS_0000197&menuCd=DOM_000000104012004007&paging=ok&startPage=1&dataSid=670842&command=update&fileSid=406670",
+    "local_file": "jeonbuk-20260731.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "identity_row": 15,
+      "official_status_cell": "I15"
+    },
+    "confirmation": "공식 업체별 미분양 현황 명부에 현장명·주소를 직접 기재. 미분양 수량은 업체 비공개 요청. 이 표에는 수량 0 현장 행이 없으며 업체별 미분양 명부로 공개됨",
+    "quantity_disclosure": "private",
+    "existence_basis": "official_unsold_roster"
+  },
+  {
+    "region": "전북",
+    "name": "신역세권 D1BL 영무예다음",
+    "address": "전북특별자치도 군산시 내흥동 1019",
+    "as_of": "2026-07-31",
+    "source_url": "https://www.jeonbuk.go.kr/board/view.jeonbuk?boardId=BBS_0000197&dataSid=670842&menuCd=DOM_000000104012004007&paging=ok&startPage=1",
+    "file_url": "https://www.jeonbuk.go.kr/board/download.jeonbuk?boardId=BBS_0000197&menuCd=DOM_000000104012004007&paging=ok&startPage=1&dataSid=670842&command=update&fileSid=406670",
+    "local_file": "jeonbuk-20260731.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "identity_row": 16,
+      "official_status_cell": "I16"
+    },
+    "confirmation": "공식 업체별 미분양 현황 명부에 현장명·주소를 직접 기재. 미분양 수량은 업체 비공개 요청. 이 표에는 수량 0 현장 행이 없으며 업체별 미분양 명부로 공개됨",
+    "quantity_disclosure": "private",
+    "existence_basis": "official_unsold_roster"
+  },
+  {
+    "region": "전북",
+    "name": "지곡동 한라비발디2차 은파레이크뷰",
+    "address": "전북특별자치도 군산시 지곡동 332-1",
+    "as_of": "2026-07-31",
+    "source_url": "https://www.jeonbuk.go.kr/board/view.jeonbuk?boardId=BBS_0000197&dataSid=670842&menuCd=DOM_000000104012004007&paging=ok&startPage=1",
+    "file_url": "https://www.jeonbuk.go.kr/board/download.jeonbuk?boardId=BBS_0000197&menuCd=DOM_000000104012004007&paging=ok&startPage=1&dataSid=670842&command=update&fileSid=406670",
+    "local_file": "jeonbuk-20260731.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "identity_row": 17,
+      "official_status_cell": "I17"
+    },
+    "confirmation": "공식 업체별 미분양 현황 명부에 현장명·주소를 직접 기재. 미분양 수량은 업체 비공개 요청. 이 표에는 수량 0 현장 행이 없으며 업체별 미분양 명부로 공개됨",
+    "quantity_disclosure": "private",
+    "existence_basis": "official_unsold_roster"
+  },
+  {
+    "region": "전북",
+    "name": "지곡동 레이크시티 아이파크",
+    "address": "전북특별자치도 군산시 지곡동 산137-1",
+    "as_of": "2026-07-31",
+    "source_url": "https://www.jeonbuk.go.kr/board/view.jeonbuk?boardId=BBS_0000197&dataSid=670842&menuCd=DOM_000000104012004007&paging=ok&startPage=1",
+    "file_url": "https://www.jeonbuk.go.kr/board/download.jeonbuk?boardId=BBS_0000197&menuCd=DOM_000000104012004007&paging=ok&startPage=1&dataSid=670842&command=update&fileSid=406670",
+    "local_file": "jeonbuk-20260731.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "identity_row": 18,
+      "official_status_cell": "I18"
+    },
+    "confirmation": "공식 업체별 미분양 현황 명부에 현장명·주소를 직접 기재. 미분양 수량은 업체 비공개 요청. 이 표에는 수량 0 현장 행이 없으며 업체별 미분양 명부로 공개됨",
+    "quantity_disclosure": "private",
+    "existence_basis": "official_unsold_roster"
+  },
+  {
+    "region": "전북",
+    "name": "모인중흥 S클래스",
+    "address": "전북특별자치도 익산시 모현동2가 1-4",
+    "as_of": "2026-07-31",
+    "source_url": "https://www.jeonbuk.go.kr/board/view.jeonbuk?boardId=BBS_0000197&dataSid=670842&menuCd=DOM_000000104012004007&paging=ok&startPage=1",
+    "file_url": "https://www.jeonbuk.go.kr/board/download.jeonbuk?boardId=BBS_0000197&menuCd=DOM_000000104012004007&paging=ok&startPage=1&dataSid=670842&command=update&fileSid=406670",
+    "local_file": "jeonbuk-20260731.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "identity_row": 21,
+      "official_status_cell": "I21"
+    },
+    "confirmation": "공식 업체별 미분양 현황 명부에 현장명·주소를 직접 기재. 미분양 수량은 업체 비공개 요청. 이 표에는 수량 0 현장 행이 없으며 업체별 미분양 명부로 공개됨",
+    "quantity_disclosure": "private",
+    "existence_basis": "official_unsold_roster"
+  },
+  {
+    "region": "전북",
+    "name": "노암동 드림헤이븐",
+    "address": "전북특별자치도 남원시 노암동 599 외 9필지",
+    "as_of": "2026-07-31",
+    "source_url": "https://www.jeonbuk.go.kr/board/view.jeonbuk?boardId=BBS_0000197&dataSid=670842&menuCd=DOM_000000104012004007&paging=ok&startPage=1",
+    "file_url": "https://www.jeonbuk.go.kr/board/download.jeonbuk?boardId=BBS_0000197&menuCd=DOM_000000104012004007&paging=ok&startPage=1&dataSid=670842&command=update&fileSid=406670",
+    "local_file": "jeonbuk-20260731.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "identity_row": 27,
+      "official_status_cell": "I27"
+    },
+    "confirmation": "공식 업체별 미분양 현황 명부에 현장명·주소를 직접 기재. 미분양 수량은 업체 비공개 요청. 이 표에는 수량 0 현장 행이 없으며 업체별 미분양 명부로 공개됨",
+    "quantity_disclosure": "private",
+    "existence_basis": "official_unsold_roster"
+  },
+  {
+    "region": "전북",
+    "name": "본아르떼",
+    "address": "전북특별자치도 김제시 하동 387-31번지 일원",
+    "as_of": "2026-07-31",
+    "source_url": "https://www.jeonbuk.go.kr/board/view.jeonbuk?boardId=BBS_0000197&dataSid=670842&menuCd=DOM_000000104012004007&paging=ok&startPage=1",
+    "file_url": "https://www.jeonbuk.go.kr/board/download.jeonbuk?boardId=BBS_0000197&menuCd=DOM_000000104012004007&paging=ok&startPage=1&dataSid=670842&command=update&fileSid=406670",
+    "local_file": "jeonbuk-20260731.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "identity_row": 28,
+      "official_status_cell": "I28"
+    },
+    "confirmation": "공식 업체별 미분양 현황 명부에 현장명·주소를 직접 기재. 미분양 수량은 업체 비공개 요청. 이 표에는 수량 0 현장 행이 없으며 업체별 미분양 명부로 공개됨",
+    "quantity_disclosure": "private",
+    "existence_basis": "official_unsold_roster"
+  },
+  {
+    "region": "전북",
+    "name": "예다음",
+    "address": "전북특별자치도 김제시 검산동 510-7번지 일원",
+    "as_of": "2026-07-31",
+    "source_url": "https://www.jeonbuk.go.kr/board/view.jeonbuk?boardId=BBS_0000197&dataSid=670842&menuCd=DOM_000000104012004007&paging=ok&startPage=1",
+    "file_url": "https://www.jeonbuk.go.kr/board/download.jeonbuk?boardId=BBS_0000197&menuCd=DOM_000000104012004007&paging=ok&startPage=1&dataSid=670842&command=update&fileSid=406670",
+    "local_file": "jeonbuk-20260731.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "identity_row": 29,
+      "official_status_cell": "I29"
+    },
+    "confirmation": "공식 업체별 미분양 현황 명부에 현장명·주소를 직접 기재. 미분양 수량은 업체 비공개 요청. 이 표에는 수량 0 현장 행이 없으며 업체별 미분양 명부로 공개됨",
+    "quantity_disclosure": "private",
+    "existence_basis": "official_unsold_roster"
+  },
+  {
+    "region": "전북",
+    "name": "신일해피트리",
+    "address": "전북특별자치도 완주군 이서면 은교리 653-3",
+    "as_of": "2026-07-31",
+    "source_url": "https://www.jeonbuk.go.kr/board/view.jeonbuk?boardId=BBS_0000197&dataSid=670842&menuCd=DOM_000000104012004007&paging=ok&startPage=1",
+    "file_url": "https://www.jeonbuk.go.kr/board/download.jeonbuk?boardId=BBS_0000197&menuCd=DOM_000000104012004007&paging=ok&startPage=1&dataSid=670842&command=update&fileSid=406670",
+    "local_file": "jeonbuk-20260731.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "identity_row": 30,
+      "official_status_cell": "I30"
+    },
+    "confirmation": "공식 업체별 미분양 현황 명부에 현장명·주소를 직접 기재. 미분양 수량은 업체 비공개 요청. 이 표에는 수량 0 현장 행이 없으며 업체별 미분양 명부로 공개됨",
+    "quantity_disclosure": "private",
+    "existence_basis": "official_unsold_roster"
+  }
+]

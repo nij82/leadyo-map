@@ -1,0 +1,269 @@
+{
+  "searched_candidates": 244,
+  "merged_candidates": 212,
+  "published_projects_checked": 670,
+  "already_published": [
+    {
+      "candidate": "광명유승한내들라포레",
+      "address": "경기도 광명시 소하동 380-1",
+      "product_type": "apartment",
+      "existing": [
+        {
+          "id": "b8ee1d48-a8d5-418b-9b97-fea236457067",
+          "name": "광명 유승한내들 라포레",
+          "address": "경기도 광명시 소하동 380-1",
+          "distance_m": 1.6
+        }
+      ]
+    },
+    {
+      "candidate": "광주태전경남아너스빌리미티드",
+      "address": "경기도 광주시 장지동 695-14",
+      "product_type": "apartment",
+      "existing": [
+        {
+          "id": "5e0182d4-43cc-4169-b2ff-04fbab7bc34e",
+          "name": "광주태전 경남아너스빌 리미티드(2차)",
+          "address": "경기도 광주시 장지동 695-14번지 일원",
+          "distance_m": 0.8
+        }
+      ]
+    },
+    {
+      "candidate": "오남역서희스타힐스여의재3단지",
+      "address": "경기도 남양주시 오남읍 양지리 186-10",
+      "product_type": "apartment",
+      "existing": [
+        {
+          "id": "3678d00b-3286-4586-99d0-2e5f4e14f6a5",
+          "name": "오남역 서희스타힐스 여의재 3단지",
+          "address": "경기도 남양주시 오남읍 양지리 186-10 일원",
+          "distance_m": 10.0
+        }
+      ]
+    },
+    {
+      "candidate": "대전에테르스위첸",
+      "address": "대전광역시 서구 용문동 594-6",
+      "product_type": "apartment",
+      "existing": [
+        {
+          "id": "c95d735d-ae29-4362-b1b3-ea27ddd4606d",
+          "name": "대전 에테르 스위첸(5차)",
+          "address": "대전광역시 서구 용문동 594-6번지",
+          "distance_m": 30.0
+        }
+      ]
+    },
+    {
+      "candidate": "천호역마에스트로",
+      "address": "서울특별시 강동구 천호동 334-2",
+      "product_type": "apartment",
+      "existing": [
+        {
+          "id": "9dd6c4d7-966e-446b-91bb-d3603b57d842",
+          "name": "천호역 마에스트로(4차)",
+          "address": "서울특별시 강동구 올림픽로 691 (천호동)",
+          "distance_m": 2.2
+        }
+      ]
+    },
+    {
+      "candidate": "신도림역동문디이스트",
+      "address": "서울특별시 구로구 구로동 1293",
+      "product_type": "apartment",
+      "existing": [
+        {
+          "id": "6a615527-5812-4abe-8b95-fddcb878c37b",
+          "name": "신도림역 동문 디 이스트",
+          "address": "서울특별시 구로구 구로동 33, 33-5번지",
+          "distance_m": 0.9
+        }
+      ]
+    },
+    {
+      "candidate": "호반써밋개봉",
+      "address": "서울특별시 구로구 개봉동 501",
+      "product_type": "apartment",
+      "existing": [
+        {
+          "id": "c527a399-e40e-46e5-aa5d-aa47ad0a10d9",
+          "name": "호반써밋 개봉(6차)",
+          "address": "서울특별시 구로구 고척로22길 36",
+          "distance_m": 20.5
+        }
+      ]
+    },
+    {
+      "candidate": "천왕역모아엘가트레뷰",
+      "address": "서울특별시 구로구 오류동 362",
+      "product_type": "apartment",
+      "existing": [
+        {
+          "id": "8c952d7f-76da-40f3-b5d4-f0455b5aca22",
+          "name": "천왕역 모아엘가 트레뷰(8차)",
+          "address": "서울특별시 구로구 오류동 213-1번지 일원",
+          "distance_m": 69.0
+        }
+      ]
+    },
+    {
+      "candidate": "양평동동문디이스트",
+      "address": "서울특별시 영등포구 양평동1가 30",
+      "product_type": "apartment",
+      "existing": [
+        {
+          "id": "c181932c-2ec5-45e0-9837-3d0c247bfc8b",
+          "name": "양평동 동문 디 이스트(4차)",
+          "address": "서울특별시 영등포구 선유동1로 9-7 (양평동1가)",
+          "distance_m": 1.7
+        }
+      ]
+    },
+    {
+      "candidate": "세종5-1양우내안애아스펜",
+      "address": "세종특별자치시 합강동 22-28",
+      "product_type": "apartment",
+      "existing": [
+        {
+          "id": "ad3d9097-0f51-433f-9750-c877dea37475",
+          "name": "세종 5-1 양우내안애 아스펜",
+          "address": "세종특별자치시 합강동 22-28번지 일대 (행정중심복합도시 5-1생활권 L12블록)",
+          "distance_m": 7.8
+        }
+      ]
+    },
+    {
+      "candidate": "반월역동문디이스트",
+      "address": "경기도 안산시 상록구 건건동 995",
+      "product_type": "apartment",
+      "existing": [
+        {
+          "id": "c513da9c-9e52-4d14-b741-dad915eed41e",
+          "name": "반월역 동문 디 이스트(2차)",
+          "address": "경기도 안산시 상록구 건건동 894-14번지 일원",
+          "distance_m": 9.2
+        }
+      ]
+    },
+    {
+      "candidate": "리아츠더인천",
+      "address": "인천광역시 제물포구 송림동 31-3",
+      "product_type": "apartment",
+      "existing": [
+        {
+          "id": "77f70099-e474-47eb-883c-573ac3a1bb37",
+          "name": "리아츠 더 인천",
+          "address": "인천광역시 제물포구 송림동 31-3번지 일원",
+          "distance_m": 0.8
+        }
+      ]
+    },
+    {
+      "candidate": "더샵검단레이크파크(AB23BL)",
+      "address": "인천광역시 검단구 마전동 산175-7",
+      "product_type": "apartment",
+      "existing": [
+        {
+          "id": "f5784d71-081b-4bf3-b401-0f8b52d3d713",
+          "name": "더샵 검단레이크파크(AB23BL)",
+          "address": "인천광역시 검단구 검단신도시 AB23BL(인천광역시 검단구 마전동 산175-7번지 일원)",
+          "distance_m": 3.3
+        }
+      ]
+    },
+    {
+      "candidate": "검암역자이르네",
+      "address": "인천광역시 서해구 경서동 4-8",
+      "product_type": "apartment",
+      "existing": [
+        {
+          "id": "ee386cf0-b1e0-4080-9807-1a177ff25412",
+          "name": "검암역자이르네",
+          "address": "인천광역시 서해구 경서동 4-8번지 일원 (검암역세권 B-2블록)",
+          "distance_m": 60.5
+        }
+      ]
+    },
+    {
+      "candidate": "연수서해그랑블5단지",
+      "address": "인천광역시 연수구 동춘동 1148-1",
+      "product_type": "apartment",
+      "existing": [
+        {
+          "id": "01edad2d-2700-4217-81ff-9ae7141c323d",
+          "name": "연수 서해그랑블 5단지",
+          "address": "인천광역시 연수구 봉재산로 148 (동춘동, 연수서해그랑블5단지)",
+          "distance_m": 39.6
+        }
+      ]
+    },
+    {
+      "candidate": "힐스테이트레이크송도4차",
+      "address": "인천광역시 연수구 송도동 397-2",
+      "product_type": "apartment",
+      "existing": [
+        {
+          "id": "e4a213cc-9d88-4247-8a08-4601267cd94f",
+          "name": "힐스테이트 레이크 송도 4차",
+          "address": "인천광역시 연수구 송도동 397-2",
+          "distance_m": 18.0
+        }
+      ]
+    },
+    {
+      "candidate": "영종하늘도시한신더휴2차",
+      "address": "인천광역시 영종구 중산동 1880-2",
+      "product_type": "apartment",
+      "existing": [
+        {
+          "id": "7f6b0483-83cc-46b0-9d3f-7fb2c746ccac",
+          "name": "영종하늘도시 한신더휴2차(3차)",
+          "address": "인천광역시 영종구 중산동 1880-2",
+          "distance_m": 0.8
+        }
+      ]
+    },
+    {
+      "candidate": "힐스테이트회룡역파크뷰",
+      "address": "경기도 의정부시 호원동 281-21",
+      "product_type": "apartment",
+      "existing": [
+        {
+          "id": "a41fb187-5995-40e0-b3c4-26ef7b6b5530",
+          "name": "힐스테이트 회룡역파크뷰(2차)",
+          "address": "경기도 의정부시 신흥로 43",
+          "distance_m": 49.7
+        }
+      ]
+    },
+    {
+      "candidate": "에스아이팰리스강동센텀Ⅱ",
+      "address": "서울특별시 강동구 길동 386-4",
+      "product_type": "apartment",
+      "existing": [
+        {
+          "id": "4b1f3a82-ad1d-48c1-98cb-93ea0f01dcb2",
+          "name": "에스아이팰리스 강동센텀Ⅱ",
+          "address": "서울특별시 강동구 길동 386-4 (길동, 에스아이팰리스 강동 센텀2)",
+          "distance_m": 3.6
+        }
+      ]
+    },
+    {
+      "candidate": "남구로역동일센타시아",
+      "address": "서울특별시 구로구 가리봉동 779",
+      "product_type": "apartment",
+      "existing": [
+        {
+          "id": "f7019bcb-3a0b-4859-bbc2-3ab16a4e7c9f",
+          "name": "남구로역 동일 센타시아",
+          "address": "서울특별시 구로구 가리봉동 113-1번지 일원",
+          "distance_m": 3.3
+        }
+      ]
+    }
+  ],
+  "ready_to_insert": 192,
+  "database_writes": 0
+}

@@ -1,0 +1,18 @@
+{
+  "region": "경기도",
+  "as_of": "2026-08-31",
+  "prepared_existing_projects": 17,
+  "held_source_groups": 104,
+  "database_evidence_rows_verified": 0,
+  "status": "awaiting_authenticated_admin_import",
+  "database_update_attempt": "rolled_back_by_existing_project_audit_guard",
+  "admin_url": "http://127.0.0.1:3100/admin?tab=projects",
+  "button": "경기도 미분양 정보 반영",
+  "checks": {
+    "collection_tests": 7,
+    "service_tests": 20,
+    "typecheck": "passed",
+    "anonymous_import_endpoint": 403,
+    "local_home": 200
+  }
+}

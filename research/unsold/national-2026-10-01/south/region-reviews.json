@@ -1,0 +1,66 @@
+[
+  {
+    "region": "전남",
+    "reviewed_at": "2026-10-01",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "sha256": "326ce5a1c5a2c38ca93a60c0167980b6bc2ea101766b58692f16bd401ebfd4f8",
+    "file_inspected": true,
+    "project_level": true,
+    "confirmed_positive_sites": 35,
+    "excluded_private_blocks": 5,
+    "blockers": [
+      "단지명 열 없음; 주소 기준 식별"
+    ]
+  },
+  {
+    "region": "경북",
+    "reviewed_at": "2026-10-01",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-03",
+    "source_url": "https://www.gb.go.kr/Main/economy/page.do?mnu_uid=15367&BD_CODE=economy_file_new&cmd=2&B_NUM=514886201&B_STEP=514886200",
+    "file_url": "https://www.gb.go.kr/Common/board_egov/download.jsp?B_STEP=514886200&B_ORDER=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongbuk-2026-07.xlsx",
+    "sha256": "43d300e0843b4890ca362a61e067e6fa3b20e933c32f2dd2126f4498df3584dd",
+    "file_inspected": true,
+    "project_level": true,
+    "confirmed_positive_sites": 23,
+    "excluded_private_blocks": 40,
+    "blockers": [
+      "일부 단지는 주소만 공개; 사업자 비공개 요청 블록 제외"
+    ]
+  },
+  {
+    "region": "경남",
+    "reviewed_at": "2026-10-01",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "sha256": "2074c6af176a89e48766dbe715a8e6ebe4ef1e76f72f700581683a47198710f6",
+    "file_inspected": true,
+    "project_level": true,
+    "confirmed_positive_sites": 35,
+    "excluded_private_blocks": 1,
+    "blockers": []
+  },
+  {
+    "region": "제주",
+    "reviewed_at": "2026-10-01",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "sha256": "7751ac00c1d795f7f72c6fbf256757cd73c8b64666fc96df8538ae29db8257fc",
+    "file_inspected": true,
+    "project_level": true,
+    "confirmed_positive_sites": 34,
+    "excluded_private_blocks": 23,
+    "blockers": []
+  }
+]

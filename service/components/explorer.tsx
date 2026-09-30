@@ -606,12 +606,6 @@ export function Explorer({
                       ]),
                     ];
                 const supports = listingSupportHighlights(matchingJobs);
-                const rowRtReference = rtReferences.find(
-                  (reference) =>
-                    reference.projectId === p.id &&
-                    (!product || reference.productType === product) &&
-                    (!role || reference.role === role),
-                );
                 return (
                   <button
                     className="project-row"
@@ -659,6 +653,11 @@ export function Explorer({
                         )}
                       </span>
                     )}
+                    {p.unsold_evidence?.status === "confirmed" && (
+                      <span className="project-row-unsold">
+                        미분양 확인 · {p.unsold_evidence.as_of.slice(0, 7).replace("-", ".")} 기준
+                      </span>
+                    )}
                     {matchingJobs.length > 0 && (
                       <span className="project-row-job">
                         <span>1계약당 RT</span>
@@ -670,16 +669,6 @@ export function Explorer({
                               ` 외 ${supports.length - 2}종`}
                           </span>
                         )}
-                      </span>
-                    )}
-                    {rowRtReference && (
-                      <span className="project-row-reference">
-                        <span>RT 참고</span>
-                        <span>
-                          {productLabels[rowRtReference.productType]}{" "}
-                          {roleLabels[rowRtReference.role]} ·{" "}
-                          {formatRtReference(rowRtReference)}
-                        </span>
                       </span>
                     )}
                   </button>
@@ -755,6 +744,15 @@ export function Explorer({
                   </>
                 )}
               </dl>
+              {selected.unsold_evidence?.status === "confirmed" && (
+                <p className="unsold-evidence">
+                  <strong>미분양 확인</strong>{" "}
+                  · {selected.unsold_evidence.as_of.slice(0, 7).replace("-", ".")} 기준{" "}
+                  <a href={selected.unsold_evidence.source_url} target="_blank" rel="noopener noreferrer">
+                    {selected.unsold_evidence.provider}
+                  </a>
+                </p>
+              )}
               {projectJobs.length > 0 && (
                 <p className="summary-jobs">
                   <strong>전체 구인정보 {projectJobs.length}건</strong>

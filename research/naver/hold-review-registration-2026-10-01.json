@@ -1,0 +1,615 @@
+{
+  "nextIndex": 110,
+  "inserted": 35,
+  "renamed": 19,
+  "skipped": 24,
+  "resolved": [
+    {
+      "name": "김포풍무호반써밋",
+      "old_name": "김포풍무호반써밋",
+      "outcome": "rename",
+      "id": "9b2db80e-2625-4695-a3f4-906875cf1c2e"
+    },
+    {
+      "name": "사우역지엔하임",
+      "old_name": "사우역지엔하임",
+      "outcome": "existing",
+      "id": "cbdb1e5c-2a64-4750-8529-c3193ab38133"
+    },
+    {
+      "name": "풍무역세권수자인그라센트2차",
+      "old_name": "풍무역세권수자인그라센트2차",
+      "outcome": "existing",
+      "id": "f7222b6b-da81-4154-acfb-1e99ccea2403"
+    },
+    {
+      "name": "풍무역푸르지오더마크",
+      "old_name": "풍무역푸르지오더마크",
+      "outcome": "existing",
+      "id": "b4f3d711-d672-4ab5-b418-283784019e23"
+    },
+    {
+      "name": "해링턴플레이스풍무1단지",
+      "old_name": "해링턴플레이스풍무1단지",
+      "outcome": "rename",
+      "id": "d7ea645a-addd-4d98-8980-3aa6fdb661f4"
+    },
+    {
+      "name": "해링턴플레이스풍무2단지",
+      "old_name": "해링턴플레이스풍무2단지",
+      "outcome": "rename",
+      "id": "110882ba-0a2f-4fc2-a70e-274615d69087"
+    },
+    {
+      "name": "해링턴플레이스풍무3단지",
+      "old_name": "해링턴플레이스풍무3단지",
+      "outcome": "rename",
+      "id": "f77e37c4-440e-4e5d-98df-e29c06d1861c"
+    },
+    {
+      "name": "고양창릉S-3블록 공공분양",
+      "old_name": "고양창릉S-3블록 공공분양",
+      "outcome": "insert",
+      "id": "ad4c897a-d4a3-4851-967f-d90f01c2aae4"
+    },
+    {
+      "name": "고양창릉S-4블록 공공분양",
+      "old_name": "고양창릉S-4블록 공공분양",
+      "outcome": "insert",
+      "id": "28df0d3d-74b4-4b42-aecf-eedbfe8cb3d7"
+    },
+    {
+      "name": "고양장항카이브유보라",
+      "old_name": "고양장항카이브유보라",
+      "outcome": "insert",
+      "id": "8adf6d19-11c1-461b-be23-89bc75f888ac"
+    },
+    {
+      "name": "e편한세상일산메이포레1단지",
+      "old_name": "e편한세상일산메이포레1단지",
+      "outcome": "insert",
+      "id": "8e370268-75e6-41d5-a76b-9c127023df07"
+    },
+    {
+      "name": "e편한세상일산메이포레3단지",
+      "old_name": "e편한세상일산메이포레3단지",
+      "outcome": "insert",
+      "id": "00099692-436b-47ed-9eae-cbdd85803b2a"
+    },
+    {
+      "name": "힐스테이트광명11",
+      "old_name": "힐스테이트광명11",
+      "outcome": "insert",
+      "id": "5bdd1d8a-027c-4270-99d2-7d69dac01840"
+    },
+    {
+      "name": "곤지암역센트럴아이파크",
+      "old_name": "곤지암역센트럴아이파크",
+      "outcome": "existing",
+      "id": "3eeb7dc6-b492-429e-b791-57d43bf2aeee"
+    },
+    {
+      "name": "힐스테이트광주곤지암역",
+      "old_name": "힐스테이트광주곤지암역",
+      "outcome": "existing",
+      "id": "1f3a9aa6-7620-4b7c-b1a7-9a2098ada3a9"
+    },
+    {
+      "name": "광주태전경남아너스빌리미티드",
+      "old_name": "광주태전경남아너스빌리미티드",
+      "outcome": "rename",
+      "id": "5e0182d4-43cc-4169-b2ff-04fbab7bc34e"
+    },
+    {
+      "name": "중흥S-클래스힐더포레",
+      "old_name": "중흥S-클래스힐더포레",
+      "outcome": "existing",
+      "id": "dac74703-8c24-46b1-829d-36cbb739130e"
+    },
+    {
+      "name": "대야미역금강펜테리움레이크포레",
+      "old_name": "대야미역금강펜테리움레이크포레",
+      "outcome": "rename",
+      "id": "9036979e-fcb6-4b9e-b0fd-e4aaa5b7ce74"
+    },
+    {
+      "name": "부천아테라자이",
+      "old_name": "부천아테라자이",
+      "outcome": "rename",
+      "id": "1ebbb5db-d4d7-4c17-b6d4-f189bff8fed2"
+    },
+    {
+      "name": "더샵분당하이스트",
+      "old_name": "더샵분당하이스트",
+      "outcome": "existing",
+      "id": "08d67269-1eb3-4588-a16d-0e9e3c30293e"
+    },
+    {
+      "name": "복정역에피트",
+      "old_name": "복정역에피트",
+      "outcome": "insert",
+      "id": "faf87201-d968-47e9-8dd6-1f0d6f190e71"
+    },
+    {
+      "name": "성남복정2 A1블럭 신혼희망타운",
+      "old_name": "성남복정2 A1블럭 신혼희망타운",
+      "outcome": "insert",
+      "id": "b359cf0e-6361-469a-931e-fa4d56050513"
+    },
+    {
+      "name": "엘리프한신더휴수원D3블록",
+      "old_name": "엘리프한신더휴수원D3블록",
+      "outcome": "insert",
+      "id": "61584c89-bb3b-44f6-95a0-18019fc6a7b5"
+    },
+    {
+      "name": "시흥거모B1호반써밋",
+      "old_name": "시흥거모B1호반써밋",
+      "outcome": "existing",
+      "id": "ee55aa29-5ba7-4116-9862-46bf0251dcd6"
+    },
+    {
+      "name": "시흥거모지구대방엘리움더루체Ⅰ",
+      "old_name": "시흥거모지구대방엘리움더루체Ⅰ",
+      "outcome": "insert",
+      "id": "94cfe7f8-941d-45d0-acb7-5616cb807a8e"
+    },
+    {
+      "name": "시흥거모지구대방엘리움더루체Ⅱ",
+      "old_name": "시흥거모지구대방엘리움더루체Ⅱ",
+      "outcome": "insert",
+      "id": "73563a86-9382-4bdf-9cdb-5311170b772a"
+    },
+    {
+      "name": "안성아양금성백조예미지",
+      "old_name": "안성아양금성백조예미지",
+      "outcome": "rename",
+      "id": "da117934-0e4c-4c44-b87e-cd12ed83e7ea"
+    },
+    {
+      "name": "양주역제일풍경채위너스카이",
+      "old_name": "양주역제일풍경채위너스카이",
+      "outcome": "existing",
+      "id": "64e6d9df-eac0-4371-8e2a-77d9402eb5e9"
+    },
+    {
+      "name": "지웰엘리움양주덕계역",
+      "old_name": "지웰엘리움양주덕계역",
+      "outcome": "existing",
+      "id": "1825f211-3305-4c6e-b15f-065e71f89193"
+    },
+    {
+      "name": "양주더플래티넘센트럴포레",
+      "old_name": "양주더플래티넘센트럴포레",
+      "outcome": "rename",
+      "id": "c06d4206-d18f-4c86-8557-c11362ccb577"
+    },
+    {
+      "name": "한양아이클래스양주",
+      "old_name": "한양아이클래스양주",
+      "outcome": "rename",
+      "id": "a6965c04-e04b-4d25-995a-ae274708f7a5"
+    },
+    {
+      "name": "오산세교힐데스하임",
+      "old_name": "오산세교힐데스하임",
+      "outcome": "insert",
+      "id": "e46896b0-3311-4d23-84ff-1443da45da60"
+    },
+    {
+      "name": "역북서희스타힐스프라임시티",
+      "old_name": "역북서희스타힐스프라임시티",
+      "outcome": "rename",
+      "id": "e32d7b7a-813c-4395-8f4c-87d319a362f3"
+    },
+    {
+      "name": "용인푸르지오클루센트",
+      "old_name": "용인푸르지오클루센트",
+      "outcome": "existing",
+      "id": "7e9f2978-a7a5-482a-a46a-7865bcd1756b"
+    },
+    {
+      "name": "의왕시청역SK뷰아이파크",
+      "old_name": "의왕시청역SK뷰아이파크",
+      "outcome": "rename",
+      "id": "23f57a4f-74a4-4873-95fc-c3785625cffd"
+    },
+    {
+      "name": "의왕역SK뷰",
+      "old_name": "의왕역SK뷰",
+      "outcome": "rename",
+      "id": "829a32b3-a8b3-439f-ab0e-891a347d069d"
+    },
+    {
+      "name": "의왕센트라인데시앙",
+      "old_name": "의왕센트라인데시앙",
+      "outcome": "insert",
+      "id": "b33e5526-84be-4759-bef3-c83e646d4738"
+    },
+    {
+      "name": "이천자이더레브",
+      "old_name": "이천자이더레브",
+      "outcome": "rename",
+      "id": "92b12f08-4f30-4ca6-95dd-2981803e4dda"
+    },
+    {
+      "name": "이천롯데캐슬센트럴페라즈스카이",
+      "old_name": "이천롯데캐슬센트럴페라즈스카이",
+      "outcome": "insert",
+      "id": "80ebc0d4-1af7-4c71-b013-082e79eeeac9"
+    },
+    {
+      "name": "이천서희스타힐스스카이",
+      "old_name": "이천서희스타힐스스카이",
+      "outcome": "rename",
+      "id": "4d2b1244-737f-4d4a-b255-373e4bbf3626"
+    },
+    {
+      "name": "이천중리B3블록금성백조예미지",
+      "old_name": "이천중리B3블록금성백조예미지",
+      "outcome": "rename",
+      "id": "abe4a747-5de5-462d-9ec6-2ff55e1d990d"
+    },
+    {
+      "name": "파주운정3지구 주상복합2BL 사전청약",
+      "old_name": "파주운정3지구 주상복합2BL 사전청약",
+      "outcome": "rename",
+      "id": "b9e0d040-62fe-4adb-8527-db843076475d"
+    },
+    {
+      "name": "파주운정3지구 주상복합6BL 사전청약",
+      "old_name": "파주운정3지구 주상복합6BL 사전청약",
+      "outcome": "insert",
+      "id": "207f42a9-59f2-40fc-8b94-f6af760aad67"
+    },
+    {
+      "name": "고덕국제신도시수자인풍경채2단지",
+      "old_name": "고덕국제신도시수자인풍경채2단지",
+      "outcome": "insert",
+      "id": "3c159148-36d2-4b2d-9591-2add0260d6ea"
+    },
+    {
+      "name": "평택브레인시티수자인",
+      "old_name": "평택브레인시티수자인",
+      "outcome": "insert",
+      "id": "6a903e75-269f-4768-b156-6ddca5c29445"
+    },
+    {
+      "name": "신영지웰평택화양",
+      "old_name": "신영지웰평택화양",
+      "outcome": "existing",
+      "id": "4cbe4507-8290-4053-80ce-85484b938542"
+    },
+    {
+      "name": "고양창릉A-4 행복주택",
+      "old_name": "고양창릉A-4 행복주택",
+      "outcome": "excluded"
+    },
+    {
+      "name": "대곡역롯데캐슬엘클라씨 행복주택",
+      "old_name": "대곡역롯데캐슬엘클라씨 행복주택",
+      "outcome": "excluded"
+    },
+    {
+      "name": "철산자이더헤리티지",
+      "old_name": "철산자이더헤리티지",
+      "outcome": "existing",
+      "id": "793f42e0-f25f-492b-8600-3f65caa58ae0"
+    },
+    {
+      "name": "철산자이브리에르",
+      "old_name": "철산자이브리에르",
+      "outcome": "existing",
+      "id": "529ab248-77b9-4159-b797-17eba61804cb"
+    },
+    {
+      "name": "남양주진접2 A-4블록 행복주택",
+      "old_name": "남양주진접2 A-4블록 행복주택",
+      "outcome": "excluded"
+    },
+    {
+      "name": "부천대장하우스토리디센트",
+      "old_name": "부천대장하우스토리디센트",
+      "outcome": "insert",
+      "id": "2871093c-1ef0-4f5c-a687-68c8fcfcd602"
+    },
+    {
+      "name": "부천대장A5 행복주택",
+      "old_name": "부천대장A5 행복주택",
+      "outcome": "excluded"
+    },
+    {
+      "name": "부천대장A6 행복주택",
+      "old_name": "부천대장A6 행복주택",
+      "outcome": "excluded"
+    },
+    {
+      "name": "성남금토A-4블록 행복주택",
+      "old_name": "성남금토A-4블록 행복주택",
+      "outcome": "excluded"
+    },
+    {
+      "name": "위례A2-7블록 행복주택",
+      "old_name": "위례A2-7블록 행복주택",
+      "outcome": "excluded"
+    },
+    {
+      "name": "권선자이e편한세상",
+      "old_name": "권선자이e편한세상",
+      "outcome": "insert",
+      "id": "c20f6974-c1a9-4c47-9d08-44ae4f0c2cca"
+    },
+    {
+      "name": "수원당수지구A5블록 신혼희망타운",
+      "old_name": "수원당수지구A5블록 신혼희망타운",
+      "outcome": "insert",
+      "id": "a8792ff0-9741-4546-9087-c13b4ab9e7b2"
+    },
+    {
+      "name": "오산세교하우스토리더센트럴",
+      "old_name": "오산세교하우스토리더센트럴",
+      "outcome": "insert",
+      "id": "fafa9328-1e08-46a7-883f-c37b86801308"
+    },
+    {
+      "name": "평택고덕A57-2블록 신혼희망타운",
+      "old_name": "평택고덕A57-2블록 신혼희망타운",
+      "outcome": "insert",
+      "id": "dfd25054-382c-42f8-b80b-0ffccec4de93"
+    },
+    {
+      "name": "평택역더센트럴45",
+      "old_name": "평택역더센트럴45",
+      "outcome": "existing",
+      "id": "89f4fafd-ad03-4201-8e15-7685811e4aee"
+    },
+    {
+      "name": "화성향남롯데캐슬시그니처",
+      "old_name": "화성향남롯데캐슬시그니처",
+      "outcome": "insert",
+      "id": "1f36c8f5-880c-4bec-9869-4f245e1cc554"
+    },
+    {
+      "name": "휴먼빌일산클래스원",
+      "old_name": "휴먼빌일산클래스원",
+      "outcome": "existing",
+      "id": "cfecaa84-96e2-45d2-ba93-de49e7523515"
+    },
+    {
+      "name": "철산역자이",
+      "old_name": "철산역자이",
+      "outcome": "existing",
+      "id": "cec608e9-0022-4b87-a728-3a7012bf574b"
+    },
+    {
+      "name": "오남역서희스타힐스여의재1단지",
+      "old_name": "오남역서희스타힐스여의재1단지",
+      "outcome": "existing",
+      "id": "ce954491-cdeb-4f0f-85b3-886f3f4986f6"
+    },
+    {
+      "name": "더샵분당센트로",
+      "old_name": "더샵분당센트로",
+      "outcome": "existing",
+      "id": "aad17e75-1af2-43ef-a0ac-ebb42b8d86c6"
+    },
+    {
+      "name": "안양역센트럴아이파크수자인",
+      "old_name": "안양역센트럴아이파크수자인",
+      "outcome": "existing",
+      "id": "4650016d-29ca-416c-8917-fc4e58c04adf"
+    },
+    {
+      "name": "북오산자이리버블시티",
+      "old_name": "북오산자이리버블시티",
+      "outcome": "existing",
+      "id": "1aa620a5-80fe-466e-99b1-98879b454051"
+    },
+    {
+      "name": "부발역에피트에디션",
+      "old_name": "부발역에피트에디션",
+      "outcome": "existing",
+      "id": "9625fcb0-4704-4fbb-959c-876ba6384381"
+    },
+    {
+      "name": "과천푸르지오라비엔오",
+      "old_name": "과천푸르지오라비엔오",
+      "outcome": "existing",
+      "id": "13e02625-02d1-4388-abf8-6ce1a6f1af0c"
+    },
+    {
+      "name": "과천푸르지오벨라르테",
+      "old_name": "과천푸르지오벨라르테",
+      "outcome": "existing",
+      "id": "117ef8b2-e728-4aaa-8f3d-034f63886e4e"
+    },
+    {
+      "name": "수원광교 A17블럭",
+      "old_name": "수원광교 A17블럭",
+      "outcome": "insert",
+      "id": "64e5e70a-c3d1-4523-8b11-5c5df9239035"
+    },
+    {
+      "name": "시흥거모S-3BL",
+      "old_name": "시흥거모S-3BL",
+      "outcome": "insert",
+      "id": "0a349b46-b4fa-4fa9-9344-a09d49613c3b"
+    },
+    {
+      "name": "신천역에피트",
+      "old_name": "신천역에피트",
+      "outcome": "rename",
+      "id": "03e33951-a569-46c9-a96c-f3943aa29db0"
+    },
+    {
+      "name": "쌍용더플래티넘한강",
+      "old_name": "쌍용더플래티넘한강",
+      "outcome": "insert",
+      "id": "ebfd861c-fe23-46bd-b1c5-176b65a163f7"
+    },
+    {
+      "name": "의정부역펠리스타워양우내안애",
+      "old_name": "의정부역펠리스타워양우내안애",
+      "outcome": "insert",
+      "id": "ee839c24-cef9-4ffe-a0f3-7b2ba262b905"
+    },
+    {
+      "name": "상계장암지구 장기전세",
+      "old_name": "상계장암지구 장기전세",
+      "outcome": "excluded"
+    },
+    {
+      "name": "힐스테이트회룡역파크뷰",
+      "old_name": "힐스테이트회룡역파크뷰",
+      "outcome": "rename",
+      "id": "a41fb187-5995-40e0-b3c4-26ef7b6b5530"
+    },
+    {
+      "name": "엘리프고덕센트럴하이",
+      "old_name": "엘리프고덕센트럴하이",
+      "outcome": "insert",
+      "id": "a6856c4f-f096-4382-96d3-d497a549c63d"
+    },
+    {
+      "name": "평택고덕우미린더프리미어",
+      "old_name": "평택고덕우미린더프리미어",
+      "outcome": "insert",
+      "id": "8db6d574-501b-4fd6-a812-57e22cb94f15"
+    },
+    {
+      "name": "힐스테이트고덕엘리스트A31BL",
+      "old_name": "힐스테이트고덕엘리스트A31BL",
+      "outcome": "insert",
+      "id": "fafbc585-f766-40f2-982c-d069f71f0928"
+    },
+    {
+      "name": "힐스테이트고덕엘리스트A34BL",
+      "old_name": "힐스테이트고덕엘리스트A34BL",
+      "outcome": "insert",
+      "id": "c7f43108-25d0-4e17-a316-bb3eb3c79a56"
+    },
+    {
+      "name": "힐스테이트고덕엘리스트A35BL",
+      "old_name": "힐스테이트고덕엘리스트A35BL",
+      "outcome": "insert",
+      "id": "e04f47b3-511b-4f90-886e-0de6b9904cc6"
+    },
+    {
+      "name": "한화포레나지제역",
+      "old_name": "한화포레나지제역",
+      "outcome": "insert",
+      "id": "98df8bf1-ad08-4480-8c6d-23f5e15d61e7"
+    },
+    {
+      "name": "아크메르동탄",
+      "old_name": "아크메르동탄",
+      "outcome": "insert",
+      "id": "c7375b1f-2a13-48c8-9e19-d2ae44c5ab79"
+    },
+    {
+      "name": "향남역그로브스위첸",
+      "old_name": "향남역그로브스위첸",
+      "outcome": "insert",
+      "id": "9fac514d-0779-4ecf-a7d7-372a4db3de42"
+    }
+  ],
+  "held": [
+    {
+      "name": "휴먼빌일산클래스원",
+      "reason": "인접 현장과 사업지 중복 가능성 확인 필요"
+    },
+    {
+      "name": "철산역자이",
+      "reason": "인접 현장과 사업지 중복 가능성 확인 필요"
+    },
+    {
+      "name": "오남역서희스타힐스여의재1단지",
+      "reason": "인접 현장과 사업지 중복 가능성 확인 필요"
+    },
+    {
+      "name": "더샵분당센트로",
+      "reason": "인접 현장과 사업지 중복 가능성 확인 필요"
+    },
+    {
+      "name": "안양역센트럴아이파크수자인",
+      "reason": "인접 현장과 사업지 중복 가능성 확인 필요"
+    },
+    {
+      "name": "북오산자이리버블시티",
+      "reason": "인접 현장과 사업지 중복 가능성 확인 필요"
+    },
+    {
+      "name": "부발역에피트에디션",
+      "reason": "인접 현장과 사업지 중복 가능성 확인 필요"
+    },
+    {
+      "name": "과천푸르지오라비엔오",
+      "reason": "인접 현장과 사업지 중복 가능성 확인 필요"
+    },
+    {
+      "name": "과천푸르지오벨라르테",
+      "reason": "인접 현장과 사업지 중복 가능성 확인 필요"
+    },
+    {
+      "name": "수원광교 A17블럭",
+      "reason": "현재 분양 중 또는 향후 입주 근거 추가 확인 필요"
+    },
+    {
+      "name": "시흥거모S-3BL",
+      "reason": "현재 분양 중 또는 향후 입주 근거 추가 확인 필요"
+    },
+    {
+      "name": "신천역에피트",
+      "reason": "인접 현장과 사업지 중복 가능성 확인 필요"
+    },
+    {
+      "name": "쌍용더플래티넘한강",
+      "reason": "현재 분양 중 또는 향후 입주 근거 추가 확인 필요"
+    },
+    {
+      "name": "의정부역펠리스타워양우내안애",
+      "reason": "현재 분양 중 또는 향후 입주 근거 추가 확인 필요"
+    },
+    {
+      "name": "상계장암지구 장기전세",
+      "reason": "현재 분양 중 또는 향후 입주 근거 추가 확인 필요"
+    },
+    {
+      "name": "힐스테이트회룡역파크뷰",
+      "reason": "인접 현장과 사업지 중복 가능성 확인 필요"
+    },
+    {
+      "name": "엘리프고덕센트럴하이",
+      "reason": "현재 분양 중 또는 향후 입주 근거 추가 확인 필요"
+    },
+    {
+      "name": "평택고덕우미린더프리미어",
+      "reason": "현재 분양 중 또는 향후 입주 근거 추가 확인 필요"
+    },
+    {
+      "name": "힐스테이트고덕엘리스트A31BL",
+      "reason": "현재 분양 중 또는 향후 입주 근거 추가 확인 필요"
+    },
+    {
+      "name": "힐스테이트고덕엘리스트A34BL",
+      "reason": "현재 분양 중 또는 향후 입주 근거 추가 확인 필요"
+    },
+    {
+      "name": "힐스테이트고덕엘리스트A35BL",
+      "reason": "현재 분양 중 또는 향후 입주 근거 추가 확인 필요"
+    },
+    {
+      "name": "한화포레나지제역",
+      "reason": "현재 분양 중 또는 향후 입주 근거 추가 확인 필요"
+    },
+    {
+      "name": "아크메르동탄",
+      "reason": "현재 분양 중 또는 향후 입주 근거 추가 확인 필요"
+    },
+    {
+      "name": "향남역그로브스위첸",
+      "reason": "현재 분양 중 또는 향후 입주 근거 추가 확인 필요"
+    }
+  ],
+  "error": null
+}

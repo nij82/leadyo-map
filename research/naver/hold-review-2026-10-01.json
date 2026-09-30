@@ -1,0 +1,2074 @@
+{
+  "as_of": "2026-10-01",
+  "total": 86,
+  "rows": [
+    {
+      "name": "김포풍무호반써밋",
+      "address": "경기도 김포시 사우동 475-2번지 일원(풍무역세권도시개발사업지구 B5블록)",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028150&supp_cd=9045481",
+      "source_ids": {
+        "build_dtl_cd": "6028150",
+        "supp_cd": "9045481"
+      },
+      "old_name": "김포풍무호반써밋",
+      "old_reason": "청약홈 자료와 동일명·사업지 근거 대조 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2028.10",
+      "collected_at": "2026-10-01T06:37:28.636240+09:00",
+      "outcome": "rename",
+      "reason": "동일 사업지·근접 좌표, 네이버의 현재 분양명으로 기존 현장 갱신",
+      "latitude": 37.6153054,
+      "longitude": 126.7364386,
+      "existing_candidates": [
+        {
+          "id": "9b2db80e-2625-4695-a3f4-906875cf1c2e",
+          "name": "김포 풍무역세권 B5블록 호반써밋",
+          "address": "경기도 김포시 사우동 475-2번지 일원(풍무역세권도시개발사업지구 B5블록)",
+          "distance_m": 0.0
+        }
+      ],
+      "verified_move_in": "2028.10",
+      "existing_id": "9b2db80e-2625-4695-a3f4-906875cf1c2e",
+      "existing_name": "김포 풍무역세권 B5블록 호반써밋"
+    },
+    {
+      "name": "사우역지엔하임",
+      "address": "경기도 김포시 사우동 297번지 일원(사우4구역 공동1블록)",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028269&supp_cd=9046329",
+      "source_ids": {
+        "build_dtl_cd": "6028269",
+        "supp_cd": "9046329"
+      },
+      "old_name": "사우역지엔하임",
+      "old_reason": "청약홈 자료와 동일명·사업지 근거 대조 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2029.04",
+      "collected_at": "2026-10-01T06:37:31.079938+09:00",
+      "outcome": "existing",
+      "reason": "동일 사업지·이름의 기존 현장 확인",
+      "latitude": 37.615284,
+      "longitude": 126.7188146,
+      "existing_candidates": [
+        {
+          "id": "cbdb1e5c-2a64-4750-8529-c3193ab38133",
+          "name": "사우역 지엔하임",
+          "address": "경기도 김포시 사우동 297번지 일원(사우4구역 공동1블록)",
+          "distance_m": 0.0
+        }
+      ],
+      "verified_move_in": "2029.04",
+      "existing_id": "cbdb1e5c-2a64-4750-8529-c3193ab38133",
+      "existing_name": "사우역 지엔하임"
+    },
+    {
+      "name": "풍무역세권수자인그라센트2차",
+      "address": "경기도 김포시 사우동 풍무역세권도시개발사업지구 B1블록",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028343&supp_cd=9049294",
+      "source_ids": {
+        "build_dtl_cd": "6028343",
+        "supp_cd": "9049294"
+      },
+      "old_name": "풍무역세권수자인그라센트2차",
+      "old_reason": "청약홈 자료와 동일명·사업지 근거 대조 필요",
+      "naver_status": "분양중",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2029.01",
+      "collected_at": "2026-10-01T06:37:33.572090+09:00",
+      "outcome": "existing",
+      "reason": "동일 사업지·이름의 기존 현장 확인",
+      "latitude": 37.6197469,
+      "longitude": 126.7267594,
+      "existing_candidates": [
+        {
+          "id": "f7222b6b-da81-4154-acfb-1e99ccea2403",
+          "name": "풍무역세권 수자인 그라센트 2차",
+          "address": "경기도 김포시 풍무역세권도시개발사업 B1BL(사우동 167-1번지 일원)",
+          "distance_m": 32.9
+        }
+      ],
+      "verified_move_in": "2029.01",
+      "existing_id": "f7222b6b-da81-4154-acfb-1e99ccea2403",
+      "existing_name": "풍무역세권 수자인 그라센트 2차"
+    },
+    {
+      "name": "풍무역푸르지오더마크",
+      "address": "경기도 김포시 사우동 454-5번지 일원(풍무역세권도시개발사업지구 B3블록)",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028152&supp_cd=9045485",
+      "source_ids": {
+        "build_dtl_cd": "6028152",
+        "supp_cd": "9045485"
+      },
+      "old_name": "풍무역푸르지오더마크",
+      "old_reason": "청약홈 자료와 동일명·사업지 근거 대조 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2028.11",
+      "collected_at": "2026-10-01T06:37:35.803589+09:00",
+      "outcome": "existing",
+      "reason": "동일 사업지·이름의 기존 현장 확인",
+      "latitude": 37.6168472,
+      "longitude": 126.7319427,
+      "existing_candidates": [
+        {
+          "id": "b4f3d711-d672-4ab5-b418-283784019e23",
+          "name": "풍무역 푸르지오 더 마크",
+          "address": "경기도 김포시 사우동 428-3 일원 (풍무역세권 도시개발사업 B3블록)",
+          "distance_m": 67.7
+        }
+      ],
+      "verified_move_in": "2028.11",
+      "existing_id": "b4f3d711-d672-4ab5-b418-283784019e23",
+      "existing_name": "풍무역 푸르지오 더 마크"
+    },
+    {
+      "name": "해링턴플레이스풍무1단지",
+      "address": "경기도 김포시 풍무동 483-7번지 일대",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027978&supp_cd=9044051",
+      "source_ids": {
+        "build_dtl_cd": "6027978",
+        "supp_cd": "9044051"
+      },
+      "old_name": "해링턴플레이스풍무1단지",
+      "old_reason": "청약홈 자료와 동일명·사업지 근거 대조 필요",
+      "naver_status": "분양중",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2028.08",
+      "collected_at": "2026-10-01T06:37:37.998858+09:00",
+      "outcome": "rename",
+      "reason": "동일 사업지·근접 좌표, 네이버의 현재 분양명으로 기존 현장 갱신",
+      "latitude": 37.6039092,
+      "longitude": 126.7299893,
+      "existing_candidates": [
+        {
+          "id": "d7ea645a-addd-4d98-8980-3aa6fdb661f4",
+          "name": "해링턴플레이스 풍무(1BL)",
+          "address": "경기도 김포시 풍무동 483-7번지 일대 (경기도 김포시 풍무 양도지구 도시개발사업 공동주택 1단지)",
+          "distance_m": 68.3
+        }
+      ],
+      "verified_move_in": "2028.08",
+      "existing_id": "d7ea645a-addd-4d98-8980-3aa6fdb661f4",
+      "existing_name": "해링턴플레이스 풍무(1BL)"
+    },
+    {
+      "name": "해링턴플레이스풍무2단지",
+      "address": "경기도 김포시 풍무동 143-1번지 일대",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027979&supp_cd=9044052",
+      "source_ids": {
+        "build_dtl_cd": "6027979",
+        "supp_cd": "9044052"
+      },
+      "old_name": "해링턴플레이스풍무2단지",
+      "old_reason": "청약홈 자료와 동일명·사업지 근거 대조 필요",
+      "naver_status": "분양중",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2028.08",
+      "collected_at": "2026-10-01T06:37:40.263135+09:00",
+      "outcome": "rename",
+      "reason": "동일 사업지·근접 좌표, 네이버의 현재 분양명으로 기존 현장 갱신",
+      "latitude": 37.6060331,
+      "longitude": 126.7301254,
+      "existing_candidates": [
+        {
+          "id": "110882ba-0a2f-4fc2-a70e-274615d69087",
+          "name": "해링턴플레이스 풍무(2BL)",
+          "address": "경기도 김포시 풍무동 143-1번지 일대 (경기도 김포시 풍무 양도지구 도시개발사업 공동주택 2단지)",
+          "distance_m": 67.1
+        }
+      ],
+      "verified_move_in": "2028.08",
+      "existing_id": "110882ba-0a2f-4fc2-a70e-274615d69087",
+      "existing_name": "해링턴플레이스 풍무(2BL)"
+    },
+    {
+      "name": "해링턴플레이스풍무3단지",
+      "address": "경기도 김포시 풍무동 370-37번지 일대",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027980&supp_cd=9044053",
+      "source_ids": {
+        "build_dtl_cd": "6027980",
+        "supp_cd": "9044053"
+      },
+      "old_name": "해링턴플레이스풍무3단지",
+      "old_reason": "청약홈 자료와 동일명·사업지 근거 대조 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2028.08",
+      "collected_at": "2026-10-01T06:37:42.609113+09:00",
+      "outcome": "rename",
+      "reason": "동일 사업지·근접 좌표, 네이버의 현재 분양명으로 기존 현장 갱신",
+      "latitude": 37.6054333,
+      "longitude": 126.732427,
+      "existing_candidates": [
+        {
+          "id": "f77e37c4-440e-4e5d-98df-e29c06d1861c",
+          "name": "해링턴플레이스 풍무(3BL)",
+          "address": "경기도 김포시 풍무동 370-37번지 일대 (경기도 김포시 풍무 양도지구 도시개발사업 공동주택 3단지)",
+          "distance_m": 0.1
+        }
+      ],
+      "verified_move_in": "2028.08",
+      "existing_id": "f77e37c4-440e-4e5d-98df-e29c06d1861c",
+      "existing_name": "해링턴플레이스 풍무(3BL)"
+    },
+    {
+      "name": "고양창릉S-3블록 공공분양",
+      "address": "경기도 고양시 덕양구 도내동 고양창릉 S-3블록",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6026863&supp_cd=9048327",
+      "source_ids": {
+        "build_dtl_cd": "6026863",
+        "supp_cd": "9048327"
+      },
+      "old_name": "고양창릉S-3블록 공공분양",
+      "old_reason": "청약홈 자료와 동일명·사업지 근거 대조 필요",
+      "naver_status": "분양중",
+      "supply_kind": "공공분양",
+      "move_in": "입주 2030.02",
+      "collected_at": "2026-10-01T06:37:44.816242+09:00",
+      "outcome": "insert",
+      "reason": "네이버 상세의 현재 분양/향후 입주 및 사업지·목록 식별자 확인",
+      "latitude": 37.6247272,
+      "longitude": 126.8601035,
+      "existing_candidates": [],
+      "verified_move_in": "2030.02"
+    },
+    {
+      "name": "고양창릉S-4블록 공공분양",
+      "address": "경기도 고양시 덕양구 도내동 고양창릉 S4블록",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6026503&supp_cd=9048332",
+      "source_ids": {
+        "build_dtl_cd": "6026503",
+        "supp_cd": "9048332"
+      },
+      "old_name": "고양창릉S-4블록 공공분양",
+      "old_reason": "청약홈 자료와 동일명·사업지 근거 대조 필요",
+      "naver_status": "분양중",
+      "supply_kind": "공공분양",
+      "move_in": "입주 2030.03",
+      "collected_at": "2026-10-01T06:37:47.046283+09:00",
+      "outcome": "insert",
+      "reason": "네이버 상세의 현재 분양/향후 입주 및 사업지·목록 식별자 확인",
+      "latitude": 37.6262279,
+      "longitude": 126.8646426,
+      "existing_candidates": [],
+      "verified_move_in": "2030.03"
+    },
+    {
+      "name": "휴먼빌일산클래스원",
+      "address": "경기도 고양시 일산동구 식사동 1110번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027400&supp_cd=9040803",
+      "source_ids": {
+        "build_dtl_cd": "6027400",
+        "supp_cd": "9040803"
+      },
+      "old_name": "휴먼빌일산클래스원",
+      "old_reason": "청약홈 자료와 동일명·사업지 근거 대조 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2027.04",
+      "collected_at": "2026-10-01T06:37:49.266711+09:00",
+      "outcome": "held",
+      "reason": "인접 현장과 사업지 중복 가능성 확인 필요",
+      "latitude": 37.6692644,
+      "longitude": 126.8050399,
+      "existing_candidates": [],
+      "verified_move_in": "2027.04"
+    },
+    {
+      "name": "고양장항카이브유보라",
+      "address": "경기도 고양시 일산동구 장항동 517-11번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027463&supp_cd=9041036",
+      "source_ids": {
+        "build_dtl_cd": "6027463",
+        "supp_cd": "9041036"
+      },
+      "old_name": "고양장항카이브유보라",
+      "old_reason": "청약홈 자료와 동일명·사업지 근거 대조 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2028.07",
+      "collected_at": "2026-10-01T06:37:51.504448+09:00",
+      "outcome": "insert",
+      "reason": "네이버 상세의 현재 분양/향후 입주 및 사업지·목록 식별자 확인",
+      "latitude": 37.6496673,
+      "longitude": 126.7632864,
+      "existing_candidates": [],
+      "verified_move_in": "2028.07"
+    },
+    {
+      "name": "e편한세상일산메이포레1단지",
+      "address": "경기도 고양시 일산동구 풍동 822번지 외 15필지",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027741&supp_cd=9042581",
+      "source_ids": {
+        "build_dtl_cd": "6027741",
+        "supp_cd": "9042581"
+      },
+      "old_name": "e편한세상일산메이포레1단지",
+      "old_reason": "청약홈 자료와 동일명·사업지 근거 대조 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2027.03",
+      "collected_at": "2026-10-01T06:37:53.719813+09:00",
+      "outcome": "insert",
+      "reason": "네이버 상세의 현재 분양/향후 입주 및 사업지·목록 식별자 확인",
+      "latitude": 37.6648009,
+      "longitude": 126.8010485,
+      "existing_candidates": [],
+      "verified_move_in": "2027.03"
+    },
+    {
+      "name": "e편한세상일산메이포레3단지",
+      "address": "경기도 고양시 일산동구 풍동 852번지 외 16필지",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027777&supp_cd=9042854",
+      "source_ids": {
+        "build_dtl_cd": "6027777",
+        "supp_cd": "9042854"
+      },
+      "old_name": "e편한세상일산메이포레3단지",
+      "old_reason": "청약홈 자료와 동일명·사업지 근거 대조 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2027.03",
+      "collected_at": "2026-10-01T06:37:55.946337+09:00",
+      "outcome": "insert",
+      "reason": "네이버 상세의 현재 분양/향후 입주 및 사업지·목록 식별자 확인",
+      "latitude": 37.6660084,
+      "longitude": 126.8036353,
+      "existing_candidates": [],
+      "verified_move_in": "2027.03"
+    },
+    {
+      "name": "힐스테이트광명11",
+      "address": "경기도 광명시 광명동 158-403번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028053&supp_cd=9044847",
+      "source_ids": {
+        "build_dtl_cd": "6028053",
+        "supp_cd": "9044847"
+      },
+      "old_name": "힐스테이트광명11",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2029.06",
+      "collected_at": "2026-10-01T06:37:58.161907+09:00",
+      "outcome": "insert",
+      "reason": "네이버 상세의 현재 분양/향후 입주 및 사업지·목록 식별자 확인",
+      "latitude": 37.4767204,
+      "longitude": 126.8571797,
+      "existing_candidates": [],
+      "verified_move_in": "2029.06"
+    },
+    {
+      "name": "철산역자이",
+      "address": "경기도 광명시 철산동 472-267번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028012&supp_cd=9044684",
+      "source_ids": {
+        "build_dtl_cd": "6028012",
+        "supp_cd": "9044684"
+      },
+      "old_name": "철산역자이",
+      "old_reason": "같은 이름의 기존 현장 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2029.05",
+      "collected_at": "2026-10-01T06:38:00.362804+09:00",
+      "outcome": "held",
+      "reason": "인접 현장과 사업지 중복 가능성 확인 필요",
+      "latitude": 37.4751338,
+      "longitude": 126.8639109,
+      "existing_candidates": [],
+      "verified_move_in": "2029.05"
+    },
+    {
+      "name": "곤지암역센트럴아이파크",
+      "address": "경기도 광주시 곤지암읍 곤지암리 637번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027799&supp_cd=9042903",
+      "source_ids": {
+        "build_dtl_cd": "6027799",
+        "supp_cd": "9042903"
+      },
+      "old_name": "곤지암역센트럴아이파크",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2027.05",
+      "collected_at": "2026-10-01T06:38:02.784050+09:00",
+      "outcome": "existing",
+      "reason": "동일 사업지·이름의 기존 현장 확인",
+      "latitude": 37.3520001,
+      "longitude": 127.3446802,
+      "existing_candidates": [
+        {
+          "id": "3eeb7dc6-b492-429e-b791-57d43bf2aeee",
+          "name": "곤지암역 센트럴 아이파크",
+          "address": "경기도 광주시 곤지암읍 곤지암리 637번지",
+          "distance_m": 25.5
+        }
+      ],
+      "verified_move_in": "2027.05",
+      "existing_id": "3eeb7dc6-b492-429e-b791-57d43bf2aeee",
+      "existing_name": "곤지암역 센트럴 아이파크"
+    },
+    {
+      "name": "힐스테이트광주곤지암역",
+      "address": "경기도 광주시 곤지암읍 신대리 25번지",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027602&supp_cd=9041499",
+      "source_ids": {
+        "build_dtl_cd": "6027602",
+        "supp_cd": "9041499"
+      },
+      "old_name": "힐스테이트광주곤지암역",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2027.05",
+      "collected_at": "2026-10-01T06:38:05.007294+09:00",
+      "outcome": "existing",
+      "reason": "동일 사업지·이름의 기존 현장 확인",
+      "latitude": 37.3547155,
+      "longitude": 127.3403646,
+      "existing_candidates": [
+        {
+          "id": "1f3a9aa6-7620-4b7c-b1a7-9a2098ada3a9",
+          "name": "힐스테이트 광주곤지암역",
+          "address": "경기도 광주시 곤지암읍 신대리 25번지 일원",
+          "distance_m": 28.3
+        }
+      ],
+      "verified_move_in": "2027.05",
+      "existing_id": "1f3a9aa6-7620-4b7c-b1a7-9a2098ada3a9",
+      "existing_name": "힐스테이트 광주곤지암역"
+    },
+    {
+      "name": "광주태전경남아너스빌리미티드",
+      "address": "경기도 광주시 장지동 695-14번지 일대",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6023934&supp_cd=9030431",
+      "source_ids": {
+        "build_dtl_cd": "6023934",
+        "supp_cd": "9030431"
+      },
+      "old_name": "광주태전경남아너스빌리미티드",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2027.08",
+      "collected_at": "2026-10-01T06:38:07.211592+09:00",
+      "outcome": "rename",
+      "reason": "동일 사업지·근접 좌표, 네이버의 현재 분양명으로 기존 현장 갱신",
+      "latitude": 37.3898153,
+      "longitude": 127.2345249,
+      "existing_candidates": [
+        {
+          "id": "5e0182d4-43cc-4169-b2ff-04fbab7bc34e",
+          "name": "광주태전 경남아너스빌 리미티드(2차)",
+          "address": "경기도 광주시 장지동 695-14번지 일원",
+          "distance_m": 33.7
+        }
+      ],
+      "verified_move_in": "2027.08",
+      "existing_id": "5e0182d4-43cc-4169-b2ff-04fbab7bc34e",
+      "existing_name": "광주태전 경남아너스빌 리미티드(2차)"
+    },
+    {
+      "name": "중흥S-클래스힐더포레",
+      "address": "경기도 구리시 교문동 339번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028095&supp_cd=9045259",
+      "source_ids": {
+        "build_dtl_cd": "6028095",
+        "supp_cd": "9045259"
+      },
+      "old_name": "중흥S-클래스힐더포레",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2029.02",
+      "collected_at": "2026-10-01T06:38:09.427573+09:00",
+      "outcome": "existing",
+      "reason": "동일 사업지·이름의 기존 현장 확인",
+      "latitude": 37.599827,
+      "longitude": 127.1188959,
+      "existing_candidates": [
+        {
+          "id": "dac74703-8c24-46b1-829d-36cbb739130e",
+          "name": "중흥S-클래스 힐더포레",
+          "address": "경기도 구리시 교문동 339번지 일원(딸기원2지구 주택재개발사업)",
+          "distance_m": 7.7
+        }
+      ],
+      "verified_move_in": "2029.02",
+      "existing_id": "dac74703-8c24-46b1-829d-36cbb739130e",
+      "existing_name": "중흥S-클래스 힐더포레"
+    },
+    {
+      "name": "대야미역금강펜테리움레이크포레",
+      "address": "경기도 군포시 속달동 90-3번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028056&supp_cd=9044905",
+      "source_ids": {
+        "build_dtl_cd": "6028056",
+        "supp_cd": "9044905"
+      },
+      "old_name": "대야미역금강펜테리움레이크포레",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2028.05",
+      "collected_at": "2026-10-01T06:38:11.733553+09:00",
+      "outcome": "rename",
+      "reason": "동일 사업지·근접 좌표, 네이버의 현재 분양명으로 기존 현장 갱신",
+      "latitude": 37.3316915,
+      "longitude": 126.9099864,
+      "existing_candidates": [
+        {
+          "id": "9036979e-fcb6-4b9e-b0fd-e4aaa5b7ce74",
+          "name": "대야미역 금강펜테리움 레이크포레(B1BL)",
+          "address": "경기도 군포시 군포대야미 공공주택지구 B1블럭(경기도 군포시 속달동 90-3번지 일원)",
+          "distance_m": 0.0
+        }
+      ],
+      "verified_move_in": "2028.05",
+      "existing_id": "9036979e-fcb6-4b9e-b0fd-e4aaa5b7ce74",
+      "existing_name": "대야미역 금강펜테리움 레이크포레(B1BL)"
+    },
+    {
+      "name": "오남역서희스타힐스여의재1단지",
+      "address": "경기도 남양주시 오남읍 양지7지구 A-1BL",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027897&supp_cd=9043628",
+      "source_ids": {
+        "build_dtl_cd": "6027897",
+        "supp_cd": "9043628"
+      },
+      "old_name": "오남역서희스타힐스여의재1단지",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "분양중",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2030.08",
+      "collected_at": "2026-10-01T06:43:13.557439+09:00",
+      "outcome": "held",
+      "reason": "인접 현장과 사업지 중복 가능성 확인 필요",
+      "latitude": 37.7004382,
+      "longitude": 127.2026448,
+      "existing_candidates": [],
+      "verified_move_in": "2030.08"
+    },
+    {
+      "name": "부천아테라자이",
+      "address": "경기도 부천시 소사구 괴안동 68-4 (부천괴안공공주택지구 B2블록)",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027657&supp_cd=9042254",
+      "source_ids": {
+        "build_dtl_cd": "6027657",
+        "supp_cd": "9042254"
+      },
+      "old_name": "부천아테라자이",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2027.01",
+      "collected_at": "2026-10-01T06:43:15.774621+09:00",
+      "outcome": "rename",
+      "reason": "동일 사업지·근접 좌표, 네이버의 현재 분양명으로 기존 현장 갱신",
+      "latitude": 37.479721,
+      "longitude": 126.8164568,
+      "existing_candidates": [
+        {
+          "id": "1ebbb5db-d4d7-4c17-b6d4-f189bff8fed2",
+          "name": "부천아테라자이(부천괴안지구 B-2블록)(10차)",
+          "address": "경기도 부천시 소사구 괴안동 68-4 일원(부천괴안 공공주택지구 B2BL)",
+          "distance_m": 14.1
+        }
+      ],
+      "verified_move_in": "2027.01",
+      "existing_id": "1ebbb5db-d4d7-4c17-b6d4-f189bff8fed2",
+      "existing_name": "부천아테라자이(부천괴안지구 B-2블록)(10차)"
+    },
+    {
+      "name": "더샵분당센트로",
+      "address": "경기도 성남시 분당구 구미동 220 (미금로 66)",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028243&supp_cd=9046087",
+      "source_ids": {
+        "build_dtl_cd": "6028243",
+        "supp_cd": "9046087"
+      },
+      "old_name": "더샵분당센트로",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2027.04",
+      "collected_at": "2026-10-01T06:43:18.189492+09:00",
+      "outcome": "held",
+      "reason": "인접 현장과 사업지 중복 가능성 확인 필요",
+      "latitude": 37.3396838,
+      "longitude": 127.1172014,
+      "existing_candidates": [],
+      "verified_move_in": "2027.04"
+    },
+    {
+      "name": "더샵분당하이스트",
+      "address": "경기도 성남시 분당구 정자동 90번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028400&supp_cd=9047626",
+      "source_ids": {
+        "build_dtl_cd": "6028400",
+        "supp_cd": "9047626"
+      },
+      "old_name": "더샵분당하이스트",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "분양중",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2027.12",
+      "collected_at": "2026-10-01T06:43:20.409278+09:00",
+      "outcome": "existing",
+      "reason": "동일 사업지·이름의 기존 현장 확인",
+      "latitude": 37.3676765,
+      "longitude": 127.1138881,
+      "existing_candidates": [
+        {
+          "id": "08d67269-1eb3-4588-a16d-0e9e3c30293e",
+          "name": "더샵 분당하이스트",
+          "address": "경기도 성남시 분당구 정자동 90번지",
+          "distance_m": 45.7
+        }
+      ],
+      "verified_move_in": "2027.12",
+      "existing_id": "08d67269-1eb3-4588-a16d-0e9e3c30293e",
+      "existing_name": "더샵 분당하이스트"
+    },
+    {
+      "name": "복정역에피트",
+      "address": "경기도 성남시 수정구 복정동 234번지 일원(성남복정1지구 B1BL)",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028181&supp_cd=9045706",
+      "source_ids": {
+        "build_dtl_cd": "6028181",
+        "supp_cd": "9045706"
+      },
+      "old_name": "복정역에피트",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2028.04",
+      "collected_at": "2026-10-01T06:43:22.619412+09:00",
+      "outcome": "insert",
+      "reason": "네이버 상세의 현재 분양/향후 입주 및 사업지·목록 식별자 확인",
+      "latitude": 37.4664256,
+      "longitude": 127.1319478,
+      "existing_candidates": [],
+      "verified_move_in": "2028.04"
+    },
+    {
+      "name": "성남복정2 A1블럭 신혼희망타운",
+      "address": "경기도 성남시 수정구 신흥동 성남복정2지구 A1블럭",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6025372&supp_cd=9049123",
+      "source_ids": {
+        "build_dtl_cd": "6025372",
+        "supp_cd": "9049123"
+      },
+      "old_name": "성남복정2 A1블럭 신혼희망타운",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "분양중",
+      "supply_kind": "공공분양",
+      "move_in": "입주 2030.05",
+      "collected_at": "2026-10-01T06:43:24.836584+09:00",
+      "outcome": "insert",
+      "reason": "네이버 상세의 현재 분양/향후 입주 및 사업지·목록 식별자 확인",
+      "latitude": 37.4515651,
+      "longitude": 127.142534,
+      "existing_candidates": [],
+      "verified_move_in": "2030.05"
+    },
+    {
+      "name": "엘리프한신더휴수원D3블록",
+      "address": "경기도 수원시 권선구 당수동 수원당수지구 D3블록",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6026711&supp_cd=9045992",
+      "source_ids": {
+        "build_dtl_cd": "6026711",
+        "supp_cd": "9045992"
+      },
+      "old_name": "엘리프한신더휴수원D3블록",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2028.04",
+      "collected_at": "2026-10-01T06:43:27.067072+09:00",
+      "outcome": "insert",
+      "reason": "네이버 상세의 현재 분양/향후 입주 및 사업지·목록 식별자 확인",
+      "latitude": 37.2825443,
+      "longitude": 126.9441879,
+      "existing_candidates": [],
+      "verified_move_in": "2028.04"
+    },
+    {
+      "name": "시흥거모B1호반써밋",
+      "address": "경기도 시흥시 거모동 1171번지 일원 (시흥거모지구 B1블록)",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028342&supp_cd=9046796",
+      "source_ids": {
+        "build_dtl_cd": "6028342",
+        "supp_cd": "9046796"
+      },
+      "old_name": "시흥거모B1호반써밋",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "분양중",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2028.11",
+      "collected_at": "2026-10-01T06:43:29.268792+09:00",
+      "outcome": "existing",
+      "reason": "동일 사업지·이름의 기존 현장 확인",
+      "latitude": 37.3505221,
+      "longitude": 126.7770201,
+      "existing_candidates": [
+        {
+          "id": "ee55aa29-5ba7-4116-9862-46bf0251dcd6",
+          "name": "시흥거모B1 호반써밋",
+          "address": "경기도 시흥시 거모동 1171번지 일원 (시흥거모지구 B1블럭)",
+          "distance_m": 50.7
+        }
+      ],
+      "verified_move_in": "2028.11",
+      "existing_id": "ee55aa29-5ba7-4116-9862-46bf0251dcd6",
+      "existing_name": "시흥거모B1 호반써밋"
+    },
+    {
+      "name": "시흥거모지구대방엘리움더루체Ⅰ",
+      "address": "경기도 시흥시 거모동 1175번지 일원(시흥거모 S-2BL)",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028213&supp_cd=9045777",
+      "source_ids": {
+        "build_dtl_cd": "6028213",
+        "supp_cd": "9045777"
+      },
+      "old_name": "시흥거모지구대방엘리움더루체Ⅰ",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "분양중",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2028.08",
+      "collected_at": "2026-10-01T06:43:31.480516+09:00",
+      "outcome": "insert",
+      "reason": "네이버 상세의 현재 분양/향후 입주 및 사업지·목록 식별자 확인",
+      "latitude": 37.3493515,
+      "longitude": 126.7782232,
+      "existing_candidates": [],
+      "verified_move_in": "2028.08"
+    },
+    {
+      "name": "시흥거모지구대방엘리움더루체Ⅱ",
+      "address": "경기도 시흥시 거모동 1196-1번지 일원(시흥거모 B-2BL)",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028215&supp_cd=9045778",
+      "source_ids": {
+        "build_dtl_cd": "6028215",
+        "supp_cd": "9045778"
+      },
+      "old_name": "시흥거모지구대방엘리움더루체Ⅱ",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "분양중",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2028.08",
+      "collected_at": "2026-10-01T06:43:33.713413+09:00",
+      "outcome": "insert",
+      "reason": "네이버 상세의 현재 분양/향후 입주 및 사업지·목록 식별자 확인",
+      "latitude": 37.3486043,
+      "longitude": 126.7772143,
+      "existing_candidates": [],
+      "verified_move_in": "2028.08"
+    },
+    {
+      "name": "안성아양금성백조예미지",
+      "address": "경기도 안성시 옥산동 659번지(안성아양택지개발지구B-2블록)",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028010&supp_cd=9044519",
+      "source_ids": {
+        "build_dtl_cd": "6028010",
+        "supp_cd": "9044519"
+      },
+      "old_name": "안성아양금성백조예미지",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "분양중",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2028.06",
+      "collected_at": "2026-10-01T06:43:36.188380+09:00",
+      "outcome": "rename",
+      "reason": "동일 사업지·근접 좌표, 네이버의 현재 분양명으로 기존 현장 갱신",
+      "latitude": 37.0037169,
+      "longitude": 127.255691,
+      "existing_candidates": [
+        {
+          "id": "da117934-0e4c-4c44-b87e-cd12ed83e7ea",
+          "name": "안성 아양지구 B-2블록 금성백조 예미지",
+          "address": "경기도 안성시 아양지구 B-2블록 (옥산동 659번지)",
+          "distance_m": 27.6
+        }
+      ],
+      "verified_move_in": "2028.06",
+      "existing_id": "da117934-0e4c-4c44-b87e-cd12ed83e7ea",
+      "existing_name": "안성 아양지구 B-2블록 금성백조 예미지"
+    },
+    {
+      "name": "안양역센트럴아이파크수자인",
+      "address": "경기도 안양시 만안구 안양동 841-5번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028283&supp_cd=9046427",
+      "source_ids": {
+        "build_dtl_cd": "6028283",
+        "supp_cd": "9046427"
+      },
+      "old_name": "안양역센트럴아이파크수자인",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2029.04",
+      "collected_at": "2026-10-01T06:43:38.382746+09:00",
+      "outcome": "held",
+      "reason": "인접 현장과 사업지 중복 가능성 확인 필요",
+      "latitude": 37.4043886,
+      "longitude": 126.9181486,
+      "existing_candidates": [],
+      "verified_move_in": "2029.04"
+    },
+    {
+      "name": "양주역제일풍경채위너스카이",
+      "address": "경기도 양주시 남방동 592번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027907&supp_cd=9043691",
+      "source_ids": {
+        "build_dtl_cd": "6027907",
+        "supp_cd": "9043691"
+      },
+      "old_name": "양주역제일풍경채위너스카이",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2029.01",
+      "collected_at": "2026-10-01T06:43:40.593062+09:00",
+      "outcome": "existing",
+      "reason": "동일 사업지·이름의 기존 현장 확인",
+      "latitude": 37.7779366,
+      "longitude": 127.0474774,
+      "existing_candidates": [
+        {
+          "id": "64e6d9df-eac0-4371-8e2a-77d9402eb5e9",
+          "name": "양주역 제일풍경채 위너스카이",
+          "address": "경기도 양주시 남방동 592번지 (양주역세권 도시개발사업 지구단위계획 내 M블록)",
+          "distance_m": 68.5
+        }
+      ],
+      "verified_move_in": "2029.01",
+      "existing_id": "64e6d9df-eac0-4371-8e2a-77d9402eb5e9",
+      "existing_name": "양주역 제일풍경채 위너스카이"
+    },
+    {
+      "name": "지웰엘리움양주덕계역",
+      "address": "경기도 양주시 덕계동 152번지외 10필지",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028073&supp_cd=9044942",
+      "source_ids": {
+        "build_dtl_cd": "6028073",
+        "supp_cd": "9044942"
+      },
+      "old_name": "지웰엘리움양주덕계역",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "분양중",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2029.04",
+      "collected_at": "2026-10-01T06:43:42.815199+09:00",
+      "outcome": "existing",
+      "reason": "동일 사업지·이름의 기존 현장 확인",
+      "latitude": 37.8214719,
+      "longitude": 127.0591753,
+      "existing_candidates": [
+        {
+          "id": "1825f211-3305-4c6e-b15f-065e71f89193",
+          "name": "지웰 엘리움 양주 덕계역",
+          "address": "경기도 양주시 덕계동 152번지 일원(양주 덕계공업지구 특별계획구역 복합용지 2BL)",
+          "distance_m": 77.5
+        }
+      ],
+      "verified_move_in": "2029.04",
+      "existing_id": "1825f211-3305-4c6e-b15f-065e71f89193",
+      "existing_name": "지웰 엘리움 양주 덕계역"
+    },
+    {
+      "name": "양주더플래티넘센트럴포레",
+      "address": "경기도 양주시 삼숭동 187-47번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028328&supp_cd=9046761",
+      "source_ids": {
+        "build_dtl_cd": "6028328",
+        "supp_cd": "9046761"
+      },
+      "old_name": "양주더플래티넘센트럴포레",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "분양중",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2027.03",
+      "collected_at": "2026-10-01T06:43:45.039027+09:00",
+      "outcome": "rename",
+      "reason": "동일 사업지·근접 좌표, 네이버의 현재 분양명으로 기존 현장 갱신",
+      "latitude": 37.8002108,
+      "longitude": 127.1063502,
+      "existing_candidates": [
+        {
+          "id": "c06d4206-d18f-4c86-8557-c11362ccb577",
+          "name": "더 플래티넘 센트럴포레",
+          "address": "경기도 양주시 삼숭동 187-47번지 일원",
+          "distance_m": 35.1
+        }
+      ],
+      "verified_move_in": "2027.03",
+      "existing_id": "c06d4206-d18f-4c86-8557-c11362ccb577",
+      "existing_name": "더 플래티넘 센트럴포레"
+    },
+    {
+      "name": "한양아이클래스양주",
+      "address": "경기도 양주시 은현면 용암리 784-8번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028523&supp_cd=9048319",
+      "source_ids": {
+        "build_dtl_cd": "6028523",
+        "supp_cd": "9048319"
+      },
+      "old_name": "한양아이클래스양주",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "분양중",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2028.10",
+      "collected_at": "2026-10-01T06:43:47.360081+09:00",
+      "outcome": "rename",
+      "reason": "동일 사업지·근접 좌표, 네이버의 현재 분양명으로 기존 현장 갱신",
+      "latitude": 37.8467342,
+      "longitude": 127.0399674,
+      "existing_candidates": [
+        {
+          "id": "a6965c04-e04b-4d25-995a-ae274708f7a5",
+          "name": "양주 용암 영무 예다음 더퍼스트",
+          "address": "경기도 양주시 은현면 용암리 784-8번지 일원",
+          "distance_m": 70.1
+        }
+      ],
+      "verified_move_in": "2028.10",
+      "existing_id": "a6965c04-e04b-4d25-995a-ae274708f7a5",
+      "existing_name": "양주 용암 영무 예다음 더퍼스트"
+    },
+    {
+      "name": "북오산자이리버블시티",
+      "address": "경기도 오산시 내삼미동 905번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028209&supp_cd=9045776",
+      "source_ids": {
+        "build_dtl_cd": "6028209",
+        "supp_cd": "9045776"
+      },
+      "old_name": "북오산자이리버블시티",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2029.03",
+      "collected_at": "2026-10-01T06:43:49.585949+09:00",
+      "outcome": "held",
+      "reason": "인접 현장과 사업지 중복 가능성 확인 필요",
+      "latitude": 37.1825653,
+      "longitude": 127.0651324,
+      "existing_candidates": [],
+      "verified_move_in": "2029.03"
+    },
+    {
+      "name": "오산세교힐데스하임",
+      "address": "경기도 오산시 벌음동 149 일원(오산세교2 A20BL)",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6026079&supp_cd=9042871",
+      "source_ids": {
+        "build_dtl_cd": "6026079",
+        "supp_cd": "9042871"
+      },
+      "old_name": "오산세교힐데스하임",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "분양중",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2027.02",
+      "collected_at": "2026-10-01T06:43:51.799102+09:00",
+      "outcome": "insert",
+      "reason": "네이버 상세의 현재 분양/향후 입주 및 사업지·목록 식별자 확인",
+      "latitude": 37.1387888,
+      "longitude": 127.0388296,
+      "existing_candidates": [],
+      "verified_move_in": "2027.02"
+    },
+    {
+      "name": "역북서희스타힐스프라임시티",
+      "address": "경기도 용인시 처인구 역북동 89-25번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027418&supp_cd=9040823",
+      "source_ids": {
+        "build_dtl_cd": "6027418",
+        "supp_cd": "9040823"
+      },
+      "old_name": "역북서희스타힐스프라임시티",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2027.03",
+      "collected_at": "2026-10-01T06:43:54.020585+09:00",
+      "outcome": "rename",
+      "reason": "동일 사업지·근접 좌표, 네이버의 현재 분양명으로 기존 현장 갱신",
+      "latitude": 37.2497468,
+      "longitude": 127.1941625,
+      "existing_candidates": [
+        {
+          "id": "e32d7b7a-813c-4395-8f4c-87d319a362f3",
+          "name": "역북 서희스타힐스 프라임시티(조합원 취소분)",
+          "address": "경기도 용인시 처인구 역북동 89-25번지 일원",
+          "distance_m": 68.0
+        }
+      ],
+      "verified_move_in": "2027.03",
+      "existing_id": "e32d7b7a-813c-4395-8f4c-87d319a362f3",
+      "existing_name": "역북 서희스타힐스 프라임시티(조합원 취소분)"
+    },
+    {
+      "name": "용인푸르지오클루센트",
+      "address": "경기도 용인시 처인구 역북동 811번지 일원(용인신대지구 A1블럭)",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028266&supp_cd=9046298",
+      "source_ids": {
+        "build_dtl_cd": "6028266",
+        "supp_cd": "9046298"
+      },
+      "old_name": "용인푸르지오클루센트",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2028.12",
+      "collected_at": "2026-10-01T06:43:56.289284+09:00",
+      "outcome": "existing",
+      "reason": "동일 사업지·이름의 기존 현장 확인",
+      "latitude": 37.2400189,
+      "longitude": 127.1883766,
+      "existing_candidates": [
+        {
+          "id": "7e9f2978-a7a5-482a-a46a-7865bcd1756b",
+          "name": "용인 푸르지오 클루센트",
+          "address": "경기도 용인시 처인구 역북동 811번지 (신대지구 A1 블록)",
+          "distance_m": 61.4
+        }
+      ],
+      "verified_move_in": "2028.12",
+      "existing_id": "7e9f2978-a7a5-482a-a46a-7865bcd1756b",
+      "existing_name": "용인 푸르지오 클루센트"
+    },
+    {
+      "name": "의왕시청역SK뷰아이파크",
+      "address": "경기도 의왕시 고천동 265번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028160&supp_cd=9045629",
+      "source_ids": {
+        "build_dtl_cd": "6028160",
+        "supp_cd": "9045629"
+      },
+      "old_name": "의왕시청역SK뷰아이파크",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2030.01",
+      "collected_at": "2026-10-01T06:44:28.144723+09:00",
+      "outcome": "rename",
+      "reason": "동일 사업지·근접 좌표, 네이버의 현재 분양명으로 기존 현장 갱신",
+      "latitude": 37.3476504,
+      "longitude": 126.976028,
+      "existing_candidates": [
+        {
+          "id": "23f57a4f-74a4-4873-95fc-c3785625cffd",
+          "name": "의왕시청역 SK VIEW IPARK",
+          "address": "경기도 의왕시 고천동 265번지 일원",
+          "distance_m": 14.1
+        }
+      ],
+      "verified_move_in": "2030.01",
+      "existing_id": "23f57a4f-74a4-4873-95fc-c3785625cffd",
+      "existing_name": "의왕시청역 SK VIEW IPARK"
+    },
+    {
+      "name": "의왕역SK뷰",
+      "address": "경기도 의왕시 삼동 192-244번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028472&supp_cd=9047974",
+      "source_ids": {
+        "build_dtl_cd": "6028472",
+        "supp_cd": "9047974"
+      },
+      "old_name": "의왕역SK뷰",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2029.12",
+      "collected_at": "2026-10-01T06:44:30.376595+09:00",
+      "outcome": "rename",
+      "reason": "동일 사업지·근접 좌표, 네이버의 현재 분양명으로 기존 현장 갱신",
+      "latitude": 37.3217513,
+      "longitude": 126.9514742,
+      "existing_candidates": [
+        {
+          "id": "829a32b3-a8b3-439f-ab0e-891a347d069d",
+          "name": "의왕역 SK VIEW",
+          "address": "경기도 의왕시 삼동 192-244번지 일원",
+          "distance_m": 0.1
+        }
+      ],
+      "verified_move_in": "2029.12",
+      "existing_id": "829a32b3-a8b3-439f-ab0e-891a347d069d",
+      "existing_name": "의왕역 SK VIEW"
+    },
+    {
+      "name": "의왕센트라인데시앙",
+      "address": "경기도 의왕시 오전동 32-4번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6024346&supp_cd=9031368",
+      "source_ids": {
+        "build_dtl_cd": "6024346",
+        "supp_cd": "9031368"
+      },
+      "old_name": "의왕센트라인데시앙",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2026.11",
+      "collected_at": "2026-10-01T06:44:32.588571+09:00",
+      "outcome": "insert",
+      "reason": "네이버 상세의 현재 분양/향후 입주 및 사업지·목록 식별자 확인",
+      "latitude": 37.3605838,
+      "longitude": 126.9656158,
+      "existing_candidates": [],
+      "verified_move_in": "2026.11"
+    },
+    {
+      "name": "부발역에피트에디션",
+      "address": "경기도 이천시 부발읍 아미리 산 111번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028033&supp_cd=9044719",
+      "source_ids": {
+        "build_dtl_cd": "6028033",
+        "supp_cd": "9044719"
+      },
+      "old_name": "부발역에피트에디션",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2028.02",
+      "collected_at": "2026-10-01T06:44:34.837560+09:00",
+      "outcome": "held",
+      "reason": "인접 현장과 사업지 중복 가능성 확인 필요",
+      "latitude": 37.2572218,
+      "longitude": 127.4943015,
+      "existing_candidates": [],
+      "verified_move_in": "2028.02"
+    },
+    {
+      "name": "이천자이더레브",
+      "address": "경기도 이천시 송정동 산31번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027421&supp_cd=9040829",
+      "source_ids": {
+        "build_dtl_cd": "6027421",
+        "supp_cd": "9040829"
+      },
+      "old_name": "이천자이더레브",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2027.04",
+      "collected_at": "2026-10-01T06:44:37.074486+09:00",
+      "outcome": "rename",
+      "reason": "동일 사업지·근접 좌표, 네이버의 현재 분양명으로 기존 현장 갱신",
+      "latitude": 37.2947414,
+      "longitude": 127.4368905,
+      "existing_candidates": [
+        {
+          "id": "92b12f08-4f30-4ca6-95dd-2981803e4dda",
+          "name": "이천자이 더 레브(2차)",
+          "address": "경기도 이천시 송정동 산31번지 일원",
+          "distance_m": 0.1
+        }
+      ],
+      "verified_move_in": "2027.04",
+      "existing_id": "92b12f08-4f30-4ca6-95dd-2981803e4dda",
+      "existing_name": "이천자이 더 레브(2차)"
+    },
+    {
+      "name": "이천롯데캐슬센트럴페라즈스카이",
+      "address": "경기도 이천시 안흥동 284-2번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027419&supp_cd=9040825",
+      "source_ids": {
+        "build_dtl_cd": "6027419",
+        "supp_cd": "9040825"
+      },
+      "old_name": "이천롯데캐슬센트럴페라즈스카이",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "분양중",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2027.09",
+      "collected_at": "2026-10-01T06:44:39.304302+09:00",
+      "outcome": "insert",
+      "reason": "네이버 상세의 현재 분양/향후 입주 및 사업지·목록 식별자 확인",
+      "latitude": 37.2755253,
+      "longitude": 127.4553736,
+      "existing_candidates": [],
+      "verified_move_in": "2027.09"
+    },
+    {
+      "name": "이천서희스타힐스스카이",
+      "address": "경기도 이천시 안흥동 279-1번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027416&supp_cd=9040822",
+      "source_ids": {
+        "build_dtl_cd": "6027416",
+        "supp_cd": "9040822"
+      },
+      "old_name": "이천서희스타힐스스카이",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2029.01",
+      "collected_at": "2026-10-01T06:44:41.528490+09:00",
+      "outcome": "rename",
+      "reason": "동일 사업지·근접 좌표, 네이버의 현재 분양명으로 기존 현장 갱신",
+      "latitude": 37.2766406,
+      "longitude": 127.4558574,
+      "existing_candidates": [
+        {
+          "id": "4d2b1244-737f-4d4a-b255-373e4bbf3626",
+          "name": "이천 서희스타힐스 SKY(조합원 취소분)",
+          "address": "경기도 이천시 안흥동 279-1번지 일원",
+          "distance_m": 40.5
+        }
+      ],
+      "verified_move_in": "2029.01",
+      "existing_id": "4d2b1244-737f-4d4a-b255-373e4bbf3626",
+      "existing_name": "이천 서희스타힐스 SKY(조합원 취소분)"
+    },
+    {
+      "name": "이천중리B3블록금성백조예미지",
+      "address": "경기도 이천시 중리동 518번지 일원 (이천중리지구 B3블록)",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6026986&supp_cd=9038831",
+      "source_ids": {
+        "build_dtl_cd": "6026986",
+        "supp_cd": "9038831"
+      },
+      "old_name": "이천중리B3블록금성백조예미지",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2026.11",
+      "collected_at": "2026-10-01T06:44:43.731913+09:00",
+      "outcome": "rename",
+      "reason": "동일 사업지·근접 좌표, 네이버의 현재 분양명으로 기존 현장 갱신",
+      "latitude": 37.2704506,
+      "longitude": 127.4399779,
+      "existing_candidates": [
+        {
+          "id": "abe4a747-5de5-462d-9ec6-2ff55e1d990d",
+          "name": "이천 중리지구 B3블록 금성백조 예미지",
+          "address": "경기도 이천시 중리지구 B3블록(중리동 518번지)",
+          "distance_m": 114.1
+        }
+      ],
+      "verified_move_in": "2026.11",
+      "existing_id": "abe4a747-5de5-462d-9ec6-2ff55e1d990d",
+      "existing_name": "이천 중리지구 B3블록 금성백조 예미지"
+    },
+    {
+      "name": "파주운정3지구 주상복합2BL 사전청약",
+      "address": "경기도 파주시 동패동 산110번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6026373&supp_cd=9036458",
+      "source_ids": {
+        "build_dtl_cd": "6026373",
+        "supp_cd": "9036458"
+      },
+      "old_name": "파주운정3지구 주상복합2BL 사전청약",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2027.05",
+      "collected_at": "2026-10-01T06:44:45.955651+09:00",
+      "outcome": "rename",
+      "reason": "동일 사업지·근접 좌표, 네이버의 현재 분양명으로 기존 현장 갱신",
+      "latitude": 37.7185243,
+      "longitude": 126.7272625,
+      "existing_candidates": [
+        {
+          "id": "b9e0d040-62fe-4adb-8527-db843076475d",
+          "name": "파주운정3지구 주상복합1BL 사전청약",
+          "address": "경기도 파주시 동패동 산110번지 일원",
+          "distance_m": 174.5
+        }
+      ],
+      "verified_move_in": "2027.05",
+      "existing_id": "b9e0d040-62fe-4adb-8527-db843076475d",
+      "existing_name": "파주운정3지구 주상복합1BL 사전청약"
+    },
+    {
+      "name": "파주운정3지구 주상복합6BL 사전청약",
+      "address": "경기도 파주시 동패동 산115-1번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6026377&supp_cd=9036462",
+      "source_ids": {
+        "build_dtl_cd": "6026377",
+        "supp_cd": "9036462"
+      },
+      "old_name": "파주운정3지구 주상복합6BL 사전청약",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2027.05",
+      "collected_at": "2026-10-01T06:44:48.173758+09:00",
+      "outcome": "insert",
+      "reason": "네이버 상세의 현재 분양/향후 입주 및 사업지·목록 식별자 확인",
+      "latitude": 37.7130528,
+      "longitude": 126.7291448,
+      "existing_candidates": [],
+      "verified_move_in": "2027.05"
+    },
+    {
+      "name": "고덕국제신도시수자인풍경채2단지",
+      "address": "경기도 평택시 고덕동 평택고덕 Abc-61BL",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028366&supp_cd=9046868",
+      "source_ids": {
+        "build_dtl_cd": "6028366",
+        "supp_cd": "9046868"
+      },
+      "old_name": "고덕국제신도시수자인풍경채2단지",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "분양중",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2029.01",
+      "collected_at": "2026-10-01T06:44:50.409535+09:00",
+      "outcome": "insert",
+      "reason": "네이버 상세의 현재 분양/향후 입주 및 사업지·목록 식별자 확인",
+      "latitude": 37.0616439,
+      "longitude": 127.0377622,
+      "existing_candidates": [],
+      "verified_move_in": "2029.01"
+    },
+    {
+      "name": "평택브레인시티수자인",
+      "address": "경기도 평택시 장안동 평택브레인시티 8BL",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027803&supp_cd=9042918",
+      "source_ids": {
+        "build_dtl_cd": "6027803",
+        "supp_cd": "9042918"
+      },
+      "old_name": "평택브레인시티수자인",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2027.12",
+      "collected_at": "2026-10-01T06:44:52.619314+09:00",
+      "outcome": "insert",
+      "reason": "네이버 상세의 현재 분양/향후 입주 및 사업지·목록 식별자 확인",
+      "latitude": 37.0474897,
+      "longitude": 127.0963282,
+      "existing_candidates": [],
+      "verified_move_in": "2027.12"
+    },
+    {
+      "name": "신영지웰평택화양",
+      "address": "경기도 평택시 현덕면 화양리 785번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027580&supp_cd=9041474",
+      "source_ids": {
+        "build_dtl_cd": "6027580",
+        "supp_cd": "9041474"
+      },
+      "old_name": "신영지웰평택화양",
+      "old_reason": "200m 이내 기존 현장과 동일성 확인 필요",
+      "naver_status": "입주예정",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2027.04",
+      "collected_at": "2026-10-01T06:44:54.851626+09:00",
+      "outcome": "existing",
+      "reason": "동일 사업지·이름의 기존 현장 확인",
+      "latitude": 36.9718893,
+      "longitude": 126.9071145,
+      "existing_candidates": [
+        {
+          "id": "4cbe4507-8290-4053-80ce-85484b938542",
+          "name": "신영지웰 평택화양",
+          "address": "경기도 평택시 화양지구 도시개발사업 9-1BL(경기도 평택시 현덕면 화양리 785번지 일원)",
+          "distance_m": 50.0
+        }
+      ],
+      "verified_move_in": "2027.04",
+      "existing_id": "4cbe4507-8290-4053-80ce-85484b938542",
+      "existing_name": "신영지웰 평택화양"
+    },
+    {
+      "name": "고양창릉A-4 행복주택",
+      "address": "경기도 고양시 덕양구 도내동 고양창릉 A-4블록",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028506&supp_cd=9048275",
+      "source_ids": {
+        "build_dtl_cd": "6028506",
+        "supp_cd": "9048275"
+      },
+      "old_name": "고양창릉A-4 행복주택",
+      "old_reason": "현재 공급 단계 확인 필요",
+      "naver_status": "임대모집",
+      "supply_kind": "행복주택",
+      "move_in": "입주 2028.01",
+      "collected_at": "2026-10-01T06:44:57.086811+09:00",
+      "outcome": "excluded",
+      "reason": "임대 등 아파트 분양 비교 범위 밖"
+    },
+    {
+      "name": "대곡역롯데캐슬엘클라씨 행복주택",
+      "address": "경기도 고양시 덕양구 토당동 930번지 (토당로 140)",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028437&supp_cd=9047756",
+      "source_ids": {
+        "build_dtl_cd": "6028437",
+        "supp_cd": "9047756"
+      },
+      "old_name": "대곡역롯데캐슬엘클라씨 행복주택",
+      "old_reason": "입주예정월 경과: 현재 분양 여부 별도 확인 필요",
+      "naver_status": "임대모집",
+      "supply_kind": "행복주택",
+      "move_in": "입주 2026.09",
+      "collected_at": "2026-10-01T06:44:59.626885+09:00",
+      "outcome": "excluded",
+      "reason": "임대 등 아파트 분양 비교 범위 밖"
+    },
+    {
+      "name": "과천푸르지오라비엔오",
+      "address": "경기도 과천시 갈현동 과천지식정보타운지구 S4블록",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6014028&supp_cd=9049678",
+      "source_ids": {
+        "build_dtl_cd": "6014028",
+        "supp_cd": "9049678"
+      },
+      "old_name": "과천푸르지오라비엔오",
+      "old_reason": "입주예정월 경과: 현재 분양 여부 별도 확인 필요",
+      "naver_status": "분양중",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2021.12",
+      "collected_at": "2026-10-01T06:45:01.882482+09:00",
+      "outcome": "held",
+      "reason": "인접 현장과 사업지 중복 가능성 확인 필요",
+      "latitude": 37.413289,
+      "longitude": 126.983808,
+      "existing_candidates": [],
+      "verified_move_in": "2021.12"
+    },
+    {
+      "name": "과천푸르지오벨라르테",
+      "address": "경기도 과천시 갈현동 과천지식정보타운 S6블록",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6015362&supp_cd=9049679",
+      "source_ids": {
+        "build_dtl_cd": "6015362",
+        "supp_cd": "9049679"
+      },
+      "old_name": "과천푸르지오벨라르테",
+      "old_reason": "입주예정월 경과: 현재 분양 여부 별도 확인 필요",
+      "naver_status": "분양중",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2022.10",
+      "collected_at": "2026-10-01T06:45:06.149253+09:00",
+      "outcome": "held",
+      "reason": "인접 현장과 사업지 중복 가능성 확인 필요",
+      "latitude": 37.4113223,
+      "longitude": 126.9892113,
+      "existing_candidates": [],
+      "verified_move_in": "2022.10"
+    },
+    {
+      "name": "철산자이더헤리티지",
+      "address": "경기도 광명시 철산동 235번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6026753&supp_cd=9049484",
+      "source_ids": {
+        "build_dtl_cd": "6026753",
+        "supp_cd": "9049484"
+      },
+      "old_name": "철산자이더헤리티지",
+      "old_reason": "입주예정월 경과: 현재 분양 여부 별도 확인 필요",
+      "naver_status": "분양중",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2025.05",
+      "collected_at": "2026-10-01T06:45:10.429775+09:00",
+      "outcome": "existing",
+      "reason": "동일 사업지·이름의 기존 현장 확인",
+      "latitude": 37.4832228,
+      "longitude": 126.869492,
+      "existing_candidates": [
+        {
+          "id": "793f42e0-f25f-492b-8600-3f65caa58ae0",
+          "name": "철산자이 더 헤리티지",
+          "address": "경기도 광명시 철산동 235번지 일원",
+          "distance_m": 117.5
+        }
+      ],
+      "verified_move_in": "2025.05",
+      "existing_id": "793f42e0-f25f-492b-8600-3f65caa58ae0",
+      "existing_name": "철산자이 더 헤리티지"
+    },
+    {
+      "name": "철산자이브리에르",
+      "address": "경기도 광명시 철산동 105번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027233&supp_cd=9049485",
+      "source_ids": {
+        "build_dtl_cd": "6027233",
+        "supp_cd": "9049485"
+      },
+      "old_name": "철산자이브리에르",
+      "old_reason": "입주예정월 경과: 현재 분양 여부 별도 확인 필요",
+      "naver_status": "분양중",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2026.01",
+      "collected_at": "2026-10-01T06:45:14.706725+09:00",
+      "outcome": "existing",
+      "reason": "동일 사업지·이름의 기존 현장 확인",
+      "latitude": 37.4860389,
+      "longitude": 126.86928,
+      "existing_candidates": [
+        {
+          "id": "529ab248-77b9-4159-b797-17eba61804cb",
+          "name": "철산자이 브리에르",
+          "address": "경기도 광명시 철산동 105번지 일원",
+          "distance_m": 72.6
+        }
+      ],
+      "verified_move_in": "2026.01",
+      "existing_id": "529ab248-77b9-4159-b797-17eba61804cb",
+      "existing_name": "철산자이 브리에르"
+    },
+    {
+      "name": "남양주진접2 A-4블록 행복주택",
+      "address": "경기도 남양주시 진접읍 연평리 237 (남양주진접2 A-4블록)",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028642&supp_cd=9049156",
+      "source_ids": {
+        "build_dtl_cd": "6028642",
+        "supp_cd": "9049156"
+      },
+      "old_name": "남양주진접2 A-4블록 행복주택",
+      "old_reason": "현재 공급 단계 확인 필요",
+      "naver_status": "임대모집",
+      "supply_kind": "행복주택",
+      "move_in": "입주 2028.04",
+      "collected_at": "2026-10-01T06:45:18.961809+09:00",
+      "outcome": "excluded",
+      "reason": "임대 등 아파트 분양 비교 범위 밖"
+    },
+    {
+      "name": "부천대장하우스토리디센트",
+      "address": "경기도 부천시 오정구 대장동 부천대장지구A-2BL 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028662&supp_cd=9049267",
+      "source_ids": {
+        "build_dtl_cd": "6028662",
+        "supp_cd": "9049267"
+      },
+      "old_name": "부천대장하우스토리디센트",
+      "old_reason": "현재 공급 단계 확인 필요",
+      "naver_status": "분양계획",
+      "supply_kind": "공공분양",
+      "move_in": "입주 2029.06",
+      "collected_at": "2026-10-01T06:45:51.551366+09:00",
+      "outcome": "insert",
+      "reason": "네이버 상세의 현재 분양/향후 입주 및 사업지·목록 식별자 확인",
+      "latitude": 37.540153,
+      "longitude": 126.774194,
+      "existing_candidates": [],
+      "verified_move_in": "2029.06"
+    },
+    {
+      "name": "부천대장A5 행복주택",
+      "address": "경기도 부천시 오정구 오정동 부천대장 A5블록",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028554&supp_cd=9048469",
+      "source_ids": {
+        "build_dtl_cd": "6028554",
+        "supp_cd": "9048469"
+      },
+      "old_name": "부천대장A5 행복주택",
+      "old_reason": "현재 공급 단계 확인 필요",
+      "naver_status": "임대모집",
+      "supply_kind": "행복주택",
+      "move_in": "입주 2027.11",
+      "collected_at": "2026-10-01T06:45:55.835104+09:00",
+      "outcome": "excluded",
+      "reason": "임대 등 아파트 분양 비교 범위 밖"
+    },
+    {
+      "name": "부천대장A6 행복주택",
+      "address": "경기도 부천시 오정구 오정동 부천대장 A6블록",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028555&supp_cd=9048470",
+      "source_ids": {
+        "build_dtl_cd": "6028555",
+        "supp_cd": "9048470"
+      },
+      "old_name": "부천대장A6 행복주택",
+      "old_reason": "현재 공급 단계 확인 필요",
+      "naver_status": "임대모집",
+      "supply_kind": "행복주택",
+      "move_in": "입주 2027.11",
+      "collected_at": "2026-10-01T06:45:58.039606+09:00",
+      "outcome": "excluded",
+      "reason": "임대 등 아파트 분양 비교 범위 밖"
+    },
+    {
+      "name": "성남금토A-4블록 행복주택",
+      "address": "경기도 성남시 수정구 금토동 성남금토 A-4블록",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028636&supp_cd=9049139",
+      "source_ids": {
+        "build_dtl_cd": "6028636",
+        "supp_cd": "9049139"
+      },
+      "old_name": "성남금토A-4블록 행복주택",
+      "old_reason": "현재 공급 단계 확인 필요",
+      "naver_status": "임대모집",
+      "supply_kind": "행복주택",
+      "move_in": "입주 2027.11",
+      "collected_at": "2026-10-01T06:46:00.253683+09:00",
+      "outcome": "excluded",
+      "reason": "임대 등 아파트 분양 비교 범위 밖"
+    },
+    {
+      "name": "위례A2-7블록 행복주택",
+      "address": "경기도 성남시 수정구 창곡동 위례신도시 A2-7BL",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027842&supp_cd=9043051",
+      "source_ids": {
+        "build_dtl_cd": "6027842",
+        "supp_cd": "9043051"
+      },
+      "old_name": "위례A2-7블록 행복주택",
+      "old_reason": "현재 공급 단계 확인 필요",
+      "naver_status": "임대모집",
+      "supply_kind": "행복주택",
+      "move_in": "입주 2026.12",
+      "collected_at": "2026-10-01T06:46:02.461460+09:00",
+      "outcome": "excluded",
+      "reason": "임대 등 아파트 분양 비교 범위 밖"
+    },
+    {
+      "name": "권선자이e편한세상",
+      "address": "경기도 수원시 권선구 권선동 1330",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6000011&supp_cd=9000011",
+      "source_ids": {
+        "build_dtl_cd": "6000011",
+        "supp_cd": "9000011"
+      },
+      "old_name": "권선자이e편한세상",
+      "old_reason": "입주예정월 경과: 현재 분양 여부 별도 확인 필요",
+      "naver_status": "분양중",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2011.09",
+      "collected_at": "2026-10-01T06:46:04.686073+09:00",
+      "outcome": "insert",
+      "reason": "네이버 상세의 현재 분양/향후 입주 및 사업지·목록 식별자 확인",
+      "latitude": 37.2533306,
+      "longitude": 127.0257101,
+      "existing_candidates": [],
+      "verified_move_in": "2011.09"
+    },
+    {
+      "name": "수원당수지구A5블록 신혼희망타운",
+      "address": "경기도 수원시 권선구 당수동 수원당수지구 A5블록",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6025377&supp_cd=9048532",
+      "source_ids": {
+        "build_dtl_cd": "6025377",
+        "supp_cd": "9048532"
+      },
+      "old_name": "수원당수지구A5블록 신혼희망타운",
+      "old_reason": "입주예정월 경과: 현재 분양 여부 별도 확인 필요",
+      "naver_status": "분양중",
+      "supply_kind": "공공분양",
+      "move_in": "입주 2026.07",
+      "collected_at": "2026-10-01T06:46:08.948595+09:00",
+      "outcome": "insert",
+      "reason": "네이버 상세의 현재 분양/향후 입주 및 사업지·목록 식별자 확인",
+      "latitude": 37.284722,
+      "longitude": 126.9456996,
+      "existing_candidates": [],
+      "verified_move_in": "2026.07"
+    },
+    {
+      "name": "수원광교 A17블럭",
+      "address": "경기도 수원시 영통구 원천동 수원광교 A17블럭",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028319&supp_cd=9046729",
+      "source_ids": {
+        "build_dtl_cd": "6028319",
+        "supp_cd": "9046729"
+      },
+      "old_name": "수원광교 A17블럭",
+      "old_reason": "입주예정월 확인 필요",
+      "naver_status": "분양계획",
+      "supply_kind": "공공분양",
+      "move_in": "입주 미정",
+      "collected_at": "2026-10-01T06:46:13.218853+09:00",
+      "outcome": "held",
+      "reason": "현재 분양 중 또는 향후 입주 근거 추가 확인 필요",
+      "latitude": 37.2756205,
+      "longitude": 127.0525381,
+      "existing_candidates": [],
+      "verified_move_in": ""
+    },
+    {
+      "name": "시흥거모S-3BL",
+      "address": "경기도 시흥시 거모동 시흥거모 S-3BL",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028546&supp_cd=9048431",
+      "source_ids": {
+        "build_dtl_cd": "6028546",
+        "supp_cd": "9048431"
+      },
+      "old_name": "시흥거모S-3BL",
+      "old_reason": "입주예정월 확인 필요",
+      "naver_status": "분양계획",
+      "supply_kind": "민간분양",
+      "move_in": "",
+      "collected_at": "2026-10-01T06:46:17.486719+09:00",
+      "outcome": "held",
+      "reason": "현재 분양 중 또는 향후 입주 근거 추가 확인 필요",
+      "latitude": 37.3445261,
+      "longitude": 126.7688035,
+      "existing_candidates": [],
+      "verified_move_in": ""
+    },
+    {
+      "name": "신천역에피트",
+      "address": "경기도 시흥시 은행동 694번지 일원 (시흥대로 1110)",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6025628&supp_cd=9049489",
+      "source_ids": {
+        "build_dtl_cd": "6025628",
+        "supp_cd": "9049489"
+      },
+      "old_name": "신천역에피트",
+      "old_reason": "입주예정월 경과: 현재 분양 여부 별도 확인 필요",
+      "naver_status": "분양중",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2025.09",
+      "collected_at": "2026-10-01T06:46:21.749876+09:00",
+      "outcome": "held",
+      "reason": "인접 현장과 사업지 중복 가능성 확인 필요",
+      "latitude": 37.4358552,
+      "longitude": 126.7926635,
+      "existing_candidates": [],
+      "verified_move_in": "2025.09"
+    },
+    {
+      "name": "쌍용더플래티넘한강",
+      "address": "경기도 양평군 양서면 용담리 212-3번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028637&supp_cd=9049144",
+      "source_ids": {
+        "build_dtl_cd": "6028637",
+        "supp_cd": "9049144"
+      },
+      "old_name": "쌍용더플래티넘한강",
+      "old_reason": "입주예정월 확인 필요",
+      "naver_status": "분양계획",
+      "supply_kind": "민간분양",
+      "move_in": "입주 미정",
+      "collected_at": "2026-10-01T06:46:26.003068+09:00",
+      "outcome": "held",
+      "reason": "현재 분양 중 또는 향후 입주 근거 추가 확인 필요",
+      "latitude": 37.5456258,
+      "longitude": 127.3263782,
+      "existing_candidates": [],
+      "verified_move_in": ""
+    },
+    {
+      "name": "오산세교하우스토리더센트럴",
+      "address": "경기도 오산시 궐동 684-2번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027076&supp_cd=9049474",
+      "source_ids": {
+        "build_dtl_cd": "6027076",
+        "supp_cd": "9049474"
+      },
+      "old_name": "오산세교하우스토리더센트럴",
+      "old_reason": "입주예정월 경과: 현재 분양 여부 별도 확인 필요",
+      "naver_status": "분양중",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2025.08",
+      "collected_at": "2026-10-01T06:46:30.266639+09:00",
+      "outcome": "insert",
+      "reason": "네이버 상세의 현재 분양/향후 입주 및 사업지·목록 식별자 확인",
+      "latitude": 37.1592338,
+      "longitude": 127.0530811,
+      "existing_candidates": [],
+      "verified_move_in": "2025.08"
+    },
+    {
+      "name": "의정부역펠리스타워양우내안애",
+      "address": "경기도 의정부시 의정부동 424번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028687&supp_cd=9049470",
+      "source_ids": {
+        "build_dtl_cd": "6028687",
+        "supp_cd": "9049470"
+      },
+      "old_name": "의정부역펠리스타워양우내안애",
+      "old_reason": "입주예정월 확인 필요",
+      "naver_status": "분양계획",
+      "supply_kind": "민간분양",
+      "move_in": "입주 미정",
+      "collected_at": "2026-10-01T06:46:34.517907+09:00",
+      "outcome": "held",
+      "reason": "현재 분양 중 또는 향후 입주 근거 추가 확인 필요",
+      "latitude": 37.741638,
+      "longitude": 127.0451726,
+      "existing_candidates": [],
+      "verified_move_in": ""
+    },
+    {
+      "name": "상계장암지구 장기전세",
+      "address": "경기도 의정부시 장암동 상계장암지구",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6025177&supp_cd=9049400",
+      "source_ids": {
+        "build_dtl_cd": "6025177",
+        "supp_cd": "9049400"
+      },
+      "old_name": "상계장암지구 장기전세",
+      "old_reason": "입주예정월 확인 필요",
+      "naver_status": "임대모집",
+      "supply_kind": "시프트(장기전세)",
+      "move_in": "",
+      "collected_at": "2026-10-01T06:46:38.787033+09:00",
+      "outcome": "held",
+      "reason": "현재 분양 중 또는 향후 입주 근거 추가 확인 필요",
+      "latitude": 37.6899215,
+      "longitude": 127.0531779,
+      "existing_candidates": [],
+      "verified_move_in": ""
+    },
+    {
+      "name": "힐스테이트회룡역파크뷰",
+      "address": "경기도 의정부시 호원동 281-21번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027583&supp_cd=9041478",
+      "source_ids": {
+        "build_dtl_cd": "6027583",
+        "supp_cd": "9041478"
+      },
+      "old_name": "힐스테이트회룡역파크뷰",
+      "old_reason": "입주예정월 경과: 현재 분양 여부 별도 확인 필요",
+      "naver_status": "분양중",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2026.04",
+      "collected_at": "2026-10-01T06:46:43.061654+09:00",
+      "outcome": "held",
+      "reason": "인접 현장과 사업지 중복 가능성 확인 필요",
+      "latitude": 37.7199691,
+      "longitude": 127.0425652,
+      "existing_candidates": [],
+      "verified_move_in": "2026.04"
+    },
+    {
+      "name": "엘리프고덕센트럴하이",
+      "address": "경기도 평택시 고덕동 산 353번지 일원 (평택고덕국제화지구 Aab-13BL)",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028507&supp_cd=9048274",
+      "source_ids": {
+        "build_dtl_cd": "6028507",
+        "supp_cd": "9048274"
+      },
+      "old_name": "엘리프고덕센트럴하이",
+      "old_reason": "입주예정월 확인 필요",
+      "naver_status": "분양계획",
+      "supply_kind": "민간분양",
+      "move_in": "입주 미정",
+      "collected_at": "2026-10-01T06:46:47.322875+09:00",
+      "outcome": "held",
+      "reason": "현재 분양 중 또는 향후 입주 근거 추가 확인 필요",
+      "latitude": 37.0597353,
+      "longitude": 127.0424529,
+      "existing_candidates": [],
+      "verified_move_in": ""
+    },
+    {
+      "name": "평택고덕A57-2블록 신혼희망타운",
+      "address": "경기도 평택시 고덕동 평택고덕 A57-2블록",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6025976&supp_cd=9049439",
+      "source_ids": {
+        "build_dtl_cd": "6025976",
+        "supp_cd": "9049439"
+      },
+      "old_name": "평택고덕A57-2블록 신혼희망타운",
+      "old_reason": "입주예정월 경과: 현재 분양 여부 별도 확인 필요",
+      "naver_status": "분양중",
+      "supply_kind": "공공분양",
+      "move_in": "입주 2025.02",
+      "collected_at": "2026-10-01T06:46:51.606347+09:00",
+      "outcome": "insert",
+      "reason": "네이버 상세의 현재 분양/향후 입주 및 사업지·목록 식별자 확인",
+      "latitude": 37.0370519,
+      "longitude": 127.0250601,
+      "existing_candidates": [],
+      "verified_move_in": "2025.02"
+    },
+    {
+      "name": "평택고덕우미린더프리미어",
+      "address": "경기도 평택시 고덕동 고덕국제화지구 Abc-33블록",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028701&supp_cd=9049692",
+      "source_ids": {
+        "build_dtl_cd": "6028701",
+        "supp_cd": "9049692"
+      },
+      "old_name": "평택고덕우미린더프리미어",
+      "old_reason": "입주예정월 확인 필요",
+      "naver_status": "분양계획",
+      "supply_kind": "민간분양",
+      "move_in": "",
+      "collected_at": "2026-10-01T06:46:55.869154+09:00",
+      "outcome": "held",
+      "reason": "현재 분양 중 또는 향후 입주 근거 추가 확인 필요",
+      "latitude": 37.0516512,
+      "longitude": 127.0292705,
+      "existing_candidates": [],
+      "verified_move_in": ""
+    },
+    {
+      "name": "힐스테이트고덕엘리스트A31BL",
+      "address": "경기도 평택시 고덕동 평택고덕국제화계획지구 A-31BL",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028473&supp_cd=9047975",
+      "source_ids": {
+        "build_dtl_cd": "6028473",
+        "supp_cd": "9047975"
+      },
+      "old_name": "힐스테이트고덕엘리스트A31BL",
+      "old_reason": "입주예정월 확인 필요",
+      "naver_status": "분양계획",
+      "supply_kind": "공공분양",
+      "move_in": "입주 미정",
+      "collected_at": "2026-10-01T06:47:00.120675+09:00",
+      "outcome": "held",
+      "reason": "현재 분양 중 또는 향후 입주 근거 추가 확인 필요",
+      "latitude": 37.0520954,
+      "longitude": 127.023879,
+      "existing_candidates": [],
+      "verified_move_in": ""
+    },
+    {
+      "name": "힐스테이트고덕엘리스트A34BL",
+      "address": "경기도 평택시 고덕동 평택고덕국제화계획지구A-34BL",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028474&supp_cd=9047976",
+      "source_ids": {
+        "build_dtl_cd": "6028474",
+        "supp_cd": "9047976"
+      },
+      "old_name": "힐스테이트고덕엘리스트A34BL",
+      "old_reason": "입주예정월 확인 필요",
+      "naver_status": "분양계획",
+      "supply_kind": "공공분양",
+      "move_in": "입주 미정",
+      "collected_at": "2026-10-01T06:47:04.381711+09:00",
+      "outcome": "held",
+      "reason": "현재 분양 중 또는 향후 입주 근거 추가 확인 필요",
+      "latitude": 37.0505512,
+      "longitude": 127.0324159,
+      "existing_candidates": [],
+      "verified_move_in": ""
+    },
+    {
+      "name": "힐스테이트고덕엘리스트A35BL",
+      "address": "경기도 평택시 고덕동 평택고덕국제화계획지구A-35BL",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028475&supp_cd=9047977",
+      "source_ids": {
+        "build_dtl_cd": "6028475",
+        "supp_cd": "9047977"
+      },
+      "old_name": "힐스테이트고덕엘리스트A35BL",
+      "old_reason": "입주예정월 확인 필요",
+      "naver_status": "분양계획",
+      "supply_kind": "공공분양",
+      "move_in": "입주 미정",
+      "collected_at": "2026-10-01T06:47:37.911966+09:00",
+      "outcome": "held",
+      "reason": "현재 분양 중 또는 향후 입주 근거 추가 확인 필요",
+      "latitude": 37.0485089,
+      "longitude": 127.0325896,
+      "existing_candidates": [],
+      "verified_move_in": ""
+    },
+    {
+      "name": "한화포레나지제역",
+      "address": "경기도 평택시 세교동 725번지 일원 (평택영신지구 2BL)",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028454&supp_cd=9047860",
+      "source_ids": {
+        "build_dtl_cd": "6028454",
+        "supp_cd": "9047860"
+      },
+      "old_name": "한화포레나지제역",
+      "old_reason": "입주예정월 확인 필요",
+      "naver_status": "분양계획",
+      "supply_kind": "민간분양",
+      "move_in": "입주 미정",
+      "collected_at": "2026-10-01T06:47:42.147034+09:00",
+      "outcome": "held",
+      "reason": "현재 분양 중 또는 향후 입주 근거 추가 확인 필요",
+      "latitude": 37.0228359,
+      "longitude": 127.0844201,
+      "existing_candidates": [],
+      "verified_move_in": ""
+    },
+    {
+      "name": "평택역더센트럴45",
+      "address": "경기도 평택시 평택동 45-1번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028544&supp_cd=9048415",
+      "source_ids": {
+        "build_dtl_cd": "6028544",
+        "supp_cd": "9048415"
+      },
+      "old_name": "평택역더센트럴45",
+      "old_reason": "입주예정월 경과: 현재 분양 여부 별도 확인 필요",
+      "naver_status": "분양중",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2026.08",
+      "collected_at": "2026-10-01T06:47:46.420215+09:00",
+      "outcome": "existing",
+      "reason": "동일 사업지·이름의 기존 현장 확인",
+      "latitude": 36.9927899,
+      "longitude": 127.0872408,
+      "existing_candidates": [
+        {
+          "id": "89f4fafd-ad03-4201-8e15-7685811e4aee",
+          "name": "평택역 더센트럴45",
+          "address": "경기도 평택시 평택동 45-1",
+          "distance_m": 0.0
+        }
+      ],
+      "verified_move_in": "2026.08",
+      "existing_id": "89f4fafd-ad03-4201-8e15-7685811e4aee",
+      "existing_name": "평택역 더센트럴45"
+    },
+    {
+      "name": "아크메르동탄",
+      "address": "경기도 화성시 동탄구 반송동 95번지 일원(동탄1 M1-1-2블록)",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028647&supp_cd=9049170",
+      "source_ids": {
+        "build_dtl_cd": "6028647",
+        "supp_cd": "9049170"
+      },
+      "old_name": "아크메르동탄",
+      "old_reason": "입주예정월 확인 필요",
+      "naver_status": "분양계획",
+      "supply_kind": "민간분양",
+      "move_in": "입주 미정",
+      "collected_at": "2026-10-01T06:47:50.887634+09:00",
+      "outcome": "held",
+      "reason": "현재 분양 중 또는 향후 입주 근거 추가 확인 필요",
+      "latitude": 37.204785,
+      "longitude": 127.0709094,
+      "existing_candidates": [],
+      "verified_move_in": ""
+    },
+    {
+      "name": "향남역그로브스위첸",
+      "address": "경기도 화성시 만세구 향남읍 하길리 404-2번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028633&supp_cd=9049113",
+      "source_ids": {
+        "build_dtl_cd": "6028633",
+        "supp_cd": "9049113"
+      },
+      "old_name": "향남역그로브스위첸",
+      "old_reason": "입주예정월 확인 필요",
+      "naver_status": "분양계획",
+      "supply_kind": "민간분양",
+      "move_in": "입주 미정",
+      "collected_at": "2026-10-01T06:47:56.404152+09:00",
+      "outcome": "held",
+      "reason": "현재 분양 중 또는 향후 입주 근거 추가 확인 필요",
+      "latitude": 37.1103426,
+      "longitude": 126.9148425,
+      "existing_candidates": [],
+      "verified_move_in": ""
+    },
+    {
+      "name": "화성향남롯데캐슬시그니처",
+      "address": "경기도 화성시 만세구 향남읍 상신리 산13-13번지 일원",
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028592&supp_cd=9048560",
+      "source_ids": {
+        "build_dtl_cd": "6028592",
+        "supp_cd": "9048560"
+      },
+      "old_name": "화성향남롯데캐슬시그니처",
+      "old_reason": "현재 공급 단계 확인 필요",
+      "naver_status": "분양계획",
+      "supply_kind": "민간분양",
+      "move_in": "입주 2026.10",
+      "collected_at": "2026-10-01T06:48:00.639836+09:00",
+      "outcome": "insert",
+      "reason": "네이버 상세의 현재 분양/향후 입주 및 사업지·목록 식별자 확인",
+      "latitude": 37.0970137,
+      "longitude": 126.9069629,
+      "existing_candidates": [],
+      "verified_move_in": "2026.10"
+    }
+  ],
+  "error": null,
+  "done": true
+}

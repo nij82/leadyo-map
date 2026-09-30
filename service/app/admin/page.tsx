@@ -2,7 +2,8 @@ import { identity } from "@/lib/supabase/server";
 import { redirect } from "next/navigation";
 import { State } from "@/components/shell";
 import { ActionForm } from "@/components/action-form";
-import { ApplyhomeImport } from "@/components/applyhome-import";
+import { ProjectCreateDialog } from "@/components/project-create-dialog";
+import { NaverSync } from "@/components/naver-sync";
 import { operatorAction, resolveSiteRequest, saveProject } from "@/app/actions";
 import { displayProjectName } from "@/lib/project-name";
 import {
@@ -384,20 +385,14 @@ export default async function Admin({
             <p>검색 조건에 맞는 {total.toLocaleString()}건</p>
           </div>
           {tab === "projects" && (
-            <a className="button" href="#new-project">
-              새 현장 등록
-            </a>
+            <ProjectCreateDialog>
+              <ProjectForm inDialog />
+            </ProjectCreateDialog>
           )}
         </div>
         <Filters tab={tab} q={q} status={status} product={product} />
-        {tab === "projects" && (
-          <details className="admin-create" id="new-project">
-            <summary>새 분양 현장 등록</summary>
-            <ProjectForm />
-          </details>
-        )}
         {tab === "projects" && process.env.NODE_ENV === "development" && (
-          <ApplyhomeImport />
+          <NaverSync />
         )}
         {tab === "listings" &&
           (listings.length ? (
@@ -621,9 +616,19 @@ export default async function Admin({
   );
 }
 
-function ProjectForm({ project: p }: { project?: Project }) {
+function ProjectForm({
+  project: p,
+  inDialog = false,
+}: {
+  project?: Project;
+  inDialog?: boolean;
+}) {
   return (
-    <ActionForm action={saveProject} submit="현장정보 저장">
+    <ActionForm
+      action={saveProject}
+      submit={inDialog ? "저장" : "현장정보 저장"}
+      inDialog={inDialog}
+    >
       <input type="hidden" name="id" value={p?.id || ""} />
       <p className="muted">
         사업지와 견본주택 주소는 구분해 입력하세요. 실제 근무지는 각

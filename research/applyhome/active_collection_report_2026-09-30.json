@@ -1,0 +1,34 @@
+{
+  "as_of": "2026-09-30",
+  "announcement_start_date": null,
+  "baseline": "/Users/haejoon/leadyo-map/research/applyhome/applyhome_candidates_2026-09-29.json",
+  "raw_notices_by_source": {
+    "apartment": 2884,
+    "officetel": 621,
+    "remaining": 1700,
+    "discretionary": 665
+  },
+  "eligible_notices": 1596,
+  "eligible_address_type_review_groups": 890,
+  "additional_notices": 403,
+  "additional_address_type_review_groups": 327,
+  "additional_groups_at_previously_collected_addresses": 72,
+  "new_address_type_review_groups": 255,
+  "additional_inclusion_reasons": {
+    "planned_move_in": 403
+  },
+  "additional_notice_years": {
+    "2022": 25,
+    "2023": 65,
+    "2024": 313
+  },
+  "needs_current_sale_verification_notices": 4037,
+  "files": {
+    "raw": "/Users/haejoon/leadyo-map/research/applyhome/applyhome_full_history_raw_2026-09-30.json",
+    "candidates": "/Users/haejoon/leadyo-map/research/applyhome/applyhome_active_candidates_2026-09-30.json",
+    "additional_groups": "/Users/haejoon/leadyo-map/research/applyhome/project_active_additional_review_2026-09-30.json",
+    "new_address_groups": "/Users/haejoon/leadyo-map/research/applyhome/project_active_new_address_review_2026-09-30.json",
+    "verification": "/Users/haejoon/leadyo-map/research/applyhome/applyhome_current_sale_verification_2026-09-30.json"
+  },
+  "database_writes": 0
+}

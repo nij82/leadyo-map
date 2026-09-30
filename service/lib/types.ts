@@ -81,7 +81,16 @@ export type SupplyEvent =
   | "open_supply"
   | "resupply";
 export type SupplyStatus = { stages: SupplyStage[]; events: SupplyEvent[] };
+export type UnsoldEvidence = {
+  status: "confirmed";
+  as_of: string;
+  region: string;
+  provider: string;
+  source_url: string;
+  source_address: string;
+};
 export type Project = {
+  unsold_evidence?: UnsoldEvidence | null;
   published: boolean;
   id: string;
   name: string;

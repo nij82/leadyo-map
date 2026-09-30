@@ -19,7 +19,7 @@ export default async function Home() {
       const p = await c
         .from("projects")
         .select(
-          "id,name,address,latitude,longitude,units,types,price,move_in,deposit,interim,builder,published,showroom_address,product_details,applyhome_summary,applyhome_details",
+          "id,name,address,latitude,longitude,units,types,price,move_in,deposit,interim,builder,published,showroom_address,product_details,applyhome_summary,applyhome_details,unsold_evidence",
         )
         .eq("published", true)
         .order("name")

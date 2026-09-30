@@ -1,0 +1,22 @@
+{
+  "collected_at": "2026-09-29",
+  "counts": {
+    "projects": 544,
+    "collected_notices": 1810,
+    "collected_models": 6527,
+    "joined_notices": 730,
+    "joined_models": 2953,
+    "notices_with_builder": 299,
+    "notices_with_business_entity": 730,
+    "notices_with_move_in": 730,
+    "models_with_price": 2953,
+    "all_notices_with_builder": 572,
+    "all_notices_with_business_entity": 1810,
+    "all_notices_with_move_in": 1810,
+    "all_models_with_price": 6527,
+    "supply_count_mismatches": 5,
+    "projects_with_nearby_planned_move_in": 388
+  },
+  "nearby_rule": "other reviewed projects within 3 km straight line; planned month is not verified current schedule",
+  "database_writes": 0
+}

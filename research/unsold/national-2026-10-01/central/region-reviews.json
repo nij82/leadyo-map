@@ -1,0 +1,72 @@
+[
+  {
+    "region": "강원",
+    "reviewed": true,
+    "as_of": "2026-08-31",
+    "published": "2026-09-30",
+    "source_url": "https://state.gwd.go.kr/veterinary/notice?articleSeq=272433",
+    "file_url": "https://state.gwd.go.kr/egf/bp/common/front/265511/download",
+    "file_inspected": true,
+    "scope": "도내 업체별+집계",
+    "confirmed_site_count": 9,
+    "blockers": [
+      "업체별 미분양 칸 비공개 다수; 양수 직접 확인 목록에서 제외",
+      "강원 자료는 주택 전체로 일부 도시형생활주택 포함"
+    ]
+  },
+  {
+    "region": "충북",
+    "reviewed": true,
+    "as_of": "2026-07-31",
+    "source_url": "https://www.chungbuk.go.kr/www/selectBbsNttView.do?key=646&bbsNo=97&nttNo=441569",
+    "file_url": "https://www.chungbuk.go.kr/www/downloadBbsFile.do?key=646&bbsNo=97&atchmnflNo=295188",
+    "file_inspected": true,
+    "scope": "도내 업체별+집계",
+    "confirmed_site_count": 4,
+    "blockers": [
+      "청주 일부 비공개, 충주·제천·옥천·영동·진천·음성 전체 비공개 요청",
+      "업체별 PDF 제목과 당월 열 날짜 하루 차이",
+      "원봉공원 업체는 주소와 사업명만 기재, 브랜드 미기재"
+    ]
+  },
+  {
+    "region": "충남",
+    "reviewed": true,
+    "as_of": "2026-07-31",
+    "source_url": "https://cncms.chungnam.go.kr/cnportal/bbs/B0000134/list.do?menuNo=500176&searchWrd=미분양",
+    "latest_detail_url": "https://cncms.chungnam.go.kr/cnportal/bbs/B0000134/view.do?nttId=2182376&menuNo=500176",
+    "file_inspected": false,
+    "scope": "도 전체 최신 목록 발견; 아산 최신 첨부 별도 검사",
+    "confirmed_site_count": 0,
+    "blockers": [
+      "도 최신 상세 페이지 웹방화벽 Web Attack Tool Prevention 차단; 파일 링크 확인 못함",
+      "아산 2026-08-31 원본은 집계 총괄표 1개 시트로 현장명/주소 미공개"
+    ],
+    "supplemental_sources": [
+      {
+        "scope": "아산시",
+        "as_of": "2026-08-31",
+        "published": "2026-09-14",
+        "source_url": "https://www.asan.go.kr/main/cms/?tb_nm=info_selling&m_mode=view&pds_no=2026091416275993493&no=169",
+        "file_url": "https://www.asan.go.kr/main/cms/download.php?tb_nm=info_selling&uid=97374&pds_no=2026091416275993493&bbs_board=Y&d8_chk=",
+        "local_file": "asan-20260831.xlsx",
+        "file_inspected": true
+      }
+    ]
+  },
+  {
+    "region": "전북",
+    "reviewed": true,
+    "as_of": "2026-07-31",
+    "published": "2026-09-29",
+    "source_url": "https://www.jeonbuk.go.kr/board/view.jeonbuk?boardId=BBS_0000197&dataSid=670842&menuCd=DOM_000000104012004007&paging=ok&startPage=1",
+    "file_url": "https://www.jeonbuk.go.kr/board/download.jeonbuk?boardId=BBS_0000197&menuCd=DOM_000000104012004007&paging=ok&startPage=1&dataSid=670842&command=update&fileSid=406670",
+    "file_inspected": true,
+    "scope": "도내 업체별+집계",
+    "confirmed_site_count": 11,
+    "blockers": [
+      "전북 미분양 명부 수량 비공개 현장은 공식 명부 등재로 존재 확인; 수량 양수 직접 확인은 정읍 1개. 현장명 자체가 가려진 행은 제외",
+      "초기 검색 캐시 목록은 6월말 최신으로 표시했으나 현재 7월말 게시 및 원본 확인"
+    ]
+  }
+]

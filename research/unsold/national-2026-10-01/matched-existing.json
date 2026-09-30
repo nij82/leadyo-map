@@ -1,0 +1,910 @@
+[
+  {
+    "region": "서울",
+    "district": "중구",
+    "dong": "인현동2가",
+    "location_raw": "마른내로 79 (인현동2가 151-1번지)\n[세운푸르지오헤리시티]",
+    "source_date": "2026-07-31",
+    "source_url": "https://land.seoul.go.kr/land/rent/rentCivilHouse.do",
+    "source_file": "seoul-20260831.xlsx",
+    "source_sheet": "업체별현황",
+    "source_row": 5,
+    "hidden": false,
+    "name": "세운푸르지오헤리시티",
+    "address": "서울특별시 중구 마른내로 79 (인현동2가 151-1번지) [세운푸르지오헤리시티]",
+    "as_of": "2026-07-31",
+    "file_url": "https://land.seoul.go.kr/land/common/downloadFileNm.do?filePath=%2Fmain%2Fhtrend%2F2026%2F&fileName=unsold_20260831.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/metro/seoul-20260831.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "row": 5,
+      "page": null,
+      "date_basis": "file internal heading",
+      "sha256": "274a2d0e387cfbb341967e561b1621518e3bf33c15386f7ec863db3d10e88d51"
+    },
+    "confirmation": "official_unsold_positive_numeric",
+    "research_group": "metro",
+    "source_address_raw": "마른내로 79 (인현동2가 151-1번지) [세운푸르지오헤리시티]",
+    "source_file_sha256": "274a2d0e387cfbb341967e561b1621518e3bf33c15386f7ec863db3d10e88d51",
+    "match_method": "unique_road_address",
+    "candidate_ids": [
+      "c234cce9-6c11-4418-a11b-538289f1612a"
+    ],
+    "project_id": "c234cce9-6c11-4418-a11b-538289f1612a",
+    "project_name": "세운 푸르지오 헤리시티 아파트 (4차)",
+    "project_address": "서울특별시 중구 마른내로 79 (인현동2가, 세운 푸르지오 헤리시티)"
+  },
+  {
+    "region": "서울",
+    "district": "중구",
+    "dong": "황학동",
+    "location_raw": "황학동 1756 일대\n[청계노르웨이숲]",
+    "source_date": "2026-07-31",
+    "source_url": "https://land.seoul.go.kr/land/rent/rentCivilHouse.do",
+    "source_file": "seoul-20260831.xlsx",
+    "source_sheet": "업체별현황",
+    "source_row": 11,
+    "hidden": false,
+    "name": "청계노르웨이숲",
+    "address": "서울특별시 중구 황학동 1756 일대 [청계노르웨이숲]",
+    "as_of": "2026-07-31",
+    "file_url": "https://land.seoul.go.kr/land/common/downloadFileNm.do?filePath=%2Fmain%2Fhtrend%2F2026%2F&fileName=unsold_20260831.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/metro/seoul-20260831.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "row": 11,
+      "page": null,
+      "date_basis": "file internal heading",
+      "sha256": "274a2d0e387cfbb341967e561b1621518e3bf33c15386f7ec863db3d10e88d51"
+    },
+    "confirmation": "official_unsold_positive_numeric",
+    "research_group": "metro",
+    "source_address_raw": "황학동 1756 일대 [청계노르웨이숲]",
+    "source_file_sha256": "274a2d0e387cfbb341967e561b1621518e3bf33c15386f7ec863db3d10e88d51",
+    "match_method": "unique_locality_parcel",
+    "candidate_ids": [
+      "314c7e44-e8a6-490b-8b2f-56f6be9a9d31"
+    ],
+    "project_id": "314c7e44-e8a6-490b-8b2f-56f6be9a9d31",
+    "project_name": "청계 노르웨이숲",
+    "project_address": "서울특별시 중구 황학동 1756번지 일원"
+  },
+  {
+    "region": "서울",
+    "district": "동대문구",
+    "dong": "이문동",
+    "location_raw": "이문동 149-8번지 일대\n[이문아이파크자이]",
+    "source_date": "2026-07-31",
+    "source_url": "https://land.seoul.go.kr/land/rent/rentCivilHouse.do",
+    "source_file": "seoul-20260831.xlsx",
+    "source_sheet": "업체별현황",
+    "source_row": 53,
+    "hidden": false,
+    "name": "이문아이파크자이",
+    "address": "서울특별시 동대문구 이문동 149-8번지 일대 [이문아이파크자이]",
+    "as_of": "2026-07-31",
+    "file_url": "https://land.seoul.go.kr/land/common/downloadFileNm.do?filePath=%2Fmain%2Fhtrend%2F2026%2F&fileName=unsold_20260831.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/metro/seoul-20260831.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "row": 53,
+      "page": null,
+      "date_basis": "file internal heading",
+      "sha256": "274a2d0e387cfbb341967e561b1621518e3bf33c15386f7ec863db3d10e88d51"
+    },
+    "confirmation": "official_unsold_positive_numeric",
+    "research_group": "metro",
+    "source_address_raw": "이문동 149-8번지 일대 [이문아이파크자이]",
+    "source_file_sha256": "274a2d0e387cfbb341967e561b1621518e3bf33c15386f7ec863db3d10e88d51",
+    "match_method": "unique_locality_parcel",
+    "candidate_ids": [
+      "fbcce26b-8f94-4b34-ab89-919b0855157a"
+    ],
+    "project_id": "fbcce26b-8f94-4b34-ab89-919b0855157a",
+    "project_name": "이문 아이파크 자이",
+    "project_address": "서울특별시 동대문구 이문동 149-8, 412-1번지 일원"
+  },
+  {
+    "region": "서울",
+    "district": "도봉구",
+    "dong": "창동",
+    "location_raw": "창동 662-7 일원\n[창동다우아트리체]",
+    "source_date": "2026-07-31",
+    "source_url": "https://land.seoul.go.kr/land/rent/rentCivilHouse.do",
+    "source_file": "seoul-20260831.xlsx",
+    "source_sheet": "업체별현황",
+    "source_row": 65,
+    "hidden": false,
+    "name": "창동다우아트리체",
+    "address": "서울특별시 도봉구 창동 662-7 일원 [창동다우아트리체]",
+    "as_of": "2026-07-31",
+    "file_url": "https://land.seoul.go.kr/land/common/downloadFileNm.do?filePath=%2Fmain%2Fhtrend%2F2026%2F&fileName=unsold_20260831.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/metro/seoul-20260831.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "row": 65,
+      "page": null,
+      "date_basis": "file internal heading",
+      "sha256": "274a2d0e387cfbb341967e561b1621518e3bf33c15386f7ec863db3d10e88d51"
+    },
+    "confirmation": "official_unsold_positive_numeric",
+    "research_group": "metro",
+    "source_address_raw": "창동 662-7 일원 [창동다우아트리체]",
+    "source_file_sha256": "274a2d0e387cfbb341967e561b1621518e3bf33c15386f7ec863db3d10e88d51",
+    "match_method": "unique_locality_parcel",
+    "candidate_ids": [
+      "015ec0fb-cc43-4d5b-b6b4-930a85661556"
+    ],
+    "project_id": "015ec0fb-cc43-4d5b-b6b4-930a85661556",
+    "project_name": "창동 다우아트리체",
+    "project_address": "서울특별시 도봉구 창동 662-7번지 일원"
+  },
+  {
+    "region": "서울",
+    "district": "서대문구",
+    "dong": "홍은동",
+    "location_raw": "홍은동 11-111 일대\n[서대문센트럴아이파크]",
+    "source_date": "2026-07-31",
+    "source_url": "https://land.seoul.go.kr/land/rent/rentCivilHouse.do",
+    "source_file": "seoul-20260831.xlsx",
+    "source_sheet": "업체별현황",
+    "source_row": 75,
+    "hidden": false,
+    "name": "서대문센트럴아이파크",
+    "address": "서울특별시 서대문구 홍은동 11-111 일대 [서대문센트럴아이파크]",
+    "as_of": "2026-07-31",
+    "file_url": "https://land.seoul.go.kr/land/common/downloadFileNm.do?filePath=%2Fmain%2Fhtrend%2F2026%2F&fileName=unsold_20260831.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/metro/seoul-20260831.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "row": 75,
+      "page": null,
+      "date_basis": "file internal heading",
+      "sha256": "274a2d0e387cfbb341967e561b1621518e3bf33c15386f7ec863db3d10e88d51"
+    },
+    "confirmation": "official_unsold_positive_numeric",
+    "research_group": "metro",
+    "source_address_raw": "홍은동 11-111 일대 [서대문센트럴아이파크]",
+    "source_file_sha256": "274a2d0e387cfbb341967e561b1621518e3bf33c15386f7ec863db3d10e88d51",
+    "match_method": "unique_locality_parcel",
+    "candidate_ids": [
+      "f2e64d08-4850-47d4-ae11-00061ca6d69d"
+    ],
+    "project_id": "f2e64d08-4850-47d4-ae11-00061ca6d69d",
+    "project_name": "서대문 센트럴 아이파크",
+    "project_address": "서울특별시 서대문구 홍은동 11-111번지 일원"
+  },
+  {
+    "region": "서울",
+    "district": "양천구",
+    "dong": "신정동",
+    "location_raw": "신정동 1328 (신목로2길 7-12)\n[어반클라쎄목동]",
+    "source_date": "2026-07-31",
+    "source_url": "https://land.seoul.go.kr/land/rent/rentCivilHouse.do",
+    "source_file": "seoul-20260831.xlsx",
+    "source_sheet": "업체별현황",
+    "source_row": 111,
+    "hidden": false,
+    "name": "신목로2길 7-12 어반클라쎄목동",
+    "address": "서울특별시 양천구 신정동 1328 (신목로2길 7-12) [어반클라쎄목동]",
+    "as_of": "2026-07-31",
+    "file_url": "https://land.seoul.go.kr/land/common/downloadFileNm.do?filePath=%2Fmain%2Fhtrend%2F2026%2F&fileName=unsold_20260831.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/metro/seoul-20260831.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "row": 111,
+      "page": null,
+      "date_basis": "file internal heading",
+      "sha256": "274a2d0e387cfbb341967e561b1621518e3bf33c15386f7ec863db3d10e88d51"
+    },
+    "confirmation": "official_unsold_positive_numeric",
+    "research_group": "metro",
+    "source_address_raw": "신정동 1328 (신목로2길 7-12) [어반클라쎄목동]",
+    "source_file_sha256": "274a2d0e387cfbb341967e561b1621518e3bf33c15386f7ec863db3d10e88d51",
+    "match_method": "unique_road_address",
+    "candidate_ids": [
+      "cd9a9a17-e60b-4a6d-b50b-c8572126145d"
+    ],
+    "project_id": "cd9a9a17-e60b-4a6d-b50b-c8572126145d",
+    "project_name": "어반클라쎄목동",
+    "project_address": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)"
+  },
+  {
+    "region": "서울",
+    "district": "구로구",
+    "dong": "오류동",
+    "location_raw": "오류동 213-1번지 일원\n[천왕역모아엘가트레뷰]",
+    "source_date": "2026-07-31",
+    "source_url": "https://land.seoul.go.kr/land/rent/rentCivilHouse.do",
+    "source_file": "seoul-20260831.xlsx",
+    "source_sheet": "업체별현황",
+    "source_row": 141,
+    "hidden": false,
+    "name": "천왕역모아엘가트레뷰",
+    "address": "서울특별시 구로구 오류동 213-1번지 일원 [천왕역모아엘가트레뷰]",
+    "as_of": "2026-07-31",
+    "file_url": "https://land.seoul.go.kr/land/common/downloadFileNm.do?filePath=%2Fmain%2Fhtrend%2F2026%2F&fileName=unsold_20260831.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/metro/seoul-20260831.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "row": 141,
+      "page": null,
+      "date_basis": "file internal heading",
+      "sha256": "274a2d0e387cfbb341967e561b1621518e3bf33c15386f7ec863db3d10e88d51"
+    },
+    "confirmation": "official_unsold_positive_numeric",
+    "research_group": "metro",
+    "source_address_raw": "오류동 213-1번지 일원 [천왕역모아엘가트레뷰]",
+    "source_file_sha256": "274a2d0e387cfbb341967e561b1621518e3bf33c15386f7ec863db3d10e88d51",
+    "match_method": "unique_locality_parcel",
+    "candidate_ids": [
+      "8c952d7f-76da-40f3-b5d4-f0455b5aca22"
+    ],
+    "project_id": "8c952d7f-76da-40f3-b5d4-f0455b5aca22",
+    "project_name": "천왕역 모아엘가 트레뷰(8차)",
+    "project_address": "서울특별시 구로구 오류동 213-1번지 일원"
+  },
+  {
+    "region": "서울",
+    "district": "구로구",
+    "dong": "가리봉동",
+    "location_raw": "가리봉동 113-1번지\n[남구로역동일센타시아]",
+    "source_date": "2026-07-31",
+    "source_url": "https://land.seoul.go.kr/land/rent/rentCivilHouse.do",
+    "source_file": "seoul-20260831.xlsx",
+    "source_sheet": "업체별현황",
+    "source_row": 145,
+    "hidden": false,
+    "name": "남구로역동일센타시아",
+    "address": "서울특별시 구로구 가리봉동 113-1번지 [남구로역동일센타시아]",
+    "as_of": "2026-07-31",
+    "file_url": "https://land.seoul.go.kr/land/common/downloadFileNm.do?filePath=%2Fmain%2Fhtrend%2F2026%2F&fileName=unsold_20260831.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/metro/seoul-20260831.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "row": 145,
+      "page": null,
+      "date_basis": "file internal heading",
+      "sha256": "274a2d0e387cfbb341967e561b1621518e3bf33c15386f7ec863db3d10e88d51"
+    },
+    "confirmation": "official_unsold_positive_numeric",
+    "research_group": "metro",
+    "source_address_raw": "가리봉동 113-1번지 [남구로역동일센타시아]",
+    "source_file_sha256": "274a2d0e387cfbb341967e561b1621518e3bf33c15386f7ec863db3d10e88d51",
+    "match_method": "unique_locality_parcel",
+    "candidate_ids": [
+      "f7019bcb-3a0b-4859-bbc2-3ab16a4e7c9f"
+    ],
+    "project_id": "f7019bcb-3a0b-4859-bbc2-3ab16a4e7c9f",
+    "project_name": "남구로역 동일 센타시아",
+    "project_address": "서울특별시 구로구 가리봉동 113-1번지 일원"
+  },
+  {
+    "region": "서울",
+    "district": "강동구",
+    "dong": "길동",
+    "location_raw": "386-4\n[에스아이팰리스강동센텀2]",
+    "source_date": "2026-07-31",
+    "source_url": "https://land.seoul.go.kr/land/rent/rentCivilHouse.do",
+    "source_file": "seoul-20260831.xlsx",
+    "source_sheet": "업체별현황",
+    "source_row": 242,
+    "hidden": false,
+    "name": "에스아이팰리스강동센텀2",
+    "address": "서울특별시 강동구 길동 386-4 [에스아이팰리스강동센텀2]",
+    "as_of": "2026-07-31",
+    "file_url": "https://land.seoul.go.kr/land/common/downloadFileNm.do?filePath=%2Fmain%2Fhtrend%2F2026%2F&fileName=unsold_20260831.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/metro/seoul-20260831.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "row": 242,
+      "page": null,
+      "date_basis": "file internal heading",
+      "sha256": "274a2d0e387cfbb341967e561b1621518e3bf33c15386f7ec863db3d10e88d51"
+    },
+    "confirmation": "official_unsold_positive_numeric",
+    "research_group": "metro",
+    "source_address_raw": "386-4 [에스아이팰리스강동센텀2]",
+    "source_file_sha256": "274a2d0e387cfbb341967e561b1621518e3bf33c15386f7ec863db3d10e88d51",
+    "match_method": "unique_locality_parcel",
+    "candidate_ids": [
+      "4b1f3a82-ad1d-48c1-98cb-93ea0f01dcb2"
+    ],
+    "project_id": "4b1f3a82-ad1d-48c1-98cb-93ea0f01dcb2",
+    "project_name": "에스아이팰리스 강동센텀Ⅱ",
+    "project_address": "서울특별시 강동구 길동 386-4 (길동, 에스아이팰리스 강동 센텀2)"
+  },
+  {
+    "region": "부산",
+    "district": "해운대구",
+    "dong": "중동",
+    "location_raw": "1394-72\n(해운대 하이루프33)",
+    "source_date": "2026-08-31",
+    "source_url": "https://www.busan.go.kr/depart/absalesinfo/1756577",
+    "source_file": "busan-20260831.xlsx",
+    "source_sheet": "업체별현황(최종)",
+    "source_row": 435,
+    "hidden": false,
+    "name": "해운대 하이루프33",
+    "address": "부산광역시 해운대구 중동 1394-72 (해운대 하이루프33)",
+    "as_of": "2026-08-31",
+    "file_url": "https://www.busan.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=1756577&fileTy=ATTACH&fileNo=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/metro/busan-20260831.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "row": 435,
+      "page": null,
+      "date_basis": "file internal heading",
+      "sha256": "9b1e427ff037079952d657d71ef2eed7bc09bd13028dc34b9815b3ed1ba4330c"
+    },
+    "confirmation": "official_unsold_positive_numeric",
+    "research_group": "metro",
+    "source_address_raw": "1394-72 (해운대 하이루프33)",
+    "source_file_sha256": "9b1e427ff037079952d657d71ef2eed7bc09bd13028dc34b9815b3ed1ba4330c",
+    "match_method": "unique_locality_parcel",
+    "candidate_ids": [
+      "dc4c3881-d8da-4cee-902f-7382723af937"
+    ],
+    "project_id": "dc4c3881-d8da-4cee-902f-7382723af937",
+    "project_name": "해운대 하이루프33",
+    "project_address": "부산광역시 해운대구 중동 1394-72 외 3필지"
+  },
+  {
+    "region": "부산",
+    "district": "금정구",
+    "dong": "부곡동",
+    "location_raw": "200-1\n(더샵 금정위버시티)",
+    "source_date": "2026-08-31",
+    "source_url": "https://www.busan.go.kr/depart/absalesinfo/1756577",
+    "source_file": "busan-20260831.xlsx",
+    "source_sheet": "업체별현황(최종)",
+    "source_row": 565,
+    "hidden": false,
+    "name": "더샵 금정위버시티",
+    "address": "부산광역시 금정구 부곡동 200-1 (더샵 금정위버시티)",
+    "as_of": "2026-08-31",
+    "file_url": "https://www.busan.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=1756577&fileTy=ATTACH&fileNo=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/metro/busan-20260831.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "row": 565,
+      "page": null,
+      "date_basis": "file internal heading",
+      "sha256": "9b1e427ff037079952d657d71ef2eed7bc09bd13028dc34b9815b3ed1ba4330c"
+    },
+    "confirmation": "official_unsold_positive_numeric",
+    "research_group": "metro",
+    "source_address_raw": "200-1 (더샵 금정위버시티)",
+    "source_file_sha256": "9b1e427ff037079952d657d71ef2eed7bc09bd13028dc34b9815b3ed1ba4330c",
+    "match_method": "unique_locality_parcel",
+    "candidate_ids": [
+      "81d65c81-2de9-478c-a3f6-7d49a7afd42f"
+    ],
+    "project_id": "81d65c81-2de9-478c-a3f6-7d49a7afd42f",
+    "project_name": "더샵 금정위버시티(조합원 취소분)",
+    "project_address": "부산광역시 금정구 부곡동 200-1번지 일원"
+  },
+  {
+    "region": "부산",
+    "district": "금정구",
+    "dong": "구서동",
+    "location_raw": "203-14\n(구서 다움포레)",
+    "source_date": "2026-08-31",
+    "source_url": "https://www.busan.go.kr/depart/absalesinfo/1756577",
+    "source_file": "busan-20260831.xlsx",
+    "source_sheet": "업체별현황(최종)",
+    "source_row": 580,
+    "hidden": false,
+    "name": "구서 다움포레",
+    "address": "부산광역시 금정구 구서동 203-14 (구서 다움포레)",
+    "as_of": "2026-08-31",
+    "file_url": "https://www.busan.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=1756577&fileTy=ATTACH&fileNo=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/metro/busan-20260831.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "row": 580,
+      "page": null,
+      "date_basis": "file internal heading",
+      "sha256": "9b1e427ff037079952d657d71ef2eed7bc09bd13028dc34b9815b3ed1ba4330c"
+    },
+    "confirmation": "official_unsold_positive_numeric",
+    "research_group": "metro",
+    "source_address_raw": "203-14 (구서 다움포레)",
+    "source_file_sha256": "9b1e427ff037079952d657d71ef2eed7bc09bd13028dc34b9815b3ed1ba4330c",
+    "match_method": "unique_locality_parcel",
+    "candidate_ids": [
+      "b92eebf1-502b-4c69-885b-4bc5844f5221"
+    ],
+    "project_id": "b92eebf1-502b-4c69-885b-4bc5844f5221",
+    "project_name": "구서 다움포레",
+    "project_address": "부산광역시 금정구 구서동 203-14번지 일원"
+  },
+  {
+    "region": "광주",
+    "district": "남구",
+    "dong": "지석동",
+    "location_raw": "지석동 506번지 일원",
+    "source_date": "2026-07-31",
+    "source_url": "https://www.gwangju.go.kr/build/boardView.do?boardId=BD_0000000288&pageId=build23&seq=528",
+    "source_file": "gwangju-file2.xlsx",
+    "source_sheet": "업체별현황(최종)",
+    "source_row": 57,
+    "hidden": false,
+    "name": null,
+    "address": "광주광역시 남구 지석동 506번지 일원",
+    "as_of": "2026-07-31",
+    "file_url": "https://www.gwangju.go.kr/fileDownload.do?boardId=BD_0000000288&fileKey=BD_0000000288%7C528&fileSe=BB&fileSn=1&seq=528",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/metro/gwangju-file2.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "row": 57,
+      "page": null,
+      "date_basis": "file internal heading",
+      "sha256": "b14571371a406a635dee53908a7ee5a4f1f677ed54a8e6344f6dc9343730e7bd"
+    },
+    "confirmation": "official_unsold_positive_numeric",
+    "research_group": "metro",
+    "source_address_raw": "지석동 506번지 일원",
+    "source_file_sha256": "b14571371a406a635dee53908a7ee5a4f1f677ed54a8e6344f6dc9343730e7bd",
+    "match_method": "unique_locality_parcel",
+    "candidate_ids": [
+      "7fe48e03-8d3e-4490-93e6-e9230c65e993"
+    ],
+    "project_id": "7fe48e03-8d3e-4490-93e6-e9230c65e993",
+    "project_name": "힐스테이트 지석",
+    "project_address": "광주광역시 남구 지석동 506번지 일원"
+  },
+  {
+    "region": "광주",
+    "district": "남구",
+    "dong": "진월동",
+    "location_raw": "진월동 산3번지 일원",
+    "source_date": "2026-07-31",
+    "source_url": "https://www.gwangju.go.kr/build/boardView.do?boardId=BD_0000000288&pageId=build23&seq=528",
+    "source_file": "gwangju-file2.xlsx",
+    "source_sheet": "업체별현황(최종)",
+    "source_row": 60,
+    "hidden": false,
+    "name": null,
+    "address": "광주광역시 남구 진월동 산3번지 일원",
+    "as_of": "2026-07-31",
+    "file_url": "https://www.gwangju.go.kr/fileDownload.do?boardId=BD_0000000288&fileKey=BD_0000000288%7C528&fileSe=BB&fileSn=1&seq=528",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/metro/gwangju-file2.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "row": 60,
+      "page": null,
+      "date_basis": "file internal heading",
+      "sha256": "b14571371a406a635dee53908a7ee5a4f1f677ed54a8e6344f6dc9343730e7bd"
+    },
+    "confirmation": "official_unsold_positive_numeric",
+    "research_group": "metro",
+    "source_address_raw": "진월동 산3번지 일원",
+    "source_file_sha256": "b14571371a406a635dee53908a7ee5a4f1f677ed54a8e6344f6dc9343730e7bd",
+    "match_method": "unique_locality_parcel",
+    "candidate_ids": [
+      "7b0fccf5-b560-4546-b62b-82e781ed20be"
+    ],
+    "project_id": "7b0fccf5-b560-4546-b62b-82e781ed20be",
+    "project_name": "진월 더리브 라포레",
+    "project_address": "광주광역시 남구 진월동 산3번지 일원"
+  },
+  {
+    "region": "광주",
+    "district": "남구",
+    "dong": "월산동",
+    "location_raw": "월산동 243-1번지 일원",
+    "source_date": "2026-07-31",
+    "source_url": "https://www.gwangju.go.kr/build/boardView.do?boardId=BD_0000000288&pageId=build23&seq=528",
+    "source_file": "gwangju-file2.xlsx",
+    "source_sheet": "업체별현황(최종)",
+    "source_row": 67,
+    "hidden": false,
+    "name": null,
+    "address": "광주광역시 남구 월산동 243-1번지 일원",
+    "as_of": "2026-07-31",
+    "file_url": "https://www.gwangju.go.kr/fileDownload.do?boardId=BD_0000000288&fileKey=BD_0000000288%7C528&fileSe=BB&fileSn=1&seq=528",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/metro/gwangju-file2.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "row": 67,
+      "page": null,
+      "date_basis": "file internal heading",
+      "sha256": "b14571371a406a635dee53908a7ee5a4f1f677ed54a8e6344f6dc9343730e7bd"
+    },
+    "confirmation": "official_unsold_positive_numeric",
+    "research_group": "metro",
+    "source_address_raw": "월산동 243-1번지 일원",
+    "source_file_sha256": "b14571371a406a635dee53908a7ee5a4f1f677ed54a8e6344f6dc9343730e7bd",
+    "match_method": "unique_locality_parcel",
+    "candidate_ids": [
+      "957d653c-5aba-488c-8a7c-2f6a30dbeb3f"
+    ],
+    "project_id": "957d653c-5aba-488c-8a7c-2f6a30dbeb3f",
+    "project_name": "두산위브 트레지움 월산",
+    "project_address": "광주광역시 남구 월산동 243-1번지 일원"
+  },
+  {
+    "region": "광주",
+    "district": "남구",
+    "dong": "봉선동",
+    "location_raw": "봉선동 161번지 일원",
+    "source_date": "2026-07-31",
+    "source_url": "https://www.gwangju.go.kr/build/boardView.do?boardId=BD_0000000288&pageId=build23&seq=528",
+    "source_file": "gwangju-file2.xlsx",
+    "source_sheet": "업체별현황(최종)",
+    "source_row": 73,
+    "hidden": false,
+    "name": null,
+    "address": "광주광역시 남구 봉선동 161번지 일원",
+    "as_of": "2026-07-31",
+    "file_url": "https://www.gwangju.go.kr/fileDownload.do?boardId=BD_0000000288&fileKey=BD_0000000288%7C528&fileSe=BB&fileSn=1&seq=528",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/metro/gwangju-file2.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "row": 73,
+      "page": null,
+      "date_basis": "file internal heading",
+      "sha256": "b14571371a406a635dee53908a7ee5a4f1f677ed54a8e6344f6dc9343730e7bd"
+    },
+    "confirmation": "official_unsold_positive_numeric",
+    "research_group": "metro",
+    "source_address_raw": "봉선동 161번지 일원",
+    "source_file_sha256": "b14571371a406a635dee53908a7ee5a4f1f677ed54a8e6344f6dc9343730e7bd",
+    "match_method": "unique_locality_parcel",
+    "candidate_ids": [
+      "46ba879a-56ab-40e9-b03d-c392d01e3f62"
+    ],
+    "project_id": "46ba879a-56ab-40e9-b03d-c392d01e3f62",
+    "project_name": "봉선동 르오네뜨 2차",
+    "project_address": "광주광역시 남구 봉선동 161번지 일원"
+  },
+  {
+    "region": "강원",
+    "name": "더리치먼드리버센트소양",
+    "address": "강원특별자치도 춘천시 소양동 소양로1가 102-5번지 일원",
+    "as_of": "2026-08-31",
+    "source_url": "https://state.gwd.go.kr/veterinary/notice?articleSeq=272433",
+    "file_url": "https://state.gwd.go.kr/egf/bp/common/front/265511/download",
+    "local_file": "gangwon-20260831.xlsx",
+    "provenance": {
+      "sheet": "미분양(업체별)",
+      "identity_row": 39,
+      "positive_unsold_cells": [
+        "M39",
+        "M40",
+        "M41",
+        "M42",
+        "M43",
+        "M44",
+        "M45",
+        "M46"
+      ]
+    },
+    "confirmation": "당월 미분양 셀 양수 직접 확인",
+    "research_group": "central",
+    "source_file_sha256": "0e073a4ac69ae91d6c45103e0391b97f8167c2ca40f25e4416ece60760a2647f",
+    "match_method": "unique_locality_parcel",
+    "candidate_ids": [
+      "6108f15d-362a-4354-af2a-574ffc2b26ca"
+    ],
+    "project_id": "6108f15d-362a-4354-af2a-574ffc2b26ca",
+    "project_name": "더 리치먼드 리버센트 소양",
+    "project_address": "강원특별자치도 춘천시 소양로1가 102-5, 102-6, 102-25"
+  },
+  {
+    "region": "충북",
+    "name": "더샵 오창프레스티지",
+    "address": "충청북도 청주시 청원구 오창읍 양청리 814-2번지",
+    "as_of": "2026-07-31",
+    "source_url": "https://www.chungbuk.go.kr/www/selectBbsNttView.do?key=646&bbsNo=97&nttNo=441569",
+    "file_url": "https://www.chungbuk.go.kr/www/downloadBbsFile.do?key=646&bbsNo=97&atchmnflNo=295188",
+    "local_file": "chungbuk-20260731-projects.pdf",
+    "provenance": {
+      "page": 1,
+      "evidence": "세번째 업체 소계 및 127.7478A/127.8267B 당월 미분양 양수"
+    },
+    "confirmation": "업체별 미분양 양수 직접 확인",
+    "source_date_caveat": "문서 제목은 26.7.31. 현재, 당월 열 머리에는 26.7.30.가 표기되어 원문 내부 1일 차이 있음",
+    "research_group": "central",
+    "source_file_sha256": "1f47d17400242c57dfb9d4d8f0cdbb0eec6eeb6ee2d2a27ea452c46bcd5e268e",
+    "match_method": "unique_locality_parcel",
+    "candidate_ids": [
+      "b610db2f-7dc0-47a1-a5e7-943d689e4913"
+    ],
+    "project_id": "b610db2f-7dc0-47a1-a5e7-943d689e4913",
+    "project_name": "더샵 오창프레스티지",
+    "project_address": "충청북도 청주시 청원구 오창읍 양청리 814-2"
+  },
+  {
+    "region": "전북",
+    "name": "상동 예다음2차",
+    "address": "전북특별자치도 정읍시 상동 90-5",
+    "as_of": "2026-07-31",
+    "source_url": "https://www.jeonbuk.go.kr/board/view.jeonbuk?boardId=BBS_0000197&dataSid=670842&menuCd=DOM_000000104012004007&paging=ok&startPage=1",
+    "file_url": "https://www.jeonbuk.go.kr/board/download.jeonbuk?boardId=BBS_0000197&menuCd=DOM_000000104012004007&paging=ok&startPage=1&dataSid=670842&command=update&fileSid=406670",
+    "local_file": "jeonbuk-20260731.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "identity_row": 26,
+      "positive_unsold_cells": [
+        "I26"
+      ]
+    },
+    "confirmation": "미분양 셀 양수 직접 확인",
+    "research_group": "central",
+    "source_file_sha256": "276572a25b4d3a8917cbdf98cc54669a3e67b8ddcf7d2f3dd7be35befb25729b",
+    "match_method": "unique_locality_parcel",
+    "candidate_ids": [
+      "839e16d6-ede8-46f1-92b5-393cdab5b87b"
+    ],
+    "project_id": "839e16d6-ede8-46f1-92b5-393cdab5b87b",
+    "project_name": "정읍 상동 예다음2차",
+    "project_address": "전북특별자치도 정읍시 상동 90-5번지 일원"
+  },
+  {
+    "region": "전북",
+    "name": "본 아르떼 리버뷰",
+    "address": "전북특별자치도 전주시 효자동2가 1409",
+    "as_of": "2026-07-31",
+    "source_url": "https://www.jeonbuk.go.kr/board/view.jeonbuk?boardId=BBS_0000197&dataSid=670842&menuCd=DOM_000000104012004007&paging=ok&startPage=1",
+    "file_url": "https://www.jeonbuk.go.kr/board/download.jeonbuk?boardId=BBS_0000197&menuCd=DOM_000000104012004007&paging=ok&startPage=1&dataSid=670842&command=update&fileSid=406670",
+    "local_file": "jeonbuk-20260731.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "identity_row": 8,
+      "official_status_cell": "I8"
+    },
+    "confirmation": "공식 업체별 미분양 현황 명부에 현장명·주소를 직접 기재. 미분양 수량은 업체 비공개 요청. 이 표에는 수량 0 현장 행이 없으며 업체별 미분양 명부로 공개됨",
+    "quantity_disclosure": "private",
+    "existence_basis": "official_unsold_roster",
+    "research_group": "central",
+    "source_file_sha256": "276572a25b4d3a8917cbdf98cc54669a3e67b8ddcf7d2f3dd7be35befb25729b",
+    "match_method": "unique_name_region_area",
+    "candidate_ids": [
+      "291938f9-477f-4694-95dd-43a44d952eea"
+    ],
+    "project_id": "291938f9-477f-4694-95dd-43a44d952eea",
+    "project_name": "본 아르떼 리버뷰",
+    "project_address": "전북특별자치도 전주시 완산구 쑥고개로 398-13 외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 순천시 풍덕동 327-3번지 일원",
+    "source_address_raw": "327-3번지 일원",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 90,
+      "positive_unsold_rows": [
+        94,
+        95,
+        96,
+        97,
+        98
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외",
+    "research_group": "south",
+    "source_file_sha256": "326ce5a1c5a2c38ca93a60c0167980b6bc2ea101766b58692f16bd401ebfd4f8",
+    "match_method": "unique_locality_parcel",
+    "candidate_ids": [
+      "05da90c3-90b3-4ebe-9337-3a8b20c1ba01"
+    ],
+    "project_id": "05da90c3-90b3-4ebe-9337-3a8b20c1ba01",
+    "project_name": "순천그랜드파크자이",
+    "project_address": "전라남도 순천시 풍덕동 327-3번지 일원"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 나주시 이창동 714번지 일원",
+    "source_address_raw": "이창동 714번지 일원",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 126,
+      "positive_unsold_rows": [
+        126,
+        127,
+        128,
+        129
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외",
+    "research_group": "south",
+    "source_file_sha256": "326ce5a1c5a2c38ca93a60c0167980b6bc2ea101766b58692f16bd401ebfd4f8",
+    "match_method": "unique_locality_parcel",
+    "candidate_ids": [
+      "e9778be0-7b83-4195-9702-0c02dffbf89d"
+    ],
+    "project_id": "e9778be0-7b83-4195-9702-0c02dffbf89d",
+    "project_name": "나주영산 윤슬의아침 더정원",
+    "project_address": "전라남도 나주시 이창동 714 일대"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 광양시 마동 348-4번지",
+    "source_address_raw": "348-4번지",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 136,
+      "positive_unsold_rows": [
+        136,
+        141,
+        142,
+        143
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외",
+    "research_group": "south",
+    "source_file_sha256": "326ce5a1c5a2c38ca93a60c0167980b6bc2ea101766b58692f16bd401ebfd4f8",
+    "match_method": "unique_locality_parcel",
+    "candidate_ids": [
+      "ebb00400-c03e-4706-8502-dfb0f8dc6d79"
+    ],
+    "project_id": "ebb00400-c03e-4706-8502-dfb0f8dc6d79",
+    "project_name": "더샵 광양레이크센텀 (2회차)",
+    "project_address": "전라남도 광양시 마동 348-4번지 일원"
+  },
+  {
+    "region": "경북",
+    "name": "상주자이르네",
+    "address": "경상북도 함창읍 윤직리 상주시 합창읍 윤직리 840",
+    "source_address_raw": "상주시 합창읍 윤직리 840\n(상주자이르네)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-03",
+    "source_url": "https://www.gb.go.kr/Main/economy/page.do?mnu_uid=15367&BD_CODE=economy_file_new&cmd=2&B_NUM=514886201&B_STEP=514886200",
+    "file_url": "https://www.gb.go.kr/Common/board_egov/download.jsp?B_STEP=514886200&B_ORDER=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongbuk-2026-07.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 314,
+      "positive_unsold_rows": [
+        314,
+        315,
+        316,
+        317,
+        321,
+        324
+      ],
+      "unsold_column": "O"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외",
+    "research_group": "south",
+    "source_file_sha256": "43d300e0843b4890ca362a61e067e6fa3b20e933c32f2dd2126f4498df3584dd",
+    "match_method": "unique_locality_parcel",
+    "candidate_ids": [
+      "a395df11-9205-4161-94a6-9ac45bf61dbe"
+    ],
+    "project_id": "a395df11-9205-4161-94a6-9ac45bf61dbe",
+    "project_name": "상주자이르네",
+    "project_address": "경상북도 상주시 함창읍 윤직리 840번지 일원"
+  },
+  {
+    "region": "경북",
+    "name": "상주북천하늘채파크원",
+    "address": "경상북도 상주시 냉림동 53",
+    "source_address_raw": "상주시 냉림동 53\n(상주북천하늘채파크원)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-03",
+    "source_url": "https://www.gb.go.kr/Main/economy/page.do?mnu_uid=15367&BD_CODE=economy_file_new&cmd=2&B_NUM=514886201&B_STEP=514886200",
+    "file_url": "https://www.gb.go.kr/Common/board_egov/download.jsp?B_STEP=514886200&B_ORDER=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongbuk-2026-07.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 325,
+      "positive_unsold_rows": [
+        329,
+        330,
+        331
+      ],
+      "unsold_column": "O"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외",
+    "research_group": "south",
+    "source_file_sha256": "43d300e0843b4890ca362a61e067e6fa3b20e933c32f2dd2126f4498df3584dd",
+    "match_method": "unique_locality_parcel",
+    "candidate_ids": [
+      "06229288-47ac-4cbb-a42a-5b7da0a614af"
+    ],
+    "project_id": "06229288-47ac-4cbb-a42a-5b7da0a614af",
+    "project_name": "상주북천 하늘채 파크원",
+    "project_address": "경상북도 상주시 냉림동 53번지 일원"
+  },
+  {
+    "region": "제주",
+    "name": "형남6차아파트",
+    "address": "제주특별자치도 서귀포시 서홍동 384-5",
+    "source_address_raw": "서홍동 384-5\n(형남6차아파트)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 83,
+      "positive_unsold_rows": [
+        83,
+        85
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외",
+    "research_group": "south",
+    "source_file_sha256": "7751ac00c1d795f7f72c6fbf256757cd73c8b64666fc96df8538ae29db8257fc",
+    "match_method": "unique_locality_parcel",
+    "candidate_ids": [
+      "bde3e764-5844-42f0-af63-3c75043a490c"
+    ],
+    "project_id": "bde3e764-5844-42f0-af63-3c75043a490c",
+    "project_name": "서귀포시 서홍동 형남아파트6차",
+    "project_address": "제주특별자치도 서귀포시 서홍동 384-5번지 일원"
+  },
+  {
+    "region": "제주",
+    "name": "루첸시아표선 IBEDU",
+    "address": "제주특별자치도 서귀포시 표선리 2957",
+    "source_address_raw": "표선리 2957\n(루첸시아표선 IBEDU)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 86,
+      "positive_unsold_rows": [
+        86,
+        87,
+        88,
+        89,
+        90
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외",
+    "research_group": "south",
+    "source_file_sha256": "7751ac00c1d795f7f72c6fbf256757cd73c8b64666fc96df8538ae29db8257fc",
+    "match_method": "unique_locality_parcel",
+    "candidate_ids": [
+      "f238606a-a5b8-4dce-b422-e10ce3ec17dc"
+    ],
+    "project_id": "f238606a-a5b8-4dce-b422-e10ce3ec17dc",
+    "project_name": "리첸시아 표선 IB EDU",
+    "project_address": "제주특별자치도 서귀포시 표선면 표선리 2957(구 주소 : 536-1외 )"
+  }
+]

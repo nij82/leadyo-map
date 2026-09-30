@@ -1,0 +1,29 @@
+{
+  "review_date": "2026-10-01",
+  "existing_projects": 804,
+  "source_records": 278,
+  "matched_source_records": 27,
+  "matched_unique_projects": 27,
+  "held_source_records": 251,
+  "database_writes": 0,
+  "source_region_counts": {
+    "서울": 32,
+    "부산": 55,
+    "대구": 3,
+    "울산": 8,
+    "광주": 20,
+    "대전": 9,
+    "강원": 9,
+    "충북": 4,
+    "전북": 11,
+    "전남": 35,
+    "경북": 23,
+    "경남": 35,
+    "제주": 34
+  },
+  "held_reasons": {
+    "no_unique_identity_match": 247,
+    "source_updates_stopped": 1,
+    "not_verified_apartment_type": 3
+  }
+}

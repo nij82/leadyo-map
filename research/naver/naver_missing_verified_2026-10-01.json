@@ -1,0 +1,320 @@
+[
+  {
+    "name": "김포 북변 우미 린 파크리브",
+    "address": "경기도 김포시 북변동 329-2번지 일원",
+    "latitude": 37.6266688,
+    "longitude": 126.7071255,
+    "published": true,
+    "product_details": {
+      "apartment": {
+        "units": "",
+        "types": "",
+        "price": "",
+        "move_in": "2027.12",
+        "deposit": "",
+        "interim": ""
+      }
+    },
+    "review_source": {
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027455&supp_cd=9041028",
+      "naver_status": "입주예정",
+      "reviewed_on": "2026-10-01",
+      "official_notice_address_candidates": [
+        {
+          "name": "김포 북변 우미 린 파크리브",
+          "address": "경기도 김포시 북변동 329-2번지 일원",
+          "source_id": "2024000166",
+          "announcement_id": "2024000166",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000166&pblancNo=2024000166"
+        }
+      ]
+    }
+  },
+  {
+    "name": "김포 칸타빌 에디션",
+    "address": "경기도 김포시 북변동 224-67번지 일원(북변2구역 1블록 1로트)",
+    "latitude": 37.6246096,
+    "longitude": 126.7056956,
+    "published": true,
+    "product_details": {
+      "apartment": {
+        "units": "",
+        "types": "",
+        "price": "",
+        "move_in": "2029.12",
+        "deposit": "",
+        "interim": ""
+      }
+    },
+    "review_source": {
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027899&supp_cd=9043639",
+      "naver_status": "입주예정",
+      "reviewed_on": "2026-10-01",
+      "official_notice_address_candidates": [
+        {
+          "name": "김포북변 칸타빌 디 에디션",
+          "address": "경기도 김포시 북변동 224-67 일원",
+          "source_id": "2025000573",
+          "announcement_id": "2025000573",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000573&pblancNo=2025000573"
+        },
+        {
+          "name": "김포 칸타빌 에디션",
+          "address": "경기도 김포시 북변동 224-67 일원",
+          "source_id": "2026910060",
+          "announcement_id": "2026910060",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910060&pblancNo=2026910060"
+        },
+        {
+          "name": "김포 칸타빌 에디션(2차)",
+          "address": "경기도 김포시 북변동 224-67 일원",
+          "source_id": "2026940116",
+          "announcement_id": "2026940116",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940116&pblancNo=2026940116"
+        },
+        {
+          "name": "김포 칸타빌 에디션",
+          "address": "경기도 김포시 북변동 224-67 일원",
+          "source_id": "2026940049",
+          "announcement_id": "2026940049",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940049&pblancNo=2026940049"
+        }
+      ]
+    }
+  },
+  {
+    "name": "한강 수자인 오브센트",
+    "address": "경기도 김포시 북변동 184번지 일원",
+    "latitude": 37.6311347,
+    "longitude": 126.7085261,
+    "published": true,
+    "product_details": {
+      "apartment": {
+        "units": "",
+        "types": "",
+        "price": "",
+        "move_in": "2028.02",
+        "deposit": "",
+        "interim": ""
+      }
+    },
+    "review_source": {
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027679&supp_cd=9042346",
+      "naver_status": "입주예정",
+      "reviewed_on": "2026-10-01",
+      "official_notice_address_candidates": [
+        {
+          "name": "한강 수자인 오브센트",
+          "address": "경기도 김포시 북변동 184번지 일원",
+          "source_id": "2024000457",
+          "announcement_id": "2024000457",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000457&pblancNo=2024000457"
+        }
+      ]
+    }
+  },
+  {
+    "name": "김포 풍무역세권 B5블록 호반써밋",
+    "address": "경기도 김포시 사우동 475-2번지 일원(풍무역세권도시개발사업지구 B5블록)",
+    "latitude": 37.6153054,
+    "longitude": 126.7364386,
+    "published": true,
+    "product_details": {
+      "apartment": {
+        "units": "",
+        "types": "",
+        "price": "",
+        "move_in": "2028.10",
+        "deposit": "",
+        "interim": ""
+      }
+    },
+    "review_source": {
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028150&supp_cd=9045481",
+      "naver_status": "입주예정",
+      "reviewed_on": "2026-10-01",
+      "official_notice_address_candidates": [
+        {
+          "name": "김포 풍무역세권 B5블록 호반써밋",
+          "address": "김포 풍무역세권 B5블록(경기도 김포시 사우동 475-2 일원)",
+          "source_id": "2025000499",
+          "announcement_id": "2025000499",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000499&pblancNo=2025000499"
+        },
+        {
+          "name": "김포 풍무역세권 B5블록 호반써밋",
+          "address": "김포 풍무역세권 B5블록(경기도 김포시 사우동 475-2 일원)",
+          "source_id": "2025910243",
+          "announcement_id": "2025910243",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910243&pblancNo=2025910243"
+        },
+        {
+          "name": "김포 풍무역세권 B5블록 호반써밋",
+          "address": "김포 풍무역세권 B5블록 (경기도 김포시 사우동 475-2 일원)",
+          "source_id": "2026940036",
+          "announcement_id": "2026940036",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940036&pblancNo=2026940036"
+        }
+      ]
+    }
+  },
+  {
+    "name": "사우역 지엔하임",
+    "address": "경기도 김포시 사우동 297번지 일원(사우4구역 공동1블록)",
+    "latitude": 37.615284,
+    "longitude": 126.7188146,
+    "published": true,
+    "product_details": {
+      "apartment": {
+        "units": "",
+        "types": "",
+        "price": "",
+        "move_in": "2029.04",
+        "deposit": "",
+        "interim": ""
+      }
+    },
+    "review_source": {
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028269&supp_cd=9046329",
+      "naver_status": "입주예정",
+      "reviewed_on": "2026-10-01",
+      "official_notice_address_candidates": [
+        {
+          "name": "사우역 지엔하임",
+          "address": "경기도 김포시 사우동 사우4구역 공동1블록",
+          "source_id": "2025000656",
+          "announcement_id": "2025000656",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000656&pblancNo=2025000656"
+        },
+        {
+          "name": "사우역 지엔하임",
+          "address": "경기도 김포시 사우동 사우4구역 공동1블록",
+          "source_id": "2026910048",
+          "announcement_id": "2026910048",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910048&pblancNo=2026910048"
+        }
+      ]
+    }
+  },
+  {
+    "name": "호반써밋 풍무Ⅱ",
+    "address": "경기도 김포시 사우동 527-1번지 일원",
+    "latitude": 37.613755,
+    "longitude": 126.7349741,
+    "published": true,
+    "product_details": {
+      "apartment": {
+        "units": "",
+        "types": "",
+        "price": "",
+        "move_in": "2030.01",
+        "deposit": "",
+        "interim": ""
+      }
+    },
+    "review_source": {
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028413&supp_cd=9047667",
+      "naver_status": "입주예정",
+      "reviewed_on": "2026-10-01",
+      "official_notice_address_candidates": [
+        {
+          "name": "호반써밋 풍무Ⅱ",
+          "address": "김포 풍무역세권 C5블록 (경기도 김포시 사우동 527-1 일원)",
+          "source_id": "2026000219",
+          "announcement_id": "2026000219",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000219&pblancNo=2026000219"
+        },
+        {
+          "name": "호반써밋 풍무Ⅱ",
+          "address": "김포 풍무역세권 C5블록 (경기도 김포시 사우동 527-1 일원)",
+          "source_id": "2026950084",
+          "announcement_id": "2026950084",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950084&pblancNo=2026950084&houseSecd=02"
+        },
+        {
+          "name": "호반써밋 풍무Ⅱ",
+          "address": "김포 풍무역세권 C5블록 (경기도 김포시 사우동 527-1 일원)",
+          "source_id": "2026950051",
+          "announcement_id": "2026950051",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950051&pblancNo=2026950051&houseSecd=02"
+        },
+        {
+          "name": "호반써밋 풍무Ⅱ",
+          "address": "김포 풍무역세권 C5블록 (경기도 김포시 사우동 527-1 일원)",
+          "source_id": "2026910177",
+          "announcement_id": "2026910177",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910177&pblancNo=2026910177"
+        }
+      ]
+    }
+  },
+  {
+    "name": "호반써밋 풍무Ⅲ",
+    "address": "경기도 김포시 사우동 458번지 일원 (풍무역세권지구 B4블록)",
+    "latitude": 37.6155606,
+    "longitude": 126.7345585,
+    "published": true,
+    "product_details": {
+      "apartment": {
+        "units": "",
+        "types": "",
+        "price": "",
+        "move_in": "2029.05",
+        "deposit": "",
+        "interim": ""
+      }
+    },
+    "review_source": {
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6028531&supp_cd=9048348",
+      "naver_status": "입주예정",
+      "reviewed_on": "2026-10-01",
+      "official_notice_address_candidates": [
+        {
+          "name": "호반써밋 풍무Ⅲ",
+          "address": "김포 풍무역세권 B4블록 (경기도 김포시 사우동 458번지 일원)",
+          "source_id": "2026000329",
+          "announcement_id": "2026000329",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000329&pblancNo=2026000329"
+        },
+        {
+          "name": "호반써밋 풍무Ⅲ",
+          "address": "김포 풍무역세권 B4블록 (경기도 김포시 사우동 458번지 일원)",
+          "source_id": "2026910229",
+          "announcement_id": "2026910229",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910229&pblancNo=2026910229"
+        }
+      ]
+    }
+  },
+  {
+    "name": "소사역 롯데캐슬 더 뉴엘",
+    "address": "경기도 부천시 소사구 소사본동 134번지 일원",
+    "latitude": 37.4790826,
+    "longitude": 126.8017313,
+    "published": true,
+    "product_details": {
+      "apartment": {
+        "units": "",
+        "types": "",
+        "price": "",
+        "move_in": "2027.08",
+        "deposit": "",
+        "interim": ""
+      }
+    },
+    "review_source": {
+      "source_url": "https://isale.land.naver.com/iSale/Map/#SYDetail?build_dtl_cd=6027291&supp_cd=9040449",
+      "naver_status": "입주예정",
+      "reviewed_on": "2026-10-01",
+      "official_notice_address_candidates": [
+        {
+          "name": "소사역 롯데캐슬 더 뉴엘",
+          "address": "경기도 부천시 소사본동 134번지 일원",
+          "source_id": "2023000589",
+          "announcement_id": "2023000589",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000589&pblancNo=2023000589"
+        }
+      ]
+    }
+  }
+]

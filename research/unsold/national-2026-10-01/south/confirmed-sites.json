@@ -1,0 +1,3110 @@
+[
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 목포시 연산동 2043",
+    "source_address_raw": "2043",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 5,
+      "positive_unsold_rows": [
+        5,
+        6,
+        7
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 목포시 달동 1331-8",
+    "source_address_raw": "1331-8",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 8,
+      "positive_unsold_rows": [
+        8,
+        9,
+        10
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 목포시 석현동 1186",
+    "source_address_raw": "1186",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 11,
+      "positive_unsold_rows": [
+        11,
+        14,
+        15
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 여수시 관문동 8-7 외 16필지",
+    "source_address_raw": "관문동 8-7 외 16필지",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 16,
+      "positive_unsold_rows": [
+        19,
+        22
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 여수시 신월동 산237 외 1필지",
+    "source_address_raw": "신월동 산237 외 1필지",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 23,
+      "positive_unsold_rows": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 여수시 웅천동 1815-1 외 3필지",
+    "source_address_raw": "1815-1 외 3필지",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 27,
+      "positive_unsold_rows": [
+        27,
+        29
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 여수시 연등동 311번지 외 3필지",
+    "source_address_raw": "연등동 311번지 외 3필지",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 30,
+      "positive_unsold_rows": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 여수시 소호동 945 외 8",
+    "source_address_raw": "소호동 945 외 8",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 39,
+      "positive_unsold_rows": [
+        40,
+        41,
+        42
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 여수시 관문동 232 외 19필지",
+    "source_address_raw": "관문동 232 외 19필지",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 43,
+      "positive_unsold_rows": [
+        43,
+        44,
+        45
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 여수시 수정동 235",
+    "source_address_raw": "수정동 235",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 49,
+      "positive_unsold_rows": [
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 여수시 광무동 504번지 외 103필지",
+    "source_address_raw": "504번지 외 103필지",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 55,
+      "positive_unsold_rows": [
+        55,
+        56,
+        57,
+        61,
+        62,
+        63
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 순천시 해룡면 복성리 산 86-5",
+    "source_address_raw": "복성리 산 86-5",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 64,
+      "positive_unsold_rows": [
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 순천시 조례동 1276-1",
+    "source_address_raw": "1276-1",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 73,
+      "positive_unsold_rows": [
+        81,
+        84
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 순천시 풍덕동 327-3번지 일원",
+    "source_address_raw": "327-3번지 일원",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 90,
+      "positive_unsold_rows": [
+        94,
+        95,
+        96,
+        97,
+        98
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 나주시 금천면 석전리 341-55번지 일원",
+    "source_address_raw": "금천면 석전리 341-55번지 일원",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 120,
+      "positive_unsold_rows": [
+        124,
+        125
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 나주시 이창동 714번지 일원",
+    "source_address_raw": "이창동 714번지 일원",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 126,
+      "positive_unsold_rows": [
+        126,
+        127,
+        128,
+        129
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 광양시 마동 1360번지",
+    "source_address_raw": "1360번지",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 130,
+      "positive_unsold_rows": [
+        130,
+        131
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 광양시 광양읍 용강리 산1-1",
+    "source_address_raw": "용강리 산1-1",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 132,
+      "positive_unsold_rows": [
+        132,
+        133,
+        134,
+        135
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 광양시 마동 348-4번지",
+    "source_address_raw": "348-4번지",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 136,
+      "positive_unsold_rows": [
+        136,
+        141,
+        142,
+        143
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 담양군 담양읍 백동리 248-13",
+    "source_address_raw": "백동리 248-13",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 144,
+      "positive_unsold_rows": [
+        144,
+        145,
+        146,
+        147
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 구례군 구례읍 백련리 46-6 일원",
+    "source_address_raw": "백련리 46-6 일원",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 148,
+      "positive_unsold_rows": [
+        148,
+        149
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 구례군 구례읍 봉동리 178-4 일원",
+    "source_address_raw": "봉동리 178-4 일원",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 150,
+      "positive_unsold_rows": [
+        150,
+        151,
+        152,
+        154,
+        155
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 화순군 화순읍 교리 98번지 외 12필지",
+    "source_address_raw": "교리 98번지 외 12필지",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 161,
+      "positive_unsold_rows": [
+        163,
+        164,
+        166
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 화순군 화순읍 삼천리 703 일원",
+    "source_address_raw": "삼천리 703 일원",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 167,
+      "positive_unsold_rows": [
+        167,
+        168,
+        169,
+        170
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 화순군 화순읍 삼천리 1072 일원",
+    "source_address_raw": "삼천리 1072 일원",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 171,
+      "positive_unsold_rows": [
+        172,
+        175,
+        176
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 장흥군 장흥읍 장흡은 건산리 500-15 외 29필지",
+    "source_address_raw": "장흡은 건산리 500-15 외 29필지",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 177,
+      "positive_unsold_rows": [
+        177,
+        178,
+        179,
+        180,
+        181
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 장흥군 대덕읍 연정리 412-4",
+    "source_address_raw": "연정리 412-4",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 182,
+      "positive_unsold_rows": [
+        182,
+        183,
+        184,
+        185,
+        186
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 해남군 해남읍 해리 709",
+    "source_address_raw": "해리 709",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 187,
+      "positive_unsold_rows": [
+        188,
+        189,
+        190
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 무안군 무안읍 성남리 327-1번지 일원",
+    "source_address_raw": "성남리 327-1번지 일원",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 191,
+      "positive_unsold_rows": [
+        192,
+        196,
+        197
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 함평군 함평읍 기각리 379-10 외5필지",
+    "source_address_raw": "기각리 379-10 외5필지",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 198,
+      "positive_unsold_rows": [
+        198,
+        199,
+        200
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 함평군 월야면 월야리 1494",
+    "source_address_raw": "월야리 1494",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 201,
+      "positive_unsold_rows": [
+        201,
+        202,
+        203
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 함평군 대동면 향교리 827-5 외 8필지",
+    "source_address_raw": "대동면 향교리 827-5 외 8필지",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 204,
+      "positive_unsold_rows": [
+        204,
+        205,
+        206
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 장성군 장성읍 유탕리 1422-2",
+    "source_address_raw": "유탕리 1422-2",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 207,
+      "positive_unsold_rows": [
+        207,
+        208
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 장성군 장성읍 영천리 1016",
+    "source_address_raw": "영천리 1016",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 209,
+      "positive_unsold_rows": [
+        209,
+        210
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "전남",
+    "name": null,
+    "address": "전라남도 장성군 장성읍 영천리 1661",
+    "source_address_raw": "영천리 1661",
+    "as_of": "2026-05-31",
+    "published_at": "2026-07-20",
+    "source_url": "https://www.jeonnam.go.kr/M5004/boardView.do?boardId=M5004&menuId=jeonnam0505040000&seq=1867164",
+    "file_url": "https://www.jeonnam.go.kr/boardDown.do?boardId=M5004&seq=1867164&fileLinkTp=F&fileLinkSeq=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeonnam-2026-05.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 211,
+      "positive_unsold_rows": [
+        211,
+        212,
+        213,
+        214
+      ],
+      "unsold_column": "L"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경북",
+    "name": "오천 정림다채움",
+    "address": "경상북도 포항시 남구 오천읍 문덕리 307-1",
+    "source_address_raw": "경상북도 포항시 남구 오천읍 문덕리 307-1\n(오천 정림다채움)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-03",
+    "source_url": "https://www.gb.go.kr/Main/economy/page.do?mnu_uid=15367&BD_CODE=economy_file_new&cmd=2&B_NUM=514886201&B_STEP=514886200",
+    "file_url": "https://www.gb.go.kr/Common/board_egov/download.jsp?B_STEP=514886200&B_ORDER=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongbuk-2026-07.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 37,
+      "positive_unsold_rows": [
+        37,
+        38,
+        41
+      ],
+      "unsold_column": "O"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경북",
+    "name": "우현2차 금성굿모닝",
+    "address": "경상북도 포항시 북구 우현동 128",
+    "source_address_raw": "경상북도 포항시 북구 우현동 128\n(우현2차 금성굿모닝)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-03",
+    "source_url": "https://www.gb.go.kr/Main/economy/page.do?mnu_uid=15367&BD_CODE=economy_file_new&cmd=2&B_NUM=514886201&B_STEP=514886200",
+    "file_url": "https://www.gb.go.kr/Common/board_egov/download.jsp?B_STEP=514886200&B_ORDER=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongbuk-2026-07.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 42,
+      "positive_unsold_rows": [
+        44,
+        45
+      ],
+      "unsold_column": "O"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경북",
+    "name": "금아드림팰리스",
+    "address": "경상북도 포항시 북구 흥해읍 옥성리 176-1",
+    "source_address_raw": "경상북도 포항시 북구 흥해읍 옥성리 176-1\n(금아드림팰리스)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-03",
+    "source_url": "https://www.gb.go.kr/Main/economy/page.do?mnu_uid=15367&BD_CODE=economy_file_new&cmd=2&B_NUM=514886201&B_STEP=514886200",
+    "file_url": "https://www.gb.go.kr/Common/board_egov/download.jsp?B_STEP=514886200&B_ORDER=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongbuk-2026-07.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 46,
+      "positive_unsold_rows": [
+        47,
+        50,
+        52
+      ],
+      "unsold_column": "O"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경북",
+    "name": "미소지움 시티",
+    "address": "경상북도 경주시 외동읍 입실리 1294번지 외3필지",
+    "source_address_raw": "미소지움 시티\n외동읍 입실리 1294번지 외3필지",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-03",
+    "source_url": "https://www.gb.go.kr/Main/economy/page.do?mnu_uid=15367&BD_CODE=economy_file_new&cmd=2&B_NUM=514886201&B_STEP=514886200",
+    "file_url": "https://www.gb.go.kr/Common/board_egov/download.jsp?B_STEP=514886200&B_ORDER=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongbuk-2026-07.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 139,
+      "positive_unsold_rows": [
+        139,
+        140,
+        141
+      ],
+      "unsold_column": "O"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경북",
+    "name": null,
+    "address": "경상북도 경주시 경일리버뷰 황성동 800-50 외 2필지",
+    "source_address_raw": "경일리버뷰\n\n황성동 800-50 외 2필지",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-03",
+    "source_url": "https://www.gb.go.kr/Main/economy/page.do?mnu_uid=15367&BD_CODE=economy_file_new&cmd=2&B_NUM=514886201&B_STEP=514886200",
+    "file_url": "https://www.gb.go.kr/Common/board_egov/download.jsp?B_STEP=514886200&B_ORDER=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongbuk-2026-07.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 142,
+      "positive_unsold_rows": [
+        143,
+        145
+      ],
+      "unsold_column": "O"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경북",
+    "name": "삼부 르네상스",
+    "address": "경상북도 경주시 외동읍 입실리 산24",
+    "source_address_raw": "삼부 르네상스\n외동읍 입실리 산24",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-03",
+    "source_url": "https://www.gb.go.kr/Main/economy/page.do?mnu_uid=15367&BD_CODE=economy_file_new&cmd=2&B_NUM=514886201&B_STEP=514886200",
+    "file_url": "https://www.gb.go.kr/Common/board_egov/download.jsp?B_STEP=514886200&B_ORDER=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongbuk-2026-07.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 149,
+      "positive_unsold_rows": [
+        149,
+        150,
+        151,
+        152
+      ],
+      "unsold_column": "O"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경북",
+    "name": "반도 유보라 아이비파크",
+    "address": "경상북도 경주시 건천읍 신경주역세권 5BL",
+    "source_address_raw": "반도 유보라 아이비파크\n건천읍 신경주역세권 5BL",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-03",
+    "source_url": "https://www.gb.go.kr/Main/economy/page.do?mnu_uid=15367&BD_CODE=economy_file_new&cmd=2&B_NUM=514886201&B_STEP=514886200",
+    "file_url": "https://www.gb.go.kr/Common/board_egov/download.jsp?B_STEP=514886200&B_ORDER=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongbuk-2026-07.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 162,
+      "positive_unsold_rows": [
+        163,
+        164
+      ],
+      "unsold_column": "O"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경북",
+    "name": "베스티움 프레스티지",
+    "address": "경상북도 경주시 황성동73-8번지 외 1필지",
+    "source_address_raw": "베스티움 프레스티지\n\n황성동73-8번지 외 1필지",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-03",
+    "source_url": "https://www.gb.go.kr/Main/economy/page.do?mnu_uid=15367&BD_CODE=economy_file_new&cmd=2&B_NUM=514886201&B_STEP=514886200",
+    "file_url": "https://www.gb.go.kr/Common/board_egov/download.jsp?B_STEP=514886200&B_ORDER=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongbuk-2026-07.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 165,
+      "positive_unsold_rows": [
+        165,
+        167,
+        168
+      ],
+      "unsold_column": "O"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경북",
+    "name": null,
+    "address": "경상북도 김천시 율곡동 (혁신도시) 771번지",
+    "source_address_raw": "771번지",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-03",
+    "source_url": "https://www.gb.go.kr/Main/economy/page.do?mnu_uid=15367&BD_CODE=economy_file_new&cmd=2&B_NUM=514886201&B_STEP=514886200",
+    "file_url": "https://www.gb.go.kr/Common/board_egov/download.jsp?B_STEP=514886200&B_ORDER=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongbuk-2026-07.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 172,
+      "positive_unsold_rows": [
+        172,
+        173,
+        176
+      ],
+      "unsold_column": "O"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경북",
+    "name": null,
+    "address": "경상북도 김천시 어모면 중왕리 686-1번지 일원",
+    "source_address_raw": "686-1번지 일원",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-03",
+    "source_url": "https://www.gb.go.kr/Main/economy/page.do?mnu_uid=15367&BD_CODE=economy_file_new&cmd=2&B_NUM=514886201&B_STEP=514886200",
+    "file_url": "https://www.gb.go.kr/Common/board_egov/download.jsp?B_STEP=514886200&B_ORDER=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongbuk-2026-07.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 177,
+      "positive_unsold_rows": [
+        177,
+        178,
+        179
+      ],
+      "unsold_column": "O"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경북",
+    "name": "오태명당풀리비에 1단지",
+    "address": "경상북도 구미시 오태동 28 외 4필지 (=>오태동 791)",
+    "source_address_raw": "오태동 28 외 4필지\n(=>오태동 791)\n\n(오태명당풀리비에 1단지)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-03",
+    "source_url": "https://www.gb.go.kr/Main/economy/page.do?mnu_uid=15367&BD_CODE=economy_file_new&cmd=2&B_NUM=514886201&B_STEP=514886200",
+    "file_url": "https://www.gb.go.kr/Common/board_egov/download.jsp?B_STEP=514886200&B_ORDER=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongbuk-2026-07.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 219,
+      "positive_unsold_rows": [
+        219,
+        220,
+        223,
+        224
+      ],
+      "unsold_column": "O"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경북",
+    "name": "오태명당풀리비에 2단지",
+    "address": "경상북도 구미시 오태동 산4-12 외 2필지 (=>오태동 789)",
+    "source_address_raw": "오태동 산4-12 외 2필지\n(=>오태동 789)\n\n(오태명당풀리비에 2단지)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-03",
+    "source_url": "https://www.gb.go.kr/Main/economy/page.do?mnu_uid=15367&BD_CODE=economy_file_new&cmd=2&B_NUM=514886201&B_STEP=514886200",
+    "file_url": "https://www.gb.go.kr/Common/board_egov/download.jsp?B_STEP=514886200&B_ORDER=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongbuk-2026-07.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 225,
+      "positive_unsold_rows": [
+        225,
+        226,
+        228
+      ],
+      "unsold_column": "O"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경북",
+    "name": "도량아이센스",
+    "address": "경상북도 구미시 도량동 230번지",
+    "source_address_raw": "도량동 230번지\n\n(도량아이센스)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-03",
+    "source_url": "https://www.gb.go.kr/Main/economy/page.do?mnu_uid=15367&BD_CODE=economy_file_new&cmd=2&B_NUM=514886201&B_STEP=514886200",
+    "file_url": "https://www.gb.go.kr/Common/board_egov/download.jsp?B_STEP=514886200&B_ORDER=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongbuk-2026-07.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 229,
+      "positive_unsold_rows": [
+        230,
+        231
+      ],
+      "unsold_column": "O"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경북",
+    "name": "신평동 성원 상떼빌",
+    "address": "경상북도 구미시 신평동 495번지",
+    "source_address_raw": "신평동 495번지\n(신평동 성원 상떼빌)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-03",
+    "source_url": "https://www.gb.go.kr/Main/economy/page.do?mnu_uid=15367&BD_CODE=economy_file_new&cmd=2&B_NUM=514886201&B_STEP=514886200",
+    "file_url": "https://www.gb.go.kr/Common/board_egov/download.jsp?B_STEP=514886200&B_ORDER=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongbuk-2026-07.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 238,
+      "positive_unsold_rows": [
+        238,
+        239,
+        240,
+        241,
+        242
+      ],
+      "unsold_column": "O"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경북",
+    "name": "송정동 범양레우스",
+    "address": "경상북도 구미시 송정동 250-6번지",
+    "source_address_raw": "송정동 250-6번지\n(송정동 범양레우스)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-03",
+    "source_url": "https://www.gb.go.kr/Main/economy/page.do?mnu_uid=15367&BD_CODE=economy_file_new&cmd=2&B_NUM=514886201&B_STEP=514886200",
+    "file_url": "https://www.gb.go.kr/Common/board_egov/download.jsp?B_STEP=514886200&B_ORDER=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongbuk-2026-07.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 243,
+      "positive_unsold_rows": [
+        243,
+        244,
+        245,
+        246
+      ],
+      "unsold_column": "O"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경북",
+    "name": null,
+    "address": "경상북도 계림동 상주시 냉림동 360",
+    "source_address_raw": "상주시 냉림동 360",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-03",
+    "source_url": "https://www.gb.go.kr/Main/economy/page.do?mnu_uid=15367&BD_CODE=economy_file_new&cmd=2&B_NUM=514886201&B_STEP=514886200",
+    "file_url": "https://www.gb.go.kr/Common/board_egov/download.jsp?B_STEP=514886200&B_ORDER=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongbuk-2026-07.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 307,
+      "positive_unsold_rows": [
+        307,
+        310
+      ],
+      "unsold_column": "O"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경북",
+    "name": null,
+    "address": "경상북도 상주시 화산동 1086-1",
+    "source_address_raw": "상주시 화산동 1086-1",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-03",
+    "source_url": "https://www.gb.go.kr/Main/economy/page.do?mnu_uid=15367&BD_CODE=economy_file_new&cmd=2&B_NUM=514886201&B_STEP=514886200",
+    "file_url": "https://www.gb.go.kr/Common/board_egov/download.jsp?B_STEP=514886200&B_ORDER=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongbuk-2026-07.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 311,
+      "positive_unsold_rows": [
+        311,
+        312,
+        313
+      ],
+      "unsold_column": "O"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경북",
+    "name": "상주자이르네",
+    "address": "경상북도 함창읍 윤직리 상주시 합창읍 윤직리 840",
+    "source_address_raw": "상주시 합창읍 윤직리 840\n(상주자이르네)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-03",
+    "source_url": "https://www.gb.go.kr/Main/economy/page.do?mnu_uid=15367&BD_CODE=economy_file_new&cmd=2&B_NUM=514886201&B_STEP=514886200",
+    "file_url": "https://www.gb.go.kr/Common/board_egov/download.jsp?B_STEP=514886200&B_ORDER=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongbuk-2026-07.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 314,
+      "positive_unsold_rows": [
+        314,
+        315,
+        316,
+        317,
+        321,
+        324
+      ],
+      "unsold_column": "O"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경북",
+    "name": "상주북천하늘채파크원",
+    "address": "경상북도 상주시 냉림동 53",
+    "source_address_raw": "상주시 냉림동 53\n(상주북천하늘채파크원)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-03",
+    "source_url": "https://www.gb.go.kr/Main/economy/page.do?mnu_uid=15367&BD_CODE=economy_file_new&cmd=2&B_NUM=514886201&B_STEP=514886200",
+    "file_url": "https://www.gb.go.kr/Common/board_egov/download.jsp?B_STEP=514886200&B_ORDER=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongbuk-2026-07.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 325,
+      "positive_unsold_rows": [
+        329,
+        330,
+        331
+      ],
+      "unsold_column": "O"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경북",
+    "name": null,
+    "address": "경상북도 경산시 조영동 572-1번지",
+    "source_address_raw": "572-1번지",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-03",
+    "source_url": "https://www.gb.go.kr/Main/economy/page.do?mnu_uid=15367&BD_CODE=economy_file_new&cmd=2&B_NUM=514886201&B_STEP=514886200",
+    "file_url": "https://www.gb.go.kr/Common/board_egov/download.jsp?B_STEP=514886200&B_ORDER=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongbuk-2026-07.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 332,
+      "positive_unsold_rows": [
+        332,
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340,
+        341
+      ],
+      "unsold_column": "O"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경북",
+    "name": "비슬블랜하임",
+    "address": "경상북도 청도군 화양읍 범곡리 399-10",
+    "source_address_raw": "범곡리 399-10\n(비슬블랜하임)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-03",
+    "source_url": "https://www.gb.go.kr/Main/economy/page.do?mnu_uid=15367&BD_CODE=economy_file_new&cmd=2&B_NUM=514886201&B_STEP=514886200",
+    "file_url": "https://www.gb.go.kr/Common/board_egov/download.jsp?B_STEP=514886200&B_ORDER=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongbuk-2026-07.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 349,
+      "positive_unsold_rows": [
+        349,
+        350,
+        351,
+        352,
+        353
+      ],
+      "unsold_column": "O"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경북",
+    "name": null,
+    "address": "경상북도 울진군 울진읍 범곡리 399-10",
+    "source_address_raw": "범곡리 399-10",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-03",
+    "source_url": "https://www.gb.go.kr/Main/economy/page.do?mnu_uid=15367&BD_CODE=economy_file_new&cmd=2&B_NUM=514886201&B_STEP=514886200",
+    "file_url": "https://www.gb.go.kr/Common/board_egov/download.jsp?B_STEP=514886200&B_ORDER=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongbuk-2026-07.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 363,
+      "positive_unsold_rows": [
+        368,
+        370,
+        371,
+        374
+      ],
+      "unsold_column": "O"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경북",
+    "name": null,
+    "address": "경상북도 울진군 후포면 금음리 5-4",
+    "source_address_raw": "경상북도 울진군 후포면 금음리 5-4",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-03",
+    "source_url": "https://www.gb.go.kr/Main/economy/page.do?mnu_uid=15367&BD_CODE=economy_file_new&cmd=2&B_NUM=514886201&B_STEP=514886200",
+    "file_url": "https://www.gb.go.kr/Common/board_egov/download.jsp?B_STEP=514886200&B_ORDER=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongbuk-2026-07.xlsx",
+    "provenance": {
+      "sheet": "업체별현황(최종)",
+      "project_start_row": 375,
+      "positive_unsold_rows": [
+        376,
+        377,
+        379,
+        382,
+        383
+      ],
+      "unsold_column": "O"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "진해 마린힐즈",
+    "address": "경상남도 창원시 진해구 충무동 5-10",
+    "source_address_raw": "진해구 충무동 5-10\n진해 마린힐즈",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 5,
+      "positive_unsold_rows": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "신진주 역세권 파밀리에 피아체 1단지",
+    "address": "경상남도 진주시 가좌동 1964",
+    "source_address_raw": "가좌동 1964\n신진주 역세권 파밀리에 피아체 1단지",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 10,
+      "positive_unsold_rows": [
+        10,
+        11,
+        13
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "신진주 역세권 파밀리에 피아체 2단지",
+    "address": "경상남도 진주시 가좌동 1962",
+    "source_address_raw": "가좌동 1962\n신진주 역세권 파밀리에 피아체 2단지",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 14,
+      "positive_unsold_rows": [
+        14,
+        15
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "통영 더유엘윈썸",
+    "address": "경상남도 통영시 용남면 원평리 260",
+    "source_address_raw": "용남면 원평리 260\n통영 더유엘윈썸",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 16,
+      "positive_unsold_rows": [
+        16,
+        18,
+        19,
+        20
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "통영 주영 더 팰리스 5차",
+    "address": "경상남도 통영시 광도면 죽림리 1573-2",
+    "source_address_raw": "광도면 죽림리 1573-2\n통영 주영 더 팰리스 5차",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 21,
+      "positive_unsold_rows": [
+        21,
+        26,
+        27
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "디 엘본 S136",
+    "address": "경상남도 통영시 광도면 죽림리 1582-2",
+    "source_address_raw": "광도면 죽림리 1582-2\n디 엘본 S136",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 28,
+      "positive_unsold_rows": [
+        34,
+        36
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "통영 주영더팰리스6차",
+    "address": "경상남도 통영시 광도면 죽림리 1584",
+    "source_address_raw": "광도면 죽림리 1584\n통영 주영더팰리스6차",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 37,
+      "positive_unsold_rows": [
+        38,
+        39,
+        42
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "주영더팰리스지븐",
+    "address": "경상남도 통영시 광도면 죽림리 263-1",
+    "source_address_raw": "광도면 죽림리 263-1\n주영더팰리스지븐",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 43,
+      "positive_unsold_rows": [
+        43,
+        44,
+        45,
+        46,
+        48,
+        49
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "e편한세상 삼천포 오션프라임",
+    "address": "경상남도 사천시 동금동 151-5",
+    "source_address_raw": "동금동 151-5\ne편한세상 삼천포 오션프라임",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 50,
+      "positive_unsold_rows": [
+        50,
+        53,
+        54,
+        55,
+        56,
+        61
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "용강동 대경파미르",
+    "address": "경상남도 사천시 용강동 509",
+    "source_address_raw": "용강동 509\n용강동 대경파미르",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 62,
+      "positive_unsold_rows": [
+        63,
+        65
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "삼정그린코아 포레스트",
+    "address": "경상남도 사천시 사남면 유천리 108",
+    "source_address_raw": "사남면 유천리 108\n삼정그린코아 포레스트",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 72,
+      "positive_unsold_rows": [
+        72,
+        74,
+        82
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "푸르지오 파크테르",
+    "address": "경상남도 김해시 구산동 691",
+    "source_address_raw": "구산동 691\n푸르지오 파크테르",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 95,
+      "positive_unsold_rows": [
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": null,
+    "address": "경상남도 김해시 내덕지구 1블럭 중흥S-클래스 더퍼스트",
+    "source_address_raw": "내덕지구 1블럭 중흥S-클래스 더퍼스트",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 101,
+      "positive_unsold_rows": [
+        102,
+        103,
+        104,
+        105,
+        106
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "더샵 신문그리니티",
+    "address": "경상남도 김해시 신문동 신문1지구 A7-1블록",
+    "source_address_raw": "신문동 신문1지구 A7-1블록\n더샵 신문그리니티",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 107,
+      "positive_unsold_rows": [
+        110,
+        113
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "e편한세상 주촌 더프리미어",
+    "address": "경상남도 김해시 주촌면 선지리 213-2",
+    "source_address_raw": "주촌면 선지리 213-2\ne편한세상 주촌 더프리미어",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 114,
+      "positive_unsold_rows": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "오성센트럴 아파트",
+    "address": "경상남도 밀양시 교동 885-2",
+    "source_address_raw": "교동 885-2\n오성센트럴 아파트",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 120,
+      "positive_unsold_rows": [
+        122,
+        125
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "수에르떼 밀양",
+    "address": "경상남도 밀양시 가곡동 597-1",
+    "source_address_raw": "가곡동 597-1\n수에르떼 밀양",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 126,
+      "positive_unsold_rows": [
+        126,
+        127,
+        128,
+        129,
+        130
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "수산 사랑채뷰 2차",
+    "address": "경상남도 밀양시 하남읍 수산리 420-41",
+    "source_address_raw": "하남읍 수산리 420-41\n수산 사랑채뷰 2차",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 131,
+      "positive_unsold_rows": [
+        132,
+        133
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "양정문동지구 아이파크(2단지",
+    "address": "경상남도 거제시 문동동 353-7(양정동 1096)",
+    "source_address_raw": "문동동 353-7(양정동 1096) \n(양정문동지구 아이파크(2단지))",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 134,
+      "positive_unsold_rows": [
+        135,
+        136,
+        137
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "양정문동지구 아이파크(1단지",
+    "address": "경상남도 거제시 양정동 산 117(양정동 1097)",
+    "source_address_raw": "양정동 산 117(양정동 1097)\n(양정문동지구 아이파크(1단지))",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 138,
+      "positive_unsold_rows": [
+        142,
+        143
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "거제 코아루 파크드림",
+    "address": "경상남도 거제시 일운면 지세포리 1020-2",
+    "source_address_raw": "일운면 지세포리 1020-2\n(일운면 지세포리 1412)\n거제 코아루 파크드림",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 144,
+      "positive_unsold_rows": [
+        145,
+        146,
+        147
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "오션파크자이",
+    "address": "경상남도 거제시 거제면 옥산리 285-4",
+    "source_address_raw": "거제면 옥산리 285-4\n(거제면 옥산리 285-1)\n오션파크자이",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 148,
+      "positive_unsold_rows": [
+        148,
+        151
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "반도 거제 유보라",
+    "address": "경상남도 거제시 옥포동 238-2 외",
+    "source_address_raw": "옥포동 238-2 외\n반도 거제 유보라",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 152,
+      "positive_unsold_rows": [
+        152,
+        153,
+        154,
+        155
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "거제 일성유수안",
+    "address": "경상남도 거제시 연초면 죽토리 1094 외 13필지",
+    "source_address_raw": "연초면 죽토리 1094 외 13필지\n(연초면 죽토리 1238)\n거제 일성유수안",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 156,
+      "positive_unsold_rows": [
+        156,
+        157,
+        158,
+        159
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "양산 유탑유블레스 하늘리에",
+    "address": "경상남도 양산시 신기동 68-1",
+    "source_address_raw": "신기동 68-1\n양산 유탑유블레스 하늘리에",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 160,
+      "positive_unsold_rows": [
+        160,
+        161,
+        162,
+        163,
+        165
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "경동 스마트홈",
+    "address": "경상남도 양산시 덕계동 811-12",
+    "source_address_raw": "덕계동 811-12\n경동 스마트홈",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 166,
+      "positive_unsold_rows": [
+        166,
+        167,
+        168,
+        169
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "포레스트퀸 101동",
+    "address": "경상남도 양산시 덕계동 724-27",
+    "source_address_raw": "덕계동 724-27\n포레스트퀸 101동",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 170,
+      "positive_unsold_rows": [
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "포레스트퀸 102동",
+    "address": "경상남도 양산시 덕계동 724-14",
+    "source_address_raw": "덕계동 724-14\n포레스트퀸 102동",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 177,
+      "positive_unsold_rows": [
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "양산 더 포레스트 엠",
+    "address": "경상남도 양산시 물금읍 범어리 산 135-0",
+    "source_address_raw": "물금읍 범어리 산 135-0\n양산 더 포레스트 엠",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 184,
+      "positive_unsold_rows": [
+        189,
+        190
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "더샵 남양산 센텀포레",
+    "address": "경상남도 양산시 동면 석산리 615-0",
+    "source_address_raw": "동면 석산리 615-0\n더샵 남양산 센텀포레",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 191,
+      "positive_unsold_rows": [
+        194,
+        195,
+        196
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": null,
+    "address": "경상남도 산청군 금서면 매촌리 628-1",
+    "source_address_raw": "산청군 금서면 매촌리 628-1",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 197,
+      "positive_unsold_rows": [
+        197,
+        198
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": true,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "지리산 블루힐",
+    "address": "경상남도 산청군 시천면 원리 912",
+    "source_address_raw": "산청군 시천면 원리 912\n지리산 블루힐",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 199,
+      "positive_unsold_rows": [
+        199,
+        200,
+        201
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "하이페리온골드",
+    "address": "경상남도 함양군 함양읍 용평리 642-8",
+    "source_address_raw": "함양군 함양읍 용평리 642-8\n하이페리온골드",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 202,
+      "positive_unsold_rows": [
+        202,
+        203
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "나리안길 107동",
+    "address": "경상남도 거창군 거창읍 대동리 571",
+    "source_address_raw": "거창군 거창읍 대동리 571\n나리안길 107동",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 204,
+      "positive_unsold_rows": [
+        204,
+        205,
+        206,
+        207,
+        208
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "경남",
+    "name": "거창 ES아뜨리움",
+    "address": "경상남도 거창군 거창읍 대평리 1021-4",
+    "source_address_raw": "거창군 거창읍 대평리 1021-4\n거창 ES아뜨리움",
+    "as_of": "2026-08-31",
+    "published_at": "2026-09-15",
+    "source_url": "https://gis.gyeongnam.go.kr/srp/unsoldAptStat.do",
+    "file_url": "https://gis.gyeongnam.go.kr/srp/unsold/51/20260915-082141332_727.xlsx",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/gyeongnam-2026-08.xlsx",
+    "provenance": {
+      "sheet": "업체별현황",
+      "project_start_row": 209,
+      "positive_unsold_rows": [
+        209,
+        210,
+        211,
+        212
+      ],
+      "unsold_column": "N"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "도두 네오하임",
+    "address": "제주특별자치도 제주시 도두일동 2619-1",
+    "source_address_raw": "도두일동 2619-1\n(도두 네오하임)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "제주시",
+      "project_start_row": 5,
+      "positive_unsold_rows": [
+        5,
+        6
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "도두 네오하임 주상복합 아파트 2차",
+    "address": "제주특별자치도 제주시 도두일동 2619-2",
+    "source_address_raw": "도두일동 2619-2\n(도두 네오하임 주상복합 아파트 2차)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "제주시",
+      "project_start_row": 7,
+      "positive_unsold_rows": [
+        7,
+        9
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "제주 휴림 힐 타운",
+    "address": "제주특별자치도 제주시 오라이동 1390-1",
+    "source_address_raw": "오라이동 1390-1\n(제주 휴림 힐 타운)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "제주시",
+      "project_start_row": 10,
+      "positive_unsold_rows": [
+        10,
+        14
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "제주에듀루치올라",
+    "address": "제주특별자치도 제주시 한경면 청수리 2680-2번지 외 7",
+    "source_address_raw": "한경면 청수리 2680-2번지 외 7\n(제주에듀루치올라)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "제주시",
+      "project_start_row": 15,
+      "positive_unsold_rows": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "이안 더 프리미스 노형",
+    "address": "제주특별자치도 제주시 노형동 2700",
+    "source_address_raw": "노형동 2700\n(이안 더 프리미스 노형)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "제주시",
+      "project_start_row": 20,
+      "positive_unsold_rows": [
+        22,
+        23
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "더샵 연동포레",
+    "address": "제주특별자치도 제주시 연동 1342",
+    "source_address_raw": "연동 1342               \n (더샵 연동포레)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "제주시",
+      "project_start_row": 24,
+      "positive_unsold_rows": [
+        31,
+        32,
+        33
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "더샵 노형포레",
+    "address": "제주특별자치도 제주시 노형동 460",
+    "source_address_raw": "노형동 460                  \n (더샵 노형포레)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "제주시",
+      "project_start_row": 34,
+      "positive_unsold_rows": [
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "휴안 더프레스티지 노형",
+    "address": "제주특별자치도 제주시 노형동 456-2",
+    "source_address_raw": "노형동 456-2               \n   (휴안 더프레스티지 노형)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "제주시",
+      "project_start_row": 39,
+      "positive_unsold_rows": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "트라움제주",
+    "address": "제주특별자치도 제주시 화북이동 5333",
+    "source_address_raw": "화북이동 5333               \n(트라움제주)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "제주시",
+      "project_start_row": 80,
+      "positive_unsold_rows": [
+        80,
+        81,
+        82
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "광진블리스힐",
+    "address": "제주특별자치도 서귀포시 서호동 395-6",
+    "source_address_raw": "서호동 395-6\n(광진블리스힐)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 5,
+      "positive_unsold_rows": [
+        5,
+        6
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "블루팰리스",
+    "address": "제주특별자치도 서귀포시 안덕면 화순리 1131",
+    "source_address_raw": "안덕면 화순리 1131\n(블루팰리스)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 7,
+      "positive_unsold_rows": [
+        7,
+        8
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "산방산 어반아르떼",
+    "address": "제주특별자치도 서귀포시 안덕면 화순리 2015",
+    "source_address_raw": "안덕면 화순리 2015\n(산방산 어반아르떼)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 9,
+      "positive_unsold_rows": [
+        9,
+        10
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "동광 마마뜰",
+    "address": "제주특별자치도 서귀포시 안덕면 동광리 1393-17",
+    "source_address_raw": "안덕면 동광리 1393-17\n(동광 마마뜰)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 11,
+      "positive_unsold_rows": [
+        13,
+        14,
+        15
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "동호아트리움",
+    "address": "제주특별자치도 서귀포시 동홍동 138-2",
+    "source_address_raw": "동홍동 138-2\n(동호아트리움)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 16,
+      "positive_unsold_rows": [
+        16,
+        20
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "에듀골드힐 더클래식",
+    "address": "제주특별자치도 서귀포시 대정읍 보성리 1782-1",
+    "source_address_raw": "대정읍 보성리 1782-1\n(에듀골드힐 더클래식)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 21,
+      "positive_unsold_rows": [
+        22,
+        23
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "신화오션빌",
+    "address": "제주특별자치도 서귀포시 안덕면 동광리 1600",
+    "source_address_raw": "안덕면 동광리 1600\n(신화오션빌)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 24,
+      "positive_unsold_rows": [
+        24,
+        25
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "스마트리치",
+    "address": "제주특별자치도 서귀포시 서홍동 2596",
+    "source_address_raw": "서홍동 2596\n(스마트리치)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 26,
+      "positive_unsold_rows": [
+        26,
+        27
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "성보프리미엄파크",
+    "address": "제주특별자치도 서귀포시 서홍동 2595",
+    "source_address_raw": "서홍동 2595\n(성보프리미엄파크)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 28,
+      "positive_unsold_rows": [
+        29,
+        32
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "서강파인힐 6차",
+    "address": "제주특별자치도 서귀포시 서홍동 1606",
+    "source_address_raw": "서홍동 1606\n(서강파인힐 6차)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 33,
+      "positive_unsold_rows": [
+        34,
+        35
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "서광에듀파크",
+    "address": "제주특별자치도 서귀포시 안덕면 서광리 2519",
+    "source_address_raw": "안덕면 서광리 2519\n(서광에듀파크)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 36,
+      "positive_unsold_rows": [
+        36,
+        37
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "법환동 디자인뷰",
+    "address": "제주특별자치도 서귀포시 법환동 212",
+    "source_address_raw": "법환동 212\n(법환동 디자인뷰)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 38,
+      "positive_unsold_rows": [
+        38,
+        39
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "제이원클래시움",
+    "address": "제주특별자치도 서귀포시 동홍동 2197",
+    "source_address_raw": "동홍동 2197\n(제이원클래시움)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 40,
+      "positive_unsold_rows": [
+        40,
+        41
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "서홍동 헤리티지",
+    "address": "제주특별자치도 서귀포시 서홍동 2597",
+    "source_address_raw": "서홍동 2597\n(서홍동 헤리티지)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 42,
+      "positive_unsold_rows": [
+        42,
+        43
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "사계리 오션캐슬",
+    "address": "제주특별자치도 서귀포시 안덕면 사계리 3596",
+    "source_address_raw": "안덕면 사계리 3596\n(사계리 오션캐슬)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 44,
+      "positive_unsold_rows": [
+        44,
+        45,
+        46
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "모슬포 라움",
+    "address": "제주특별자치도 서귀포시 대정읍 동일리 3172",
+    "source_address_raw": "대정읍 동일리 3172\n(모슬포 라움)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 47,
+      "positive_unsold_rows": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "빌라드아르떼",
+    "address": "제주특별자치도 서귀포시 토평동 659-3",
+    "source_address_raw": "토평동 659-3\n(빌라드아르떼)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 54,
+      "positive_unsold_rows": [
+        54,
+        55,
+        56,
+        57,
+        58
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "레브카운티",
+    "address": "제주특별자치도 서귀포시 강정동 2470",
+    "source_address_raw": "강정동 2470\n(레브카운티)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 59,
+      "positive_unsold_rows": [
+        59,
+        60
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "서귀포 휴안1차 아파트",
+    "address": "제주특별자치도 서귀포시 하효동 582",
+    "source_address_raw": "하효동 582\n(서귀포 휴안1차 아파트)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 61,
+      "positive_unsold_rows": [
+        61,
+        62
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "휴온 아델리브 더 테라스",
+    "address": "제주특별자치도 서귀포시 대정읍 구억리 865",
+    "source_address_raw": "대정읍 구억리 865\n(휴온 아델리브 더 테라스)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 63,
+      "positive_unsold_rows": [
+        64,
+        65
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "제주 푸르지오 더 퍼스트",
+    "address": "제주특별자치도 서귀포시 대정읍 구억리 34",
+    "source_address_raw": "대정읍 구억리 34\n(제주 푸르지오 더 퍼스트)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 66,
+      "positive_unsold_rows": [
+        66,
+        67,
+        71
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "제주 다이아빌라스",
+    "address": "제주특별자치도 서귀포시 안덕면 서광리 2343",
+    "source_address_raw": "안덕면 서광리 2343\n(제주 다이아빌라스)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 72,
+      "positive_unsold_rows": [
+        72,
+        73,
+        74
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "한화포레나제주에듀시티",
+    "address": "제주특별자치도 서귀포시 대정읍 보성리 780",
+    "source_address_raw": "대정읍 보성리 780\n(한화포레나제주에듀시티)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 75,
+      "positive_unsold_rows": [
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "형남6차아파트",
+    "address": "제주특별자치도 서귀포시 서홍동 384-5",
+    "source_address_raw": "서홍동 384-5\n(형남6차아파트)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 83,
+      "positive_unsold_rows": [
+        83,
+        85
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  },
+  {
+    "region": "제주",
+    "name": "루첸시아표선 IBEDU",
+    "address": "제주특별자치도 서귀포시 표선리 2957",
+    "source_address_raw": "표선리 2957\n(루첸시아표선 IBEDU)",
+    "as_of": "2026-07-31",
+    "published_at": "2026-09-02",
+    "source_url": "https://www.jeju.go.kr/news/news/data.htm?act=view&seq=2032614",
+    "file_url": "https://www.jeju.go.kr/news/news/data.htm?act=download&seq=2032614&no=1",
+    "local_file": "/Users/haejoon/Documents/ChatGPT/리드요 맵/research/coverage/unsold-national/south/jeju-2026-07.xlsx",
+    "provenance": {
+      "sheet": "서귀포시",
+      "project_start_row": 86,
+      "positive_unsold_rows": [
+        86,
+        87,
+        88,
+        89,
+        90
+      ],
+      "unsold_column": "K"
+    },
+    "unsold_positive": true,
+    "name_missing": false,
+    "confirmation": "공식 공개 원본의 당월 미분양 열에 양수 확인; 비공개 요청 사업장 제외"
+  }
+]

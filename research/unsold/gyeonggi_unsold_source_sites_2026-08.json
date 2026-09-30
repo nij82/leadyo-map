@@ -1,0 +1,1709 @@
+[
+  {
+    "row": 7,
+    "city": "수원시",
+    "address": "경기도 수원시 장안구 이목동 511-1번지 일원",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 10,
+    "city": "수원시",
+    "address": "오목천동 315-2 외2",
+    "sale_type": "분양",
+    "positive_rows": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "row": 17,
+    "city": "수원시",
+    "address": "평동 135-1 일원",
+    "sale_type": "분양",
+    "positive_rows": [
+      17,
+      18
+    ]
+  },
+  {
+    "row": 21,
+    "city": "고양시",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 27,
+    "city": "고양시",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 31,
+    "city": "고양시",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 35,
+    "city": "고양시",
+    "address": "경기도 고양시 덕양구 \n오부자로15",
+    "sale_type": "분양",
+    "positive_rows": [
+      37,
+      38
+    ]
+  },
+  {
+    "row": 40,
+    "city": "고양시",
+    "address": "경기도 고양시 덕양구 오금로 33",
+    "sale_type": "분양",
+    "positive_rows": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "row": 44,
+    "city": "고양시",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 48,
+    "city": "고양시",
+    "address": "고양시 일산동구 풍동\n655-18번지 일원\n(요진 Y-HAUS)",
+    "sale_type": "분양",
+    "positive_rows": [
+      49
+    ]
+  },
+  {
+    "row": 54,
+    "city": "성남시",
+    "address": "경기도 성남시 중원구 하대원동 147-5",
+    "sale_type": "분양",
+    "positive_rows": [
+      54,
+      58,
+      59,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ]
+  },
+  {
+    "row": 70,
+    "city": "성남시",
+    "address": "경기도 성남시 중원구 금광동 4863\n중앙하이츠금광프리미엄아파트",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 76,
+    "city": "성남시",
+    "address": "경기도 성남시 분당구 판교대장지구\nB2, B3BL",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 98,
+    "city": "부천시",
+    "address": "원미동 119-2\n(부천원미동문디이스트)\n(주거정비과)",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 107,
+    "city": "부천시",
+    "address": "316 외 1필지 주상복합\n(원종역 아이원시티)\n(건축허가과)",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 116,
+    "city": "부천시",
+    "address": "70-7 외 6필지\n(현대 프라힐스 소사역 더프라임)\n(건축허가과)",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 123,
+    "city": "부천시",
+    "address": "70-12 일원\n(소사역 한라비발디 프레스티지 민영주택)\n(건축허가과)",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 127,
+    "city": "부천시",
+    "address": "심곡동 803\n(부천중앙하이츠 심곡)\n(원도심재생과)",
+    "sale_type": "분양",
+    "positive_rows": [
+      130
+    ]
+  },
+  {
+    "row": 132,
+    "city": "부천시",
+    "address": "고강동 307\n(고강역 신원아침도시 퍼스티지)\n(원도심재생과)",
+    "sale_type": "분양",
+    "positive_rows": [
+      134
+    ]
+  },
+  {
+    "row": 136,
+    "city": "부천시",
+    "address": "476번지\n(더원 루미에르)\n(주거정비과)",
+    "sale_type": "분양",
+    "positive_rows": [
+      136
+    ]
+  },
+  {
+    "row": 141,
+    "city": "부천시",
+    "address": "원미동 150-1\n(부천역 에피트 어바닉)\n(원도심재생과)",
+    "sale_type": "분양",
+    "positive_rows": [
+      141,
+      142,
+      143,
+      144,
+      145
+    ]
+  },
+  {
+    "row": 147,
+    "city": "부천시",
+    "address": "괴안동 201\n(쌍용 더 플래티넘 온수역)\n(주거정비과)",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 151,
+    "city": "부천시",
+    "address": "괴안동 106-1\n(엘리프 역곡)\n(원도심재생과)",
+    "sale_type": "분양",
+    "positive_rows": [
+      151,
+      152,
+      153,
+      154
+    ]
+  },
+  {
+    "row": 156,
+    "city": "부천시",
+    "address": "소사동 48-21\n(e편한세상 부천 어반스퀘어)\n(주거정비과)",
+    "sale_type": "분양",
+    "positive_rows": [
+      156,
+      157,
+      158,
+      159,
+      160
+    ]
+  },
+  {
+    "row": 164,
+    "city": "용인시",
+    "address": "경기도 용인시 처인구 이동읍 덕성리 \n1267-8번지 외 1필지",
+    "sale_type": "분양",
+    "positive_rows": [
+      164,
+      165,
+      166
+    ]
+  },
+  {
+    "row": 168,
+    "city": "용인시",
+    "address": "경기도 용인시 기흥구 서천동 \n335-2번지 일원",
+    "sale_type": "분양",
+    "positive_rows": [
+      169
+    ]
+  },
+  {
+    "row": 174,
+    "city": "용인시",
+    "address": "경기도 용인시 기흥구 언남동 384-2번지 외 1필지",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 179,
+    "city": "용인시",
+    "address": "(단지 요청에 의한 미공개)",
+    "sale_type": "분양",
+    "positive_rows": [
+      183,
+      184,
+      185
+    ]
+  },
+  {
+    "row": 187,
+    "city": "용인시",
+    "address": "경기도 용인시 처인구 양지리 713번지 일원",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 191,
+    "city": "용인시",
+    "address": "경기도 용인시 기흥구 \n마북동 355-3번지 일원",
+    "sale_type": "분양",
+    "positive_rows": [
+      195
+    ]
+  },
+  {
+    "row": 202,
+    "city": "용인시",
+    "address": "경기도 용인시 기흥구 마북동 212-1번지 일원",
+    "sale_type": "분양",
+    "positive_rows": [
+      217,
+      219,
+      220,
+      221,
+      222,
+      223
+    ]
+  },
+  {
+    "row": 225,
+    "city": "용인시",
+    "address": "경기도 용인시 처인구 포곡읍 전대리 192-2번지 일원",
+    "sale_type": "분양",
+    "positive_rows": [
+      227,
+      228,
+      229,
+      230
+    ]
+  },
+  {
+    "row": 232,
+    "city": "용인시",
+    "address": "경기도 용인시 기흥구\n산42-4(공세지구 D3블럭)",
+    "sale_type": "분양",
+    "positive_rows": [
+      232,
+      233,
+      234,
+      235,
+      238
+    ]
+  },
+  {
+    "row": 240,
+    "city": "용인시",
+    "address": "경기도 용인시 처인구 역북동\n89-25번지 일원[역북 2지구]",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 248,
+    "city": "용인시",
+    "address": "처인구 고림동 646-2번지 일원",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 253,
+    "city": "용인시",
+    "address": "처인구 고림동 620번지 일원",
+    "sale_type": "분양",
+    "positive_rows": [
+      253,
+      254,
+      255,
+      256
+    ]
+  },
+  {
+    "row": 259,
+    "city": "용인시",
+    "address": "처인구 양지읍 양지리 산105-8번지",
+    "sale_type": "분양",
+    "positive_rows": [
+      259,
+      260,
+      261,
+      262,
+      263,
+      264,
+      265,
+      266
+    ]
+  },
+  {
+    "row": 268,
+    "city": "용인시",
+    "address": "처인구 역북동 89-25번지 일원",
+    "sale_type": "분양",
+    "positive_rows": [
+      268,
+      269,
+      271
+    ]
+  },
+  {
+    "row": 274,
+    "city": "남양주시",
+    "address": "남양주 화도읍 월산리 81일원\n[월산 사랑으로 부영아파트]",
+    "sale_type": "분양",
+    "positive_rows": [
+      274
+    ]
+  },
+  {
+    "row": 278,
+    "city": "남양주시",
+    "address": "남양주 화도읍 답내리 516-4\n[답내 사랑으로 부영아파트]",
+    "sale_type": "분양",
+    "positive_rows": [
+      278
+    ]
+  },
+  {
+    "row": 282,
+    "city": "남양주시",
+    "address": "진접2 공공주택지구 S-1BL",
+    "sale_type": "분양",
+    "positive_rows": [
+      283,
+      284,
+      285,
+      286
+    ]
+  },
+  {
+    "row": 288,
+    "city": "남양주시",
+    "address": "남양주 화도읍 마석우리 295-32일원",
+    "sale_type": "분양",
+    "positive_rows": [
+      290,
+      292
+    ]
+  },
+  {
+    "row": 294,
+    "city": "남양주시",
+    "address": "남양주 화도읍 마석우리 256-1일원",
+    "sale_type": "분양",
+    "positive_rows": [
+      294,
+      295
+    ]
+  },
+  {
+    "row": 297,
+    "city": "남양주시",
+    "address": "남양주 퇴계원읍 퇴계원리 102-8일원\n[청광플러스]",
+    "sale_type": "분양",
+    "positive_rows": [
+      297,
+      298
+    ]
+  },
+  {
+    "row": 301,
+    "city": "평택시",
+    "address": "화양지구 5BL",
+    "sale_type": "분양",
+    "positive_rows": [
+      301,
+      302,
+      303,
+      304,
+      305
+    ]
+  },
+  {
+    "row": 307,
+    "city": "평택시",
+    "address": "(단지 요청에 의한 미공개)",
+    "sale_type": "분양",
+    "positive_rows": [
+      309,
+      310,
+      311
+    ]
+  },
+  {
+    "row": 313,
+    "city": "평택시",
+    "address": "가재지구 1BL",
+    "sale_type": "분양",
+    "positive_rows": [
+      315
+    ]
+  },
+  {
+    "row": 317,
+    "city": "평택시",
+    "address": "브레인시티일반산업단지 공동5BL",
+    "sale_type": "분양",
+    "positive_rows": [
+      317,
+      319,
+      321
+    ]
+  },
+  {
+    "row": 323,
+    "city": "평택시",
+    "address": "(단지 요청에 의한 미공개)",
+    "sale_type": "-",
+    "positive_rows": [
+      324,
+      325,
+      326
+    ]
+  },
+  {
+    "row": 328,
+    "city": "평택시",
+    "address": "화양지구 3BL",
+    "sale_type": "분양",
+    "positive_rows": [
+      328,
+      329,
+      330
+    ]
+  },
+  {
+    "row": 332,
+    "city": "평택시",
+    "address": "화양지구 9-1BL",
+    "sale_type": "분양",
+    "positive_rows": [
+      332,
+      333,
+      334,
+      335
+    ]
+  },
+  {
+    "row": 337,
+    "city": "평택시",
+    "address": "(단지요청에 의한 비공개)",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 340,
+    "city": "평택시",
+    "address": "(단지요청에 의한 비공개)",
+    "sale_type": "분양",
+    "positive_rows": [
+      344,
+      345
+    ]
+  },
+  {
+    "row": 347,
+    "city": "평택시",
+    "address": "(단지요청에 의한 비공개)",
+    "sale_type": "분양",
+    "positive_rows": [
+      349
+    ]
+  },
+  {
+    "row": 351,
+    "city": "평택시",
+    "address": "(단지요청에 의한 비공개)",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 354,
+    "city": "평택시",
+    "address": "(단지요청에 의한 미공개)",
+    "sale_type": "분양",
+    "positive_rows": [
+      357,
+      359
+    ]
+  },
+  {
+    "row": 365,
+    "city": "평택시",
+    "address": "(단지요청에 의한 미공개)",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 369,
+    "city": "평택시",
+    "address": "(단지요청에 의한 비공개)",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 376,
+    "city": "평택시",
+    "address": "(단지요청에 의한 비공개)",
+    "sale_type": "분양",
+    "positive_rows": [
+      378,
+      379,
+      380
+    ]
+  },
+  {
+    "row": 388,
+    "city": "평택시",
+    "address": "(단지요청에 의한 비공개)",
+    "sale_type": "분양",
+    "positive_rows": [
+      388,
+      389,
+      390
+    ]
+  },
+  {
+    "row": 392,
+    "city": "평택시",
+    "address": "(단지요청에 의한 비공개)",
+    "sale_type": "분양",
+    "positive_rows": [
+      392,
+      393,
+      394,
+      395
+    ]
+  },
+  {
+    "row": 397,
+    "city": "평택시",
+    "address": "(단지요청에 의한 비공개)",
+    "sale_type": "분양",
+    "positive_rows": [
+      397,
+      398,
+      399,
+      400
+    ]
+  },
+  {
+    "row": 402,
+    "city": "평택시",
+    "address": "(단지요청에 의한 비공개)",
+    "sale_type": "분양",
+    "positive_rows": [
+      402,
+      403,
+      404,
+      405
+    ]
+  },
+  {
+    "row": 408,
+    "city": "의정부시",
+    "address": "436-4번지 외 2필지\n(스카이파크)",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 416,
+    "city": "의정부시",
+    "address": "고산 공공주택지구 C2블럭\n(산곡동 1-2)(대광로제비앙)",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 419,
+    "city": "의정부시",
+    "address": "98-4 외 1필지(공간라움)",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 423,
+    "city": "의정부시",
+    "address": "131-23번지\n(나이키빌)",
+    "sale_type": "분양",
+    "positive_rows": [
+      423,
+      424,
+      425,
+      426,
+      427,
+      428,
+      429
+    ]
+  },
+  {
+    "row": 431,
+    "city": "의정부시",
+    "address": "146-5\n(이안 더 센트로)",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 434,
+    "city": "의정부시",
+    "address": "491-5\n(의정부역 월드메르디앙 스마트시티)",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 438,
+    "city": "의정부시",
+    "address": "127-4(의정부역 신동아파밀리에1)",
+    "sale_type": "분양",
+    "positive_rows": [
+      438,
+      439
+    ]
+  },
+  {
+    "row": 441,
+    "city": "의정부시",
+    "address": "산32외 51필지\n(힐스테이트 탑석)",
+    "sale_type": "분양",
+    "positive_rows": [
+      444,
+      445,
+      446,
+      447
+    ]
+  },
+  {
+    "row": 449,
+    "city": "의정부시",
+    "address": "29-4\n(명남더블레스)",
+    "sale_type": "분양",
+    "positive_rows": [
+      449,
+      450,
+      451,
+      452,
+      453
+    ]
+  },
+  {
+    "row": 455,
+    "city": "의정부시",
+    "address": "94-8\n(의정부역 다채로움)",
+    "sale_type": "분양",
+    "positive_rows": [
+      455,
+      456
+    ]
+  },
+  {
+    "row": 458,
+    "city": "의정부시",
+    "address": "100-1\n(해링턴플레이스 의정부역)",
+    "sale_type": "분양",
+    "positive_rows": [
+      458,
+      459,
+      460,
+      461,
+      462,
+      463,
+      464
+    ]
+  },
+  {
+    "row": 466,
+    "city": "의정부시",
+    "address": "369-1외 34필지\n(의정부 푸르지오 클라시엘)",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 473,
+    "city": "의정부시",
+    "address": "경기도 의정부시 금오동 산26-19\n(의정부 롯데캐슬 나리벡시티)",
+    "sale_type": "분양",
+    "positive_rows": [
+      476,
+      477,
+      478
+    ]
+  },
+  {
+    "row": 483,
+    "city": "의정부시",
+    "address": "281-21번지 일원\n(힐스테이트 회룡역 파크뷰)",
+    "sale_type": "분양",
+    "positive_rows": [
+      486,
+      487,
+      488
+    ]
+  },
+  {
+    "row": 490,
+    "city": "의정부시",
+    "address": "267-8번지 일원 \n(탑석 푸르지오 파크7)",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 500,
+    "city": "의정부시",
+    "address": "의정부동 253-19번지 일원\n(의정부역센트럴아이파크)",
+    "sale_type": "분양",
+    "positive_rows": [
+      501,
+      502
+    ]
+  },
+  {
+    "row": 505,
+    "city": "화성시",
+    "address": "동탄(2)택지개발지구 C16BL",
+    "sale_type": "분양",
+    "positive_rows": [
+      509,
+      510
+    ]
+  },
+  {
+    "row": 512,
+    "city": "화성시",
+    "address": "경기도 화성시 송산그린시티 EAA10블럭",
+    "sale_type": "분양",
+    "positive_rows": [
+      512,
+      515
+    ]
+  },
+  {
+    "row": 517,
+    "city": "화성시",
+    "address": "경기도 화성시 봉담읍 상리 26-11\n(코아루 카보드 줌 시티)",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 524,
+    "city": "화성시",
+    "address": "조암리 453-2번지 일원",
+    "sale_type": "분양",
+    "positive_rows": [
+      524,
+      525,
+      526,
+      527
+    ]
+  },
+  {
+    "row": 530,
+    "city": "파주시",
+    "address": "문산읍 당동리 947일원",
+    "sale_type": "분양",
+    "positive_rows": [
+      534
+    ]
+  },
+  {
+    "row": 539,
+    "city": "광주시",
+    "address": "쌍동리 252-7번지\n(쌍동1지구 7BL)",
+    "sale_type": "분양",
+    "positive_rows": [
+      539,
+      540,
+      541,
+      542
+    ]
+  },
+  {
+    "row": 545,
+    "city": "광주시",
+    "address": "-",
+    "sale_type": "분양",
+    "positive_rows": [
+      545,
+      546,
+      547,
+      548
+    ]
+  },
+  {
+    "row": 550,
+    "city": "광주시",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": [
+      558
+    ]
+  },
+  {
+    "row": 561,
+    "city": "광주시",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": [
+      561,
+      562,
+      563
+    ]
+  },
+  {
+    "row": 566,
+    "city": "광주시",
+    "address": "경기도 광주시 포돌이로 118",
+    "sale_type": "분양",
+    "positive_rows": [
+      567,
+      568
+    ]
+  },
+  {
+    "row": 570,
+    "city": "광주시",
+    "address": "경기도 광주시 포돌이로 117",
+    "sale_type": "분양",
+    "positive_rows": [
+      573,
+      574
+    ]
+  },
+  {
+    "row": 576,
+    "city": "광주시",
+    "address": "산54-3번지 일원",
+    "sale_type": "분양",
+    "positive_rows": [
+      585,
+      586,
+      587,
+      589,
+      590,
+      591
+    ]
+  },
+  {
+    "row": 594,
+    "city": "이천시",
+    "address": "(단지요청에 의한 비공개)",
+    "sale_type": "분양",
+    "positive_rows": [
+      596
+    ]
+  },
+  {
+    "row": 598,
+    "city": "이천시",
+    "address": "(단지요청에 의한 비공개)",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 602,
+    "city": "이천시",
+    "address": "(단지요청에 의한 비공개)",
+    "sale_type": "분양",
+    "positive_rows": [
+      602,
+      603,
+      604,
+      605
+    ]
+  },
+  {
+    "row": 607,
+    "city": "이천시",
+    "address": "(단지요청에 의한 비공개)",
+    "sale_type": "분양",
+    "positive_rows": [
+      607,
+      608,
+      609,
+      610,
+      611
+    ]
+  },
+  {
+    "row": 613,
+    "city": "이천시",
+    "address": "(단지요청에 의한 비공개)",
+    "sale_type": "분양",
+    "positive_rows": [
+      613,
+      614,
+      615,
+      616,
+      617
+    ]
+  },
+  {
+    "row": 619,
+    "city": "이천시",
+    "address": "(단지요청에 의한 비공개)",
+    "sale_type": "분양",
+    "positive_rows": [
+      620
+    ]
+  },
+  {
+    "row": 624,
+    "city": "이천시",
+    "address": "(단지요청에 의한 비공개)",
+    "sale_type": "분양",
+    "positive_rows": [
+      624,
+      625,
+      626,
+      627
+    ]
+  },
+  {
+    "row": 629,
+    "city": "이천시",
+    "address": "(단지요청에 의한 비공개)",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 635,
+    "city": "이천시",
+    "address": "(단지요청에 의한 비공개)",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 643,
+    "city": "이천시",
+    "address": "(단지요청에 의한 비공개)",
+    "sale_type": "분양",
+    "positive_rows": [
+      643,
+      644
+    ]
+  },
+  {
+    "row": 647,
+    "city": "양주시",
+    "address": "옥정지구D-1BL",
+    "sale_type": "분양",
+    "positive_rows": [
+      647,
+      649,
+      650,
+      651,
+      656
+    ]
+  },
+  {
+    "row": 658,
+    "city": "양주시",
+    "address": "옥정지구D-2BL",
+    "sale_type": "분양",
+    "positive_rows": [
+      658,
+      659,
+      660,
+      661,
+      662,
+      663,
+      667
+    ]
+  },
+  {
+    "row": 669,
+    "city": "양주시",
+    "address": "옥정지구D-3BL",
+    "sale_type": "분양",
+    "positive_rows": [
+      669,
+      673
+    ]
+  },
+  {
+    "row": 676,
+    "city": "양주시",
+    "address": "옥정지구B-5BL",
+    "sale_type": "분양",
+    "positive_rows": [
+      676,
+      677,
+      679,
+      680,
+      681,
+      684,
+      685,
+      686,
+      687
+    ]
+  },
+  {
+    "row": 691,
+    "city": "양주시",
+    "address": "옥정지구B-6BL",
+    "sale_type": "분양",
+    "positive_rows": [
+      691,
+      692,
+      694,
+      695,
+      696
+    ]
+  },
+  {
+    "row": 705,
+    "city": "양주시",
+    "address": "옥정지구B-7BL",
+    "sale_type": "분양",
+    "positive_rows": [
+      705,
+      706,
+      708,
+      709,
+      710,
+      711,
+      712
+    ]
+  },
+  {
+    "row": 717,
+    "city": "양주시",
+    "address": "옥정지구B-8BL",
+    "sale_type": "분양",
+    "positive_rows": [
+      724
+    ]
+  },
+  {
+    "row": 727,
+    "city": "양주시",
+    "address": "용암리 784-8 일원",
+    "sale_type": "분양",
+    "positive_rows": [
+      727,
+      728,
+      729,
+      730,
+      731
+    ]
+  },
+  {
+    "row": 733,
+    "city": "양주시",
+    "address": "옥정지구B-10BL",
+    "sale_type": "분양",
+    "positive_rows": [
+      744
+    ]
+  },
+  {
+    "row": 749,
+    "city": "양주시",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": [
+      749,
+      751
+    ]
+  },
+  {
+    "row": 753,
+    "city": "양주시",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": [
+      754,
+      755
+    ]
+  },
+  {
+    "row": 757,
+    "city": "양주시",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 762,
+    "city": "양주시",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": [
+      762,
+      763,
+      765,
+      766,
+      767
+    ]
+  },
+  {
+    "row": 769,
+    "city": "양주시",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 776,
+    "city": "양주시",
+    "address": "옥정지구 중상1 · 복합1 BL\n(옥정동 962-8,-9)",
+    "sale_type": "분양",
+    "positive_rows": [
+      778,
+      779
+    ]
+  },
+  {
+    "row": 781,
+    "city": "양주시",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": [
+      781,
+      782
+    ]
+  },
+  {
+    "row": 785,
+    "city": "하남시",
+    "address": "미사지구 C1",
+    "sale_type": "분양",
+    "positive_rows": [
+      786,
+      788
+    ]
+  },
+  {
+    "row": 791,
+    "city": "안성시",
+    "address": "양기리 302-2번지",
+    "sale_type": "분양",
+    "positive_rows": [
+      793
+    ]
+  },
+  {
+    "row": 795,
+    "city": "안성시",
+    "address": "죽산리 790번지 일원",
+    "sale_type": "분양",
+    "positive_rows": [
+      795,
+      796,
+      797,
+      798
+    ]
+  },
+  {
+    "row": 800,
+    "city": "안성시",
+    "address": "진사리 29-13번지 일원",
+    "sale_type": "분양",
+    "positive_rows": [
+      800,
+      801,
+      802,
+      803
+    ]
+  },
+  {
+    "row": 805,
+    "city": "안성시",
+    "address": "진사리 33번지 일원",
+    "sale_type": "분양",
+    "positive_rows": [
+      805,
+      806,
+      807,
+      808
+    ]
+  },
+  {
+    "row": 810,
+    "city": "안성시",
+    "address": "659번지",
+    "sale_type": "분양",
+    "positive_rows": [
+      810
+    ]
+  },
+  {
+    "row": 812,
+    "city": "안성시",
+    "address": "84번지 일원",
+    "sale_type": "분양",
+    "positive_rows": [
+      812,
+      813
+    ]
+  },
+  {
+    "row": 815,
+    "city": "안성시",
+    "address": "556번지",
+    "sale_type": "분양",
+    "positive_rows": [
+      815
+    ]
+  },
+  {
+    "row": 819,
+    "city": "김포시",
+    "address": "경기도 김포시 장기동 1894-9\n(김포한강신도시 Bc-04BL)",
+    "sale_type": "분양",
+    "positive_rows": [
+      819,
+      820,
+      821,
+      823,
+      829
+    ]
+  },
+  {
+    "row": 831,
+    "city": "김포시",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 837,
+    "city": "김포시",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 845,
+    "city": "김포시",
+    "address": "경기도 김포시 고촌읍 신곡리 \n1072-2번지\n(김포신곡6지구 A3BL)",
+    "sale_type": "분양",
+    "positive_rows": [
+      846,
+      847,
+      848,
+      849,
+      850
+    ]
+  },
+  {
+    "row": 852,
+    "city": "김포시",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": [
+      855,
+      856,
+      857
+    ]
+  },
+  {
+    "row": 859,
+    "city": "김포시",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": [
+      862,
+      863,
+      864
+    ]
+  },
+  {
+    "row": 866,
+    "city": "김포시",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": [
+      870
+    ]
+  },
+  {
+    "row": 873,
+    "city": "김포시",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": [
+      873,
+      874,
+      875,
+      876,
+      877,
+      878,
+      879,
+      880
+    ]
+  },
+  {
+    "row": 882,
+    "city": "김포시",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 889,
+    "city": "양평군",
+    "address": "양서면 용담리 704\n(에델바움)",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 897,
+    "city": "양평군",
+    "address": "양평읍 덕평리 661-7\n(하늘채 센트로힐스)",
+    "sale_type": "분양",
+    "positive_rows": [
+      897,
+      898,
+      899,
+      900
+    ]
+  },
+  {
+    "row": 902,
+    "city": "양평군",
+    "address": "양평읍 오빈리 140-1\n(효성해링턴 플레이스 양평)",
+    "sale_type": "분양",
+    "positive_rows": [
+      902,
+      903,
+      904,
+      905,
+      906,
+      907,
+      909
+    ]
+  },
+  {
+    "row": 911,
+    "city": "양평군",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": [
+      912,
+      914,
+      915,
+      916
+    ]
+  },
+  {
+    "row": 919,
+    "city": "여주시",
+    "address": "-단지요청에 의한 미공개",
+    "sale_type": "분양",
+    "positive_rows": [
+      924,
+      925
+    ]
+  },
+  {
+    "row": 927,
+    "city": "여주시",
+    "address": "-단지요청에 의한 미공개",
+    "sale_type": "분양",
+    "positive_rows": [
+      927,
+      928,
+      929,
+      930,
+      931
+    ]
+  },
+  {
+    "row": 935,
+    "city": "동두천시",
+    "address": "경기도 동두천시 생연동 284",
+    "sale_type": "분양",
+    "positive_rows": [
+      935,
+      937,
+      938,
+      939,
+      940,
+      941
+    ]
+  },
+  {
+    "row": 945,
+    "city": "연천군",
+    "address": "전곡리 85-12",
+    "sale_type": "분양",
+    "positive_rows": [
+      946,
+      947
+    ]
+  },
+  {
+    "row": 955,
+    "city": "안양시",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 961,
+    "city": "안양시",
+    "address": "335-1번지",
+    "sale_type": "분양",
+    "positive_rows": [
+      961,
+      962,
+      963,
+      964,
+      965,
+      966,
+      967,
+      968,
+      969
+    ]
+  },
+  {
+    "row": 971,
+    "city": "안양시",
+    "address": "354-10번지",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 981,
+    "city": "안양시",
+    "address": "경기도 안양시 만안구 안양동 398-32번지 일원",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 993,
+    "city": "안양시",
+    "address": "경기도 안양시 만안구\n안양동 841-5 일원\n안양역 센트럴 아이파크 수자인",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 1001,
+    "city": "포천시",
+    "address": "용정리 475-1",
+    "sale_type": "분양",
+    "positive_rows": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "row": 1008,
+    "city": "오산시",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": [
+      1017
+    ]
+  },
+  {
+    "row": 1020,
+    "city": "오산시",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 1032,
+    "city": "오산시",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": [
+      1032
+    ]
+  },
+  {
+    "row": 1036,
+    "city": "오산시",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": [
+      1038,
+      1040,
+      1041,
+      1042,
+      1043,
+      1044,
+      1045,
+      1046
+    ]
+  },
+  {
+    "row": 1049,
+    "city": "오산시",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": [
+      1049,
+      1050,
+      1051,
+      1052,
+      1053,
+      1054,
+      1055
+    ]
+  },
+  {
+    "row": 1058,
+    "city": "오산시",
+    "address": "(단지 요청에 의한 미공개)",
+    "sale_type": "분양",
+    "positive_rows": [
+      1058,
+      1059,
+      1060,
+      1061,
+      1062,
+      1063,
+      1064
+    ]
+  },
+  {
+    "row": 1067,
+    "city": "가평군",
+    "address": "청평리 산 81-18번지 일원",
+    "sale_type": "분양",
+    "positive_rows": [
+      1068,
+      1069
+    ]
+  },
+  {
+    "row": 1071,
+    "city": "가평군",
+    "address": "달전리 284-7번지 일원",
+    "sale_type": "분양",
+    "positive_rows": [
+      1071,
+      1072,
+      1073,
+      1074,
+      1075,
+      1077,
+      1078,
+      1080,
+      1081
+    ]
+  },
+  {
+    "row": 1096,
+    "city": "광명시",
+    "address": "단지요청에 의한 비공개",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 1101,
+    "city": "광명시",
+    "address": "883-18번지 일원",
+    "sale_type": "분양",
+    "positive_rows": [
+      1103,
+      1104
+    ]
+  },
+  {
+    "row": 1109,
+    "city": "광명시",
+    "address": "893-3",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 1120,
+    "city": "의왕시",
+    "address": "의왕월암 공공주택지구 \nB-2블록",
+    "sale_type": "분양",
+    "positive_rows": []
+  },
+  {
+    "row": 1129,
+    "city": "구리시",
+    "address": "266-2번지 일원",
+    "sale_type": "분양",
+    "positive_rows": [
+      1131
+    ]
+  },
+  {
+    "row": 1134,
+    "city": "시흥시",
+    "address": "시흥시 수인로 2365\n(논곡동 378번지\n효성 해링턴플레이스 목감역@)",
+    "sale_type": "분양",
+    "positive_rows": [
+      1134,
+      1135
+    ]
+  },
+  {
+    "row": 1137,
+    "city": "시흥시",
+    "address": "경기도 시흥시 거모동\n1175 일원 S-2BL",
+    "sale_type": "분양",
+    "positive_rows": [
+      1137,
+      1138
+    ]
+  },
+  {
+    "row": 1140,
+    "city": "시흥시",
+    "address": "경기도 시흥시 거모동\n1196-1 일원 B-2BL",
+    "sale_type": "분양",
+    "positive_rows": [
+      1140
+    ]
+  },
+  {
+    "row": 1142,
+    "city": "시흥시",
+    "address": "경기도 시흥시 거모동\n1288 일원 B-6BL",
+    "sale_type": "분양",
+    "positive_rows": [
+      1143,
+      1144
+    ]
+  },
+  {
+    "row": 1146,
+    "city": "시흥시",
+    "address": "경기도 시흥시 거모동\n1171 일원 B-1BL",
+    "sale_type": "분양",
+    "positive_rows": [
+      1146,
+      1147
+    ]
+  },
+  {
+    "row": 1149,
+    "city": "시흥시",
+    "address": "경기도 시흥시 대야동\n140-5",
+    "sale_type": "분양",
+    "positive_rows": [
+      1149,
+      1150,
+      1151
+    ]
+  }
+]

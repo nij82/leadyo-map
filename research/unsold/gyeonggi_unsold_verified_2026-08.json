@@ -1,0 +1,425 @@
+[
+  {
+    "project_id": "7ba0c8f4-d143-4e87-8263-778be9f6a217",
+    "name": "수원역 아너스빌 타임원",
+    "address": "경기도 수원시 권선구 평동 135-1번지 일원",
+    "unsold_evidence": {
+      "status": "confirmed",
+      "as_of": "2026-08-31",
+      "region": "경기도",
+      "provider": "경기도청 주택정책과",
+      "source_url": "https://www.gg.go.kr/bbs/boardView.do?bsIdx=551&bIdx=266126616&menuId=1799",
+      "source_file_url": "https://www.gg.go.kr/uploads/BOARD/2026/09/20260930091022_Q8Q3omcKbgWlhG19fYF.xlsx",
+      "source_file_sha256": "f29e10724ecbc480b1b7e18e4620ce43984afea24c786184a5e8ff8e57b74835",
+      "source_sheet": "업체별 현황 ",
+      "source_site_row": 17,
+      "source_address": "평동 135-1 일원",
+      "source_positive_rows": [
+        17,
+        18
+      ],
+      "match_method": "unique_city_locality_parcel",
+      "collected_at": "2026-10-01"
+    }
+  },
+  {
+    "project_id": "860783d2-4be1-4310-9da0-4ce2ddbd57a9",
+    "name": "고강역 신원아침도시 퍼스티지",
+    "address": "경기도 부천시 오정구 고강동 307",
+    "unsold_evidence": {
+      "status": "confirmed",
+      "as_of": "2026-08-31",
+      "region": "경기도",
+      "provider": "경기도청 주택정책과",
+      "source_url": "https://www.gg.go.kr/bbs/boardView.do?bsIdx=551&bIdx=266126616&menuId=1799",
+      "source_file_url": "https://www.gg.go.kr/uploads/BOARD/2026/09/20260930091022_Q8Q3omcKbgWlhG19fYF.xlsx",
+      "source_file_sha256": "f29e10724ecbc480b1b7e18e4620ce43984afea24c786184a5e8ff8e57b74835",
+      "source_sheet": "업체별 현황 ",
+      "source_site_row": 132,
+      "source_address": "고강동 307\n(고강역 신원아침도시 퍼스티지)\n(원도심재생과)",
+      "source_positive_rows": [
+        134
+      ],
+      "match_method": "unique_city_locality_parcel",
+      "collected_at": "2026-10-01"
+    }
+  },
+  {
+    "project_id": "6de0490e-2659-44e4-ac62-c6bd0b8618a7",
+    "name": "부천역 에피트 어바닉",
+    "address": "경기도 부천시 원미구 원미동 150-1외 2필지",
+    "unsold_evidence": {
+      "status": "confirmed",
+      "as_of": "2026-08-31",
+      "region": "경기도",
+      "provider": "경기도청 주택정책과",
+      "source_url": "https://www.gg.go.kr/bbs/boardView.do?bsIdx=551&bIdx=266126616&menuId=1799",
+      "source_file_url": "https://www.gg.go.kr/uploads/BOARD/2026/09/20260930091022_Q8Q3omcKbgWlhG19fYF.xlsx",
+      "source_file_sha256": "f29e10724ecbc480b1b7e18e4620ce43984afea24c786184a5e8ff8e57b74835",
+      "source_sheet": "업체별 현황 ",
+      "source_site_row": 141,
+      "source_address": "원미동 150-1\n(부천역 에피트 어바닉)\n(원도심재생과)",
+      "source_positive_rows": [
+        141,
+        142,
+        143,
+        144,
+        145
+      ],
+      "match_method": "unique_city_locality_parcel",
+      "collected_at": "2026-10-01"
+    }
+  },
+  {
+    "project_id": "3acb62d0-c681-41ed-b8b6-669d43bef8e6",
+    "name": "엘리프 역곡",
+    "address": "경기도 부천시 소사구 괴안동 106-1번지 일원",
+    "unsold_evidence": {
+      "status": "confirmed",
+      "as_of": "2026-08-31",
+      "region": "경기도",
+      "provider": "경기도청 주택정책과",
+      "source_url": "https://www.gg.go.kr/bbs/boardView.do?bsIdx=551&bIdx=266126616&menuId=1799",
+      "source_file_url": "https://www.gg.go.kr/uploads/BOARD/2026/09/20260930091022_Q8Q3omcKbgWlhG19fYF.xlsx",
+      "source_file_sha256": "f29e10724ecbc480b1b7e18e4620ce43984afea24c786184a5e8ff8e57b74835",
+      "source_sheet": "업체별 현황 ",
+      "source_site_row": 151,
+      "source_address": "괴안동 106-1\n(엘리프 역곡)\n(원도심재생과)",
+      "source_positive_rows": [
+        151,
+        152,
+        153,
+        154
+      ],
+      "match_method": "unique_city_locality_parcel",
+      "collected_at": "2026-10-01"
+    }
+  },
+  {
+    "project_id": "cd49ccd0-e336-464f-949d-92d0b41acfd2",
+    "name": "e편한세상 부천 어반스퀘어",
+    "address": "경기도 부천시 원미구 소사동 48-21 일대(소사3구역 재개발정비사업)",
+    "unsold_evidence": {
+      "status": "confirmed",
+      "as_of": "2026-08-31",
+      "region": "경기도",
+      "provider": "경기도청 주택정책과",
+      "source_url": "https://www.gg.go.kr/bbs/boardView.do?bsIdx=551&bIdx=266126616&menuId=1799",
+      "source_file_url": "https://www.gg.go.kr/uploads/BOARD/2026/09/20260930091022_Q8Q3omcKbgWlhG19fYF.xlsx",
+      "source_file_sha256": "f29e10724ecbc480b1b7e18e4620ce43984afea24c786184a5e8ff8e57b74835",
+      "source_sheet": "업체별 현황 ",
+      "source_site_row": 156,
+      "source_address": "소사동 48-21\n(e편한세상 부천 어반스퀘어)\n(주거정비과)",
+      "source_positive_rows": [
+        156,
+        157,
+        158,
+        159,
+        160
+      ],
+      "match_method": "unique_city_locality_parcel",
+      "collected_at": "2026-10-01"
+    }
+  },
+  {
+    "project_id": "55130182-bcee-4042-a9e8-07025348cd0b",
+    "name": "용인 에버랜드역 칸타빌",
+    "address": "경기도 용인시 처인구 포곡읍 전대리 192-2외 5필지",
+    "unsold_evidence": {
+      "status": "confirmed",
+      "as_of": "2026-08-31",
+      "region": "경기도",
+      "provider": "경기도청 주택정책과",
+      "source_url": "https://www.gg.go.kr/bbs/boardView.do?bsIdx=551&bIdx=266126616&menuId=1799",
+      "source_file_url": "https://www.gg.go.kr/uploads/BOARD/2026/09/20260930091022_Q8Q3omcKbgWlhG19fYF.xlsx",
+      "source_file_sha256": "f29e10724ecbc480b1b7e18e4620ce43984afea24c786184a5e8ff8e57b74835",
+      "source_sheet": "업체별 현황 ",
+      "source_site_row": 225,
+      "source_address": "경기도 용인시 처인구 포곡읍 전대리 192-2번지 일원",
+      "source_positive_rows": [
+        227,
+        228,
+        229,
+        230
+      ],
+      "match_method": "unique_city_locality_parcel",
+      "collected_at": "2026-10-01"
+    }
+  },
+  {
+    "project_id": "7c9a1d13-5c62-41f9-8fa4-02f589f8cf56",
+    "name": "용인 고림 동문 디 이스트",
+    "address": "경기도 용인시 처인구 고림동 620번지 일원",
+    "unsold_evidence": {
+      "status": "confirmed",
+      "as_of": "2026-08-31",
+      "region": "경기도",
+      "provider": "경기도청 주택정책과",
+      "source_url": "https://www.gg.go.kr/bbs/boardView.do?bsIdx=551&bIdx=266126616&menuId=1799",
+      "source_file_url": "https://www.gg.go.kr/uploads/BOARD/2026/09/20260930091022_Q8Q3omcKbgWlhG19fYF.xlsx",
+      "source_file_sha256": "f29e10724ecbc480b1b7e18e4620ce43984afea24c786184a5e8ff8e57b74835",
+      "source_sheet": "업체별 현황 ",
+      "source_site_row": 253,
+      "source_address": "처인구 고림동 620번지 일원",
+      "source_positive_rows": [
+        253,
+        254,
+        255,
+        256
+      ],
+      "match_method": "unique_city_locality_parcel",
+      "collected_at": "2026-10-01"
+    }
+  },
+  {
+    "project_id": "101bb467-c48a-4be4-b256-d7686d937958",
+    "name": "용인 양지 서희스타힐스 하이뷰",
+    "address": "경기도 용인시 처인구 양지읍 양지리 산105-8번지 일원",
+    "unsold_evidence": {
+      "status": "confirmed",
+      "as_of": "2026-08-31",
+      "region": "경기도",
+      "provider": "경기도청 주택정책과",
+      "source_url": "https://www.gg.go.kr/bbs/boardView.do?bsIdx=551&bIdx=266126616&menuId=1799",
+      "source_file_url": "https://www.gg.go.kr/uploads/BOARD/2026/09/20260930091022_Q8Q3omcKbgWlhG19fYF.xlsx",
+      "source_file_sha256": "f29e10724ecbc480b1b7e18e4620ce43984afea24c786184a5e8ff8e57b74835",
+      "source_sheet": "업체별 현황 ",
+      "source_site_row": 259,
+      "source_address": "처인구 양지읍 양지리 산105-8번지",
+      "source_positive_rows": [
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266
+      ],
+      "match_method": "unique_city_locality_parcel",
+      "collected_at": "2026-10-01"
+    }
+  },
+  {
+    "project_id": "e32d7b7a-813c-4395-8f4c-87d319a362f3",
+    "name": "역북 서희스타힐스 프라임시티(조합원 취소분)",
+    "address": "경기도 용인시 처인구 역북동 89-25번지 일원",
+    "unsold_evidence": {
+      "status": "confirmed",
+      "as_of": "2026-08-31",
+      "region": "경기도",
+      "provider": "경기도청 주택정책과",
+      "source_url": "https://www.gg.go.kr/bbs/boardView.do?bsIdx=551&bIdx=266126616&menuId=1799",
+      "source_file_url": "https://www.gg.go.kr/uploads/BOARD/2026/09/20260930091022_Q8Q3omcKbgWlhG19fYF.xlsx",
+      "source_file_sha256": "f29e10724ecbc480b1b7e18e4620ce43984afea24c786184a5e8ff8e57b74835",
+      "source_sheet": "업체별 현황 ",
+      "source_site_row": 268,
+      "source_address": "처인구 역북동 89-25번지 일원",
+      "source_positive_rows": [
+        268,
+        269,
+        271
+      ],
+      "match_method": "unique_city_locality_parcel",
+      "collected_at": "2026-10-01"
+    }
+  },
+  {
+    "project_id": "bdfb4c25-bdca-4aa6-8d70-29823e20ab3d",
+    "name": "의정부 롯데캐슬 나리벡시티",
+    "address": "경기도 의정부시 금오동 산 26-19번지 일원",
+    "unsold_evidence": {
+      "status": "confirmed",
+      "as_of": "2026-08-31",
+      "region": "경기도",
+      "provider": "경기도청 주택정책과",
+      "source_url": "https://www.gg.go.kr/bbs/boardView.do?bsIdx=551&bIdx=266126616&menuId=1799",
+      "source_file_url": "https://www.gg.go.kr/uploads/BOARD/2026/09/20260930091022_Q8Q3omcKbgWlhG19fYF.xlsx",
+      "source_file_sha256": "f29e10724ecbc480b1b7e18e4620ce43984afea24c786184a5e8ff8e57b74835",
+      "source_sheet": "업체별 현황 ",
+      "source_site_row": 473,
+      "source_address": "경기도 의정부시 금오동 산26-19\n(의정부 롯데캐슬 나리벡시티)",
+      "source_positive_rows": [
+        476,
+        477,
+        478
+      ],
+      "match_method": "unique_city_locality_parcel",
+      "collected_at": "2026-10-01"
+    }
+  },
+  {
+    "project_id": "a6965c04-e04b-4d25-995a-ae274708f7a5",
+    "name": "양주 용암 영무 예다음 더퍼스트",
+    "address": "경기도 양주시 은현면 용암리 784-8번지 일원",
+    "unsold_evidence": {
+      "status": "confirmed",
+      "as_of": "2026-08-31",
+      "region": "경기도",
+      "provider": "경기도청 주택정책과",
+      "source_url": "https://www.gg.go.kr/bbs/boardView.do?bsIdx=551&bIdx=266126616&menuId=1799",
+      "source_file_url": "https://www.gg.go.kr/uploads/BOARD/2026/09/20260930091022_Q8Q3omcKbgWlhG19fYF.xlsx",
+      "source_file_sha256": "f29e10724ecbc480b1b7e18e4620ce43984afea24c786184a5e8ff8e57b74835",
+      "source_sheet": "업체별 현황 ",
+      "source_site_row": 727,
+      "source_address": "용암리 784-8 일원",
+      "source_positive_rows": [
+        727,
+        728,
+        729,
+        730,
+        731
+      ],
+      "match_method": "unique_city_locality_parcel",
+      "collected_at": "2026-10-01"
+    }
+  },
+  {
+    "project_id": "8a990295-0a90-4fff-babd-3d24d831e87f",
+    "name": "옥정중앙역 대방 디에트르(중상1, 복합1BL)",
+    "address": "경기도 양주시 옥정동 962-9, 962-8번지(옥정지구 중상1, 복합1블럭)",
+    "unsold_evidence": {
+      "status": "confirmed",
+      "as_of": "2026-08-31",
+      "region": "경기도",
+      "provider": "경기도청 주택정책과",
+      "source_url": "https://www.gg.go.kr/bbs/boardView.do?bsIdx=551&bIdx=266126616&menuId=1799",
+      "source_file_url": "https://www.gg.go.kr/uploads/BOARD/2026/09/20260930091022_Q8Q3omcKbgWlhG19fYF.xlsx",
+      "source_file_sha256": "f29e10724ecbc480b1b7e18e4620ce43984afea24c786184a5e8ff8e57b74835",
+      "source_sheet": "업체별 현황 ",
+      "source_site_row": 776,
+      "source_address": "옥정지구 중상1 · 복합1 BL\n(옥정동 962-8,-9)",
+      "source_positive_rows": [
+        778,
+        779
+      ],
+      "match_method": "unique_city_locality_parcel",
+      "collected_at": "2026-10-01"
+    }
+  },
+  {
+    "project_id": "bb415a49-560e-41a4-8fff-a1c55f03cc50",
+    "name": "효성해링턴 플레이스 양평",
+    "address": "경기도 양평군 양평읍 오빈리 140-1번지 일원",
+    "unsold_evidence": {
+      "status": "confirmed",
+      "as_of": "2026-08-31",
+      "region": "경기도",
+      "provider": "경기도청 주택정책과",
+      "source_url": "https://www.gg.go.kr/bbs/boardView.do?bsIdx=551&bIdx=266126616&menuId=1799",
+      "source_file_url": "https://www.gg.go.kr/uploads/BOARD/2026/09/20260930091022_Q8Q3omcKbgWlhG19fYF.xlsx",
+      "source_file_sha256": "f29e10724ecbc480b1b7e18e4620ce43984afea24c786184a5e8ff8e57b74835",
+      "source_sheet": "업체별 현황 ",
+      "source_site_row": 902,
+      "source_address": "양평읍 오빈리 140-1\n(효성해링턴 플레이스 양평)",
+      "source_positive_rows": [
+        902,
+        903,
+        904,
+        905,
+        906,
+        907,
+        909
+      ],
+      "match_method": "unique_city_locality_parcel",
+      "collected_at": "2026-10-01"
+    }
+  },
+  {
+    "project_id": "783ebf2b-67a8-4dcf-b0a4-68af0e4718a2",
+    "name": "브라운스톤 인터포레(4차)",
+    "address": "경기도 동두천시 생연동 284번지 일원",
+    "unsold_evidence": {
+      "status": "confirmed",
+      "as_of": "2026-08-31",
+      "region": "경기도",
+      "provider": "경기도청 주택정책과",
+      "source_url": "https://www.gg.go.kr/bbs/boardView.do?bsIdx=551&bIdx=266126616&menuId=1799",
+      "source_file_url": "https://www.gg.go.kr/uploads/BOARD/2026/09/20260930091022_Q8Q3omcKbgWlhG19fYF.xlsx",
+      "source_file_sha256": "f29e10724ecbc480b1b7e18e4620ce43984afea24c786184a5e8ff8e57b74835",
+      "source_sheet": "업체별 현황 ",
+      "source_site_row": 935,
+      "source_address": "경기도 동두천시 생연동 284",
+      "source_positive_rows": [
+        935,
+        937,
+        938,
+        939,
+        940,
+        941
+      ],
+      "match_method": "unique_city_locality_parcel",
+      "collected_at": "2026-10-01"
+    }
+  },
+  {
+    "project_id": "9c027acc-8a6d-4412-8707-b76f6a5d7ce6",
+    "name": "효성해링턴 플레이스 목감역",
+    "address": "경기도 시흥시 논곡동 378",
+    "unsold_evidence": {
+      "status": "confirmed",
+      "as_of": "2026-08-31",
+      "region": "경기도",
+      "provider": "경기도청 주택정책과",
+      "source_url": "https://www.gg.go.kr/bbs/boardView.do?bsIdx=551&bIdx=266126616&menuId=1799",
+      "source_file_url": "https://www.gg.go.kr/uploads/BOARD/2026/09/20260930091022_Q8Q3omcKbgWlhG19fYF.xlsx",
+      "source_file_sha256": "f29e10724ecbc480b1b7e18e4620ce43984afea24c786184a5e8ff8e57b74835",
+      "source_sheet": "업체별 현황 ",
+      "source_site_row": 1134,
+      "source_address": "시흥시 수인로 2365\n(논곡동 378번지\n효성 해링턴플레이스 목감역@)",
+      "source_positive_rows": [
+        1134,
+        1135
+      ],
+      "match_method": "unique_city_locality_parcel",
+      "collected_at": "2026-10-01"
+    }
+  },
+  {
+    "project_id": "ee55aa29-5ba7-4116-9862-46bf0251dcd6",
+    "name": "시흥거모B1 호반써밋",
+    "address": "경기도 시흥시 거모동 1171번지 일원 (시흥거모지구 B1블럭)",
+    "unsold_evidence": {
+      "status": "confirmed",
+      "as_of": "2026-08-31",
+      "region": "경기도",
+      "provider": "경기도청 주택정책과",
+      "source_url": "https://www.gg.go.kr/bbs/boardView.do?bsIdx=551&bIdx=266126616&menuId=1799",
+      "source_file_url": "https://www.gg.go.kr/uploads/BOARD/2026/09/20260930091022_Q8Q3omcKbgWlhG19fYF.xlsx",
+      "source_file_sha256": "f29e10724ecbc480b1b7e18e4620ce43984afea24c786184a5e8ff8e57b74835",
+      "source_sheet": "업체별 현황 ",
+      "source_site_row": 1146,
+      "source_address": "경기도 시흥시 거모동\n1171 일원 B-1BL",
+      "source_positive_rows": [
+        1146,
+        1147
+      ],
+      "match_method": "unique_city_locality_parcel",
+      "collected_at": "2026-10-01"
+    }
+  },
+  {
+    "project_id": "36768a10-0cc8-479e-9a1e-c426184261c5",
+    "name": "힐스테이트 시흥더클래스",
+    "address": "경기도 시흥시 대야동 140-5번지 일원",
+    "unsold_evidence": {
+      "status": "confirmed",
+      "as_of": "2026-08-31",
+      "region": "경기도",
+      "provider": "경기도청 주택정책과",
+      "source_url": "https://www.gg.go.kr/bbs/boardView.do?bsIdx=551&bIdx=266126616&menuId=1799",
+      "source_file_url": "https://www.gg.go.kr/uploads/BOARD/2026/09/20260930091022_Q8Q3omcKbgWlhG19fYF.xlsx",
+      "source_file_sha256": "f29e10724ecbc480b1b7e18e4620ce43984afea24c786184a5e8ff8e57b74835",
+      "source_sheet": "업체별 현황 ",
+      "source_site_row": 1149,
+      "source_address": "경기도 시흥시 대야동\n140-5",
+      "source_positive_rows": [
+        1149,
+        1150,
+        1151
+      ],
+      "match_method": "unique_city_locality_parcel",
+      "collected_at": "2026-10-01"
+    }
+  }
+]
