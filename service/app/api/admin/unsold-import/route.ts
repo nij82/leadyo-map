@@ -1,3 +1,4 @@
+import { createHash } from "node:crypto";
 import { readFile } from "node:fs/promises";
 import path from "node:path";
 import { revalidatePath } from "next/cache";
@@ -23,7 +24,40 @@ const rowSchema = z.object({
     .passthrough(),
 });
 
-async function reviewedRows() {
+async function reviewedRows(national = false) {
+  if (national) {
+    const filename = path.join(
+      process.cwd(),
+      "..",
+      "research",
+      "unsold",
+      "national-2026-10-01",
+      "approved-import.json",
+    );
+    const contents = await readFile(filename, "utf8");
+    if (
+      createHash("sha256").update(contents).digest("hex") !==
+      "0e1cdcaa7ebae5b3e2624c44d5a047bf80e1492de7c8943cf84405a615a5a0f1"
+    )
+      throw new Error("검토한 전국 미분양 자료와 파일이 다릅니다.");
+    const schema = rowSchema.extend({
+      unsold_evidence: z
+        .object({
+          status: z.literal("confirmed"),
+          as_of: z.string().regex(/^2026-(05|07|08)-31$/),
+          region: z.string().min(1),
+          provider: z.string().min(1),
+          source_url: z.url(),
+          source_address: z.string().min(1),
+          source_file_sha256: z.string().regex(/^[a-f0-9]{64}$/),
+        })
+        .passthrough(),
+    });
+    const rows = z.array(schema).length(27).parse(JSON.parse(contents));
+    if (new Set(rows.map((row) => row.project_id)).size !== rows.length)
+      throw new Error("검토 자료에 중복 현장이 있습니다.");
+    return rows;
+  }
   const filename = path.join(
     process.cwd(),
     "..",
@@ -46,7 +80,7 @@ async function adminClient() {
   return admin ? client : null;
 }
 
-export async function GET() {
+export async function GET(request: Request) {
   const client = await adminClient();
   if (!client)
     return Response.json(
@@ -54,10 +88,34 @@ export async function GET() {
       { status: 403 },
     );
   try {
-    const rows = await reviewedRows();
+    const national =
+      new URL(request.url).searchParams.get("dataset") === "national";
+    const rows = await reviewedRows(national);
+    const { data, error } = await client
+      .from("projects")
+      .select("id,name,address,unsold_evidence")
+      .in(
+        "id",
+        rows.map((row) => row.project_id),
+      );
+    if (error) throw new Error("반영 상태 조회 실패");
+    const applied = rows.filter((row) => {
+      const current = data?.find((project) => project.id === row.project_id);
+      const previous = current?.unsold_evidence;
+      return (
+        current?.name === row.name &&
+        current.address === row.address &&
+        previous &&
+        (previous.as_of > row.unsold_evidence.as_of ||
+          (previous.as_of === row.unsold_evidence.as_of &&
+            previous.source_file_sha256 ===
+              row.unsold_evidence.source_file_sha256))
+      );
+    }).length;
     return Response.json({
       total: rows.length,
-      as_of: "2026-08-31",
+      applied,
+      as_of: national ? null : "2026-08-31",
       projects: rows.map((row) => row.name),
     });
   } catch {
@@ -85,7 +143,9 @@ export async function POST(request: Request) {
   let updated = 0,
     skipped = 0;
   try {
-    const rows = await reviewedRows();
+    const rows = await reviewedRows(
+      new URL(request.url).searchParams.get("dataset") === "national",
+    );
     for (const row of rows) {
       const { data: current, error: lookupError } = await client
         .from("projects")
